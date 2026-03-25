@@ -1,0 +1,801 @@
+[
+  
+  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Peace and Conflicts Resolution",
+    "code": "GES 312",
+    "session": "Unit 7",
+    "topics": ["Negotiation", "Definitions", "Types", "Strategies", "Concepts", "Process", "Mediation", "Characteristics", "Facilitation", "Group Dynamics", "Communication", "Barriers", "Strategy", "Conflict Resolution", "Active Listening", "Terminology", "Problem Solving", "Alternative Dispute Resolution", "Legal Studies"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  
+  
+  {
+    "type": "heading",
+    "heading": "Unit Six: Negotiation, Mediation and Facilitation",
+    "Subheading": "Core Concepts and Definitions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 231",
+    "topic": [
+      "Negotiation",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "What is the best definition of negotiation?",
+      "type": "OBJ",
+      "options": [
+        "A process of imposing decisions",
+        "A process where parties voluntarily discuss issues to reach agreement",
+        "A form of punishment",
+        "A legal mandate"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A process where parties voluntarily discuss issues to reach agreement"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Negotiation</h4>\n<p>The correct answer is <strong>B</strong>. Negotiation is fundamentally a <strong>voluntary and collaborative process</strong> where parties come together to discuss differences and find a mutually acceptable solution. It is not about forcing decisions, punishing others, or fulfilling legal mandates—though legal frameworks may sometimes structure negotiations.</p>\n<div style='margin-top: 12px;'><strong>Key principle:</strong> Effective negotiation assumes both parties have the freedom to accept or reject proposals.</div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 232",
+    "topic": [
+      "Negotiation",
+      "Types"
+    ],
+    "Question": {
+      "content": "Which of the following is NOT a recognized type of negotiation?",
+      "type": "OBJ",
+      "options": [
+        "Distributive negotiation",
+        "Integrative negotiation",
+        "Competitive negotiation",
+        "Coercive negotiation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Coercive negotiation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Types of Negotiation</h4>\n<p>The correct answer is <strong>D (Coercive negotiation)</strong>. The two classic types are <strong>distributive (win-lose)</strong> and <strong>integrative (win-win)</strong>. <strong>Competitive negotiation</strong> is often used as a synonym for distributive negotiation. <strong>Coercive negotiation</strong> is not a recognized type because negotiation, by definition, relies on voluntary participation and persuasion—coercion contradicts the voluntary nature of the process.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 233",
+    "topic": [
+      "Negotiation",
+      "Strategies"
+    ],
+    "Question": {
+      "content": "The 'win-win' approach is associated with which negotiation style?",
+      "type": "OBJ",
+      "options": [
+        "Distributive",
+        "Integrative",
+        "Avoiding",
+        "Coercive"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Integrative"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Win-Win Negotiation</h4>\n<p>The correct answer is <strong>B (Integrative)</strong>. An <strong>integrative approach</strong> focuses on collaboration, expanding available resources, and finding creative solutions that satisfy the core interests of all parties. This results in a <strong>win-win outcome</strong> where everyone benefits. In contrast, a distributive approach is win-lose—one party's gain is the other's loss.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 234",
+    "topic": [
+      "Negotiation",
+      "Concepts"
+    ],
+    "Question": {
+      "content": "What does the acronym BATNA stand for in negotiation?",
+      "type": "OBJ",
+      "options": [
+        "Best Alternative To A Negotiated Agreement",
+        "Basic Agreement To Negotiation Action",
+        "Best Action Towards New Agreement",
+        "Bargain and Trade Negotiation Act"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Best Alternative To A Negotiated Agreement"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding BATNA</h4>\n<p>The correct answer is <strong>A</strong>. BATNA stands for <strong>Best Alternative To A Negotiated Agreement</strong>. It represents your best course of action if you cannot reach an agreement with the other party. Knowing your BATNA gives you power in negotiations—you should never accept a deal that is worse than your BATNA.</p>\n<div style='margin-top: 12px;'><strong>Example:</strong> If you are job hunting, your BATNA is your next best job offer. You would not accept an offer lower than that.</div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 235",
+    "topic": [
+      "Negotiation",
+      "Process"
+    ],
+    "Question": {
+      "content": "Which of these is NOT a recognized stage in the negotiation process?",
+      "type": "OBJ",
+      "options": [
+        "Preparation",
+        "Presentation",
+        "Bargaining",
+        "Intimidation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Intimidation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Stages of Negotiation</h4>\n<p>The correct answer is <strong>D (Intimidation)</strong>. A standard negotiation process includes these stages:</p>\n<ul>\n<li><strong>Preparation:</strong> Research, set goals, determine BATNA and reservation point</li>\n<li><strong>Presentation/Opening:</strong> State positions and interests</li>\n<li><strong>Bargaining:</strong> The give-and-take exchange</li>\n<li><strong>Closure:</strong> Finalizing and documenting agreement</li>\n</ul>\n<p>Intimidation is a <strong>tactic</strong>, not a stage, and is generally considered unethical and counterproductive.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 236",
+    "topic": [
+      "Negotiation",
+      "Concepts"
+    ],
+    "Question": {
+      "content": "In negotiation, what does the term 'reservation point' refer to?",
+      "type": "OBJ",
+      "options": [
+        "The highest ideal outcome",
+        "The lowest acceptable outcome",
+        "The mediator's view",
+        "The location of negotiation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The lowest acceptable outcome"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Reservation Point</h4>\n<p>The correct answer is <strong>B</strong>. The <strong>reservation point</strong> (also called a 'walk-away' point) is the least favorable outcome you are willing to accept. Any offer below this point is unacceptable, and you would be better off pursuing your BATNA.</p>\n<div style='margin-top: 12px;'><strong>Example:</strong> In a salary negotiation, if your reservation point is $50,000, you will walk away from any offer below that amount.</div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 237",
+    "topic": [
+      "Mediation",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "How is mediation best described?",
+      "type": "OBJ",
+      "options": [
+        "A voluntary process where a neutral third party assists disputing parties",
+        "A legal judgment imposed by a court",
+        "A collective bargaining agreement",
+        "A leadership technique"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A voluntary process where a neutral third party assists disputing parties"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining Mediation</h4>\n<p>The correct answer is <strong>A</strong>. Mediation is a form of Alternative Dispute Resolution (ADR) where a <strong>neutral third party</strong> (the mediator) helps people in conflict communicate and find their own solution. Key characteristics:</p>\n<ul>\n<li><strong>Voluntary:</strong> Parties choose to participate</li>\n<li><strong>Neutral:</strong> Mediator has no stake in the outcome</li>\n<li><strong>Party-controlled:</strong> Parties decide the final agreement</li>\n</ul>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 238",
+    "topic": [
+      "Mediation",
+      "Characteristics"
+    ],
+    "Question": {
+      "content": "What is a key characteristic of the mediation process?",
+      "type": "OBJ",
+      "options": [
+        "Mediator makes the final decision",
+        "Parties retain full control of outcome",
+        "Parties cannot withdraw",
+        "Mediator is biased"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Parties retain full control of outcome"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Key Characteristic of Mediation</h4>\n<p>The correct answer is <strong>B</strong>. The defining feature of mediation is that the disputing parties <strong>retain full control over the outcome</strong>. The mediator facilitates communication and negotiation but does not impose a solution. This distinguishes mediation from:</p>\n<ul>\n<li><strong>Arbitration:</strong> Arbitrator makes binding decision</li>\n<li><strong>Litigation:</strong> Judge or jury imposes judgment</li>\n</ul>\n<p>Parties can withdraw at any time and the mediator must remain neutral and unbiased.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 239",
+    "topic": [
+      "Mediation",
+      "Types"
+    ],
+    "Question": {
+      "content": "Which type of mediation involves the mediator offering suggestions for settlement?",
+      "type": "OBJ",
+      "options": [
+        "Facilitative mediation",
+        "Evaluative mediation",
+        "Transformative mediation",
+        "Consultative mediation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Evaluative mediation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Evaluative Mediation</h4>\n<p>The correct answer is <strong>B (Evaluative mediation)</strong>. In this style, the mediator takes a more active role by:</p>\n<ul>\n<li>Assessing strengths and weaknesses of each side's case</li>\n<li>Predicting what a court might decide</li>\n<li>Actively suggesting potential solutions</li>\n</ul>\n<p>This contrasts with <strong>facilitative mediation</strong>, where the mediator's role is primarily to guide conversation without offering opinions or suggestions.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 240",
+    "topic": [
+      "Mediation",
+      "Types"
+    ],
+    "Question": {
+      "content": "What is the primary focus of transformative mediation?",
+      "type": "OBJ",
+      "options": [
+        "Winning the case",
+        "Empowerment and recognition",
+        "Speedy settlement",
+        "Financial compensation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Empowerment and recognition"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Transformative Mediation</h4>\n<p>The correct answer is <strong>B</strong>. Transformative mediation focuses on improving the relationship between parties rather than just reaching a settlement. Its two core goals are:</p>\n<ul>\n<li><strong>Empowerment:</strong> Helping each party recognize and use their own strengths and resources</li>\n<li><strong>Recognition:</strong> Helping each party acknowledge and understand the other's perspective and needs</li>\n</ul>\n<p>The theory is that when parties feel empowered and recognized, they are better able to craft their own solutions.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 241",
+    "topic": [
+      "Facilitation",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "What does the term 'facilitation' refer to?",
+      "type": "OBJ",
+      "options": [
+        "Forcing agreement among parties",
+        "Helping groups work more effectively",
+        "Delivering a lecture",
+        "Imposing authority"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Helping groups work more effectively"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Facilitation</h4>\n<p>The correct answer is <strong>B</strong>. Facilitation is a process where a neutral person (the facilitator) helps a group of people:</p>\n<ul>\n<li>Understand their common objectives</li>\n<li>Plan how to achieve those objectives</li>\n<li>Communicate effectively with each other</li>\n<li>Make decisions efficiently</li>\n</ul>\n<p>The focus is on <strong>making the group's process easier</strong>, not on directing content or forcing agreement. Unlike a lecturer or authority figure, the facilitator remains neutral about the content and focuses on the process.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 242",
+    "topic": [
+      "Facilitation",
+      "Group Dynamics",
+      "Communication"
+    ],
+    "Question": {
+      "content": "What is the primary role of a facilitator?",
+      "type": "OBJ",
+      "options": [
+        "Makes decisions for the group",
+        "Guides process but not content",
+        "Chooses solutions for participants",
+        "Acts as a lawyer"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Guides process but not content"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Role of a Facilitator</h4>\n <p>A facilitator is like a guide for a group. They focus on <strong>how</strong> the group works together (the process), not <strong>what</strong> they decide (the content).</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Functions</strong><br>\n - Keeps discussions on track<br>\n - Ensures everyone participates<br>\n - Helps the group reach its own decisions<br>\n - Does not impose their own opinions or solutions\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why Not the Others?</strong><br>\n The facilitator is neutral and does not make decisions (A), choose solutions (C), or act as a lawyer (D) who advocates for a side.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 243",
+    "topic": [
+      "Facilitation",
+      "Group Dynamics"
+    ],
+    "Question": {
+      "content": "Which of the following is NOT a role of a facilitator?",
+      "type": "OBJ",
+      "options": [
+        "Ensuring inclusive participation",
+        "Managing group dynamics",
+        "Making final decisions",
+        "Helping clarify issues"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Making final decisions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Facilitator vs. Decision-Maker</h4>\n <p>The facilitator's job is to empower the group. Making final decisions takes away that power and is not part of their role.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What Facilitators DO</strong><br>\n - Ensure inclusive participation (A)<br>\n - Manage group dynamics (B)<br>\n - Help clarify issues (D)<br>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>What Facilitators DO NOT DO</strong><br>\n They do not make final decisions (C). That responsibility belongs to the group members.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 244",
+    "topic": [
+      "Negotiation",
+      "Communication"
+    ],
+    "Question": {
+      "content": "In negotiation, what does the term 'anchoring' refer to?",
+      "type": "OBJ",
+      "options": [
+        "Setting a reference point that influences the bargaining range",
+        "Ending the negotiation",
+        "Refusing to negotiate",
+        "Signing the agreement"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Setting a reference point that influences the bargaining range"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Anchoring in Negotiation</h4>\n <p>Imagine throwing an anchor into the sea. In negotiation, the first number put on the table (the 'anchor') sets the stage and pulls the final agreement toward it.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>How it Works</strong><br>\n If a seller asks for $100 (anchor), and a buyer was thinking of $50, negotiations will likely center around a price higher than $50, because the $100 anchor has influenced the range of possible agreements.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Example</strong><br>\n <em>Used car sale:</em> Starting at $10,000 will make a final price of $8,000 feel like a win, whereas starting at $7,000 would make $8,000 feel like a loss.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 245",
+    "topic": [
+      "Negotiation",
+      "Communication"
+    ],
+    "Question": {
+      "content": "What is the process of exchanging offers and counteroffers known as?",
+      "type": "OBJ",
+      "options": [
+        "Mediation",
+        "Bargaining",
+        "Litigation",
+        "Consultation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bargaining"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Bargaining</h4>\n <p>Bargaining is the core dance of negotiation. It's the back-and-forth where each party puts forward a proposal, receives a response, and adjusts their position.</p>\n <div>\n <strong style='color: var(--strongColor);'>Distinctions</strong><br>\n - <strong>Mediation (A):</strong> A third party helps, but doesn't control the exchange of offers.<br>\n - <strong>Litigation (C):</strong> A legal process with a judge's decision.<br>\n - <strong>Consultation (D):</strong> Seeking advice, not exchanging offers.<br>\n - <strong>Bargaining (B):</strong> The direct process of making offers and counteroffers.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 246",
+    "topic": [
+      "Negotiation",
+      "Barriers"
+    ],
+    "Question": {
+      "content": "Which of the following is a barrier to effective negotiation?",
+      "type": "OBJ",
+      "options": [
+        "Preparation",
+        "Active listening",
+        "Poor communication",
+        "Creating value"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Poor communication"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Barriers to Negotiation</h4>\n <p>Poor communication is like trying to build a house with broken tools. It leads to misunderstandings, frustration, and mistrust, making it impossible to find common ground.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Barrier vs. Helpful Factor</strong><br>\n - <strong>Barrier:</strong> Poor communication (C)<br>\n - <strong>Helpful Factors:</strong> Preparation (A), Active listening (B), Creating value (D) – these all help a negotiation succeed.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 247",
+    "topic": [
+      "Negotiation",
+      "Strategy"
+    ],
+    "Question": {
+      "content": "What is the general characteristic of a good 'opening offer'?",
+      "type": "OBJ",
+      "options": [
+        "Random",
+        "Unrealistically extreme",
+        "Well-reasoned and strategic",
+        "Always final"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Well-reasoned and strategic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Crafting an Opening Offer</h4>\n <p>A good opening offer is a strategic move, not a random guess. It should be based on research, have a clear rationale, and set a favorable anchor for the rest of the negotiation.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why the Others are Wrong</strong><br>\n - <strong>Random (A):</strong> Shows lack of preparation.<br>\n - <strong>Unrealistically extreme (B):</strong> Can offend the other party and end talks.<br>\n - <strong>Always final (D):</strong> Leaves no room for the necessary give-and-take.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Best Practice</strong><br>\n Your first offer should be a reasoned position that gives you room to move, but is still grounded in reality.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 248",
+    "topic": [
+      "Mediation",
+      "Conflict Resolution"
+    ],
+    "Question": {
+      "content": "What must a mediator maintain to be effective?",
+      "type": "OBJ",
+      "options": [
+        "Partiality",
+        "Neutrality",
+        "Dominance",
+        "Avoidance"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Neutrality"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Heart of Mediation: Neutrality</h4>\n <p>Neutrality means the mediator does not favor one side over the other. This is their superpower. It allows them to be trusted by all parties, which is essential for helping them reach their own agreement.</p>\n <div>\n <strong style='color: var(--strongColor);'>What It's Not</strong><br>\n - <strong>Partiality (A):</strong> Taking sides.<br>\n - <strong>Dominance (C):</strong> Controlling the outcome.<br>\n - <strong>Avoidance (D):</strong> Ignoring the conflict.<br>\n A neutral mediator guides the process, not the result.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 249",
+    "topic": [
+      "Mediation",
+      "Process"
+    ],
+    "Question": {
+      "content": "Which of these best describes a caucus in mediation?",
+      "type": "OBJ",
+      "options": [
+        "Joint meeting",
+        "Private session between mediator and one party",
+        "Public hearing",
+        "Closing remarks"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Private session between mediator and one party"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What is a Caucus?</h4>\n <p>Imagine the mediator asking one side to step into a separate room. That's a caucus. It's a private, confidential meeting where the mediator can explore interests, test ideas, and manage emotions without the pressure of the other party being present.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Purpose of a Caucus</strong><br>\n - To discuss sensitive issues.<br>\n - To let off steam in a safe environment.<br>\n - To brainstorm options without committing publicly.<br>\n - To get a reality check on a position.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Contrast</strong><br>\n This is the opposite of a joint meeting (A), where all parties are together.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 250",
+    "topic": [
+      "Facilitation",
+      "Group Dynamics"
+    ],
+    "Question": {
+      "content": "In which situation is facilitation most useful?",
+      "type": "OBJ",
+      "options": [
+        "War situations",
+        "Group decision-making",
+        "Criminal sentencing",
+        "Surgery"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Group decision-making"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Ideal Setting for Facilitation</h4>\n <p>Facilitation shines when a group needs to make a decision together. It helps structure the discussion, manage diverse opinions, and guide the group toward a collective outcome that everyone can support.</p>\n <div>\n <strong style='color: var(--strongColor);'>Why the Others are Less Suitable</strong><br>\n - <strong>War (A):</strong> Requires command, not consensus.<br>\n - <strong>Criminal sentencing (C):</strong> A judge's authoritative decision.<br>\n - <strong>Surgery (D):</strong> A specialized, solo skill.<br>\n In group decision-making (B), facilitation is the most valuable tool for navigating complexity and ensuring all voices are heard.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 251",
+    "topic": [
+      "Communication",
+      "Active Listening"
+    ],
+    "Question": {
+      "content": "What does active listening involve?",
+      "type": "OBJ",
+      "options": [
+        "Interrupting to show authority",
+        "Demonstrating attentiveness and understanding",
+        "Staying silent always",
+        "Writing minutes only"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Demonstrating attentiveness and understanding"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Active Listening in Action</h4>\n <p>Active listening is more than just hearing words. It's a conscious effort to understand the speaker's message and show them you're doing so.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Behaviors</strong><br>\n - Maintaining eye contact.<br>\n - Nodding to show you're following.<br>\n - Summarizing what you heard ('So, what you're saying is...').<br>\n - Asking clarifying questions.<br>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>What It's Not</strong><br>\n It is not interrupting (A), passive silence (C), or just note-taking (D). It's about being fully present and engaged.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 252",
+    "topic": [
+      "Negotiation",
+      "Conflict Resolution"
+    ],
+    "Question": {
+      "content": "Which approach focuses on separating people from the problem?",
+      "type": "OBJ",
+      "options": [
+        "Transformative mediation",
+        "Distributive negotiation",
+        "Principled negotiation",
+        "Competitive negotiation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Principled negotiation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Principled Negotiation</h4>\n <p>This concept comes from the book 'Getting to Yes'. The core idea is that you should be 'soft on the people, hard on the problem'.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>How it Works</strong><br>\n Instead of attacking the other person for their stance, you treat them as a partner to solve a shared problem. This prevents personal attacks and allows for more collaborative, creative solutions.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Other Approaches</strong><br>\n Distributive (B) and Competitive (D) negotiation focus on winning and often mix the person with the problem. Transformative mediation (A) focuses on empowerment and recognition, but the phrase 'separating people from the problem' is uniquely from principled negotiation.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 253",
+    "topic": [
+      "Negotiation",
+      "Terminology"
+    ],
+    "Question": {
+      "content": "In negotiations, what does 'ZOPA' stand for?",
+      "type": "OBJ",
+      "options": [
+        "Zone of Possible Agreement",
+        "Zone of Private Arrangement",
+        "Zero Option Price Area",
+        "Zonal Organizing Process Agreement"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Zone of Possible Agreement"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding ZOPA</h4>\n <p>The Zone of Possible Agreement (ZOPA) is the sweet spot in a negotiation. It's the range where both parties' interests overlap enough that a deal is possible.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Example</strong><br>\n A buyer is willing to pay between $80 and $100. A seller is willing to accept between $70 and $90. The ZOPA is the overlapping range of <strong>$80 to $90</strong>.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why it Matters</strong><br>\n If there is no ZOPA, a deal is impossible. Identifying the ZOPA is a key step in any negotiation.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 254",
+    "topic": [
+      "Facilitation",
+      "Group Dynamics"
+    ],
+    "Question": {
+      "content": "What does a good facilitator encourage in a group?",
+      "type": "OBJ",
+      "options": [
+        "Domination by powerful members",
+        "Equal participation",
+        "One-sided decision making",
+        "Avoidance of conflict"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Equal participation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Facilitator's Goal: Inclusion</h4>\n <p>A facilitator works to level the playing field. They want to make sure everyone in the room has a chance to contribute, not just the loudest or most powerful people.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>How They Do It</strong><br>\n - Asking quieter members for their thoughts.<br>\n - Gently interrupting someone who is dominating.<br>\n - Structuring activities that allow for small-group or individual input before a big discussion.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Contrast</strong><br>\n This is the opposite of domination (A), one-sided decisions (C), or avoiding conflict (D). Facilitators help groups navigate conflict productively, not ignore it.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 255",
+    "topic": [
+      "Mediation",
+      "Conflict Resolution"
+    ],
+    "Question": {
+      "content": "What is the mediator's main goal?",
+      "type": "OBJ",
+      "options": [
+        "Make decisions",
+        "Help parties reach voluntary agreement",
+        "Represent one party",
+        "Give legal advice"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Help parties reach voluntary agreement"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Ultimate Goal of Mediation</h4>\n <p>The mediator's north star is to help the conflicting parties find their own solution. The key word is <strong>voluntary</strong>. The mediator doesn't impose a solution; they create an environment where the parties can craft one themselves that they are willing to accept.</p>\n <div>\n <strong style='color: var(--strongColor);'>What It's Not</strong><br>\n - <strong>Making decisions (A):</strong> That's a judge or arbitrator.<br>\n - <strong>Representing one party (C):</strong> That's a lawyer.<br>\n - <strong>Giving legal advice (D):</strong> That's also a lawyer, and mediators must remain neutral.<br>\n The power and responsibility for the outcome remain with the parties.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 256",
+    "topic": [
+      "Negotiation",
+      "Problem Solving"
+    ],
+    "Question": {
+      "content": "Which technique helps overcome deadlock in negotiation?",
+      "type": "OBJ",
+      "options": [
+        "Personal attacks",
+        "Brainstorming",
+        "Threats",
+        "Avoidance"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Brainstorming"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Breaking a Deadlock</h4>\n <p>When talks are stuck, it's often because both sides are fixated on a single, rigid position. Brainstorming helps break this logjam by expanding the universe of possibilities.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>How Brainstorming Helps</strong><br>\n - Shifts the focus from 'winning' to 'creating'.<br>\n - Allows for wild, non-committal ideas that can spark new thinking.<br>\n - Helps parties identify underlying interests that can be met in novel ways.<br>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Destructive Alternatives</strong><br>\n Personal attacks (A) and threats (C) make deadlock worse. Avoidance (D) simply postpones it.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 257",
+    "topic": [
+      "Negotiation",
+      "Strategy"
+    ],
+    "Question": {
+      "content": "In integrative negotiation, what do parties focus on?",
+      "type": "OBJ",
+      "options": [
+        "Dividing resources",
+        "Fixed-pie outcomes",
+        "Mutual gains",
+        "Winning at all costs"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mutual gains"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Integrative Negotiation: Win-Win</h4>\n <p>Also known as 'interest-based' or 'win-win' negotiation. It's based on the idea that there is more than one issue at stake, and by working together, parties can 'expand the pie' to create value, rather than just dividing a fixed pie.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Example</strong><br>\n Two sisters fighting over an orange (fixed pie). An integrative approach reveals one wants the peel for baking, the other wants the juice to drink. They can both get what they want (mutual gain).\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Contrast</strong><br>\n Distributive negotiation (A, B, D) focuses on 'dividing resources' in a 'fixed-pie' scenario with a goal of 'winning at all costs'.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 258",
+    "topic": [
+      "Mediation",
+      "Conflict Resolution"
+    ],
+    "Question": {
+      "content": "Why is mediation often preferred over litigation?",
+      "type": "OBJ",
+      "options": [
+        "More adversarial",
+        "Less confidential",
+        "Cost-effective and time-saving",
+        "Legally binding"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cost-effective and time-saving"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Mediation vs. Litigation</h4>\n <p>Mediation is a more efficient way to resolve disputes. Court cases (litigation) can take years and cost tens of thousands of dollars in legal fees. Mediation can often be completed in a matter of weeks or even a single day, for a fraction of the cost.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Other Advantages</strong><br>\n - <strong>Less Adversarial (A):</strong> It's cooperative, not combative.<br>\n - <strong>More Confidential (B):</strong> Court cases are public record.<br>\n - <strong>Not Always Binding (D):</strong> The parties control whether an agreement becomes binding, but that's not the primary reason for its preference.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Summary</strong><br>\n The speed and lower cost are its biggest draws for individuals and businesses.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 259",
+    "topic": [
+      "Facilitation",
+      "Communication"
+    ],
+    "Question": {
+      "content": "A facilitator uses questioning techniques mainly to do what?",
+      "type": "OBJ",
+      "options": [
+        "Lead people to predetermined answers",
+        "Clarify issues",
+        "Intimidate participants",
+        "Delay progress"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Clarify issues"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Facilitator's Tool: Questioning</h4>\n <p>A facilitator asks questions to help the group think more clearly. It's a tool for illumination, not manipulation.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Types of Clarifying Questions</strong><br>\n - <strong>Probing:</strong> 'Can you tell me more about that?'<br>\n - <strong>Paraphrasing:</strong> 'So what I'm hearing is... Is that correct?'<br>\n - <strong>Checking Assumptions:</strong> 'What leads you to believe that?'<br>\n - <strong>Exploring Options:</strong> 'What are some other ways we could look at this?'\n </div>\n <div>\n <strong style='color: var(--strongColor);'>What It's Not</strong><br>\n It's not leading (A), intimidating (C), or delaying (D). Good questions help the group move forward with greater clarity and shared understanding.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 260",
+    "topic": ["Alternative Dispute Resolution", "Mediation", "Legal Studies"],
+    "Question": {
+      "content": "What is the outcome of mediation called?",
+      "type": "OBJ",
+      "options": [
+        "Verdict",
+        "Settlement agreement",
+        "Sanction",
+        "Charge sheet"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Settlement agreement"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Mediation Outcomes</h4>\n <p>The correct answer is <strong>B (Settlement agreement)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is Mediation?</strong><br>\n Mediation is a voluntary process where a neutral third party (the mediator) helps disputing parties reach a mutually acceptable resolution. Unlike a judge or arbitrator, the mediator does not impose a decision.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Outcome: Settlement Agreement</strong><br>\n The final result of successful mediation is a <strong>settlement agreement</strong>. This is a written contract signed by all parties, outlining the terms they have agreed upon to resolve their dispute. It is binding as a contract.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why the other options are incorrect:</strong><br>\n - <strong>Verdict</strong>: A verdict is a formal decision made by a judge or jury in a court trial.<br>\n - <strong>Sanction</strong>: A sanction is a penalty imposed for breaking a rule or law.<br>\n - <strong>Charge sheet</strong>: A charge sheet is a formal document listing criminal charges against a person.\n </div>\n</div>"
+    }
+  }
+]

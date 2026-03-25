@@ -1,0 +1,753 @@
+
+
+
+```json
+[
+  {
+    "type": "heading",
+    "heading": "Culture, Gender and Conflict",
+    "Subheading": "Multiple Choice Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 381",
+    "topic": [
+      "Definitions",
+      "Culture"
+    ],
+    "Question": {
+      "content": "What does the term 'culture' refer to?",
+      "type": "OBJ",
+      "options": [
+        "The biological traits people inherit",
+        "Shared beliefs, values, norms, and practices of a group",
+        "The legal system of a country",
+        "Government policies"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Shared beliefs, values, norms, and practices of a group"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Culture</h4>\n <p>The correct answer is <strong>Shared beliefs, values, norms, and practices of a group</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is Culture?</strong><br>\n Culture is not something you are born with (biology). Instead, it is learned and shared. Think of it as the \"software\" that guides a group of people on how to live. It includes:\n <ul>\n <li><strong>Beliefs:</strong> What a group holds to be true (e.g., about the world or life).</li>\n <li><strong>Values:</strong> What a group considers important (e.g., honesty, family).</li>\n <li><strong>Norms:</strong> Unwritten rules of behavior (e.g., how to greet someone).</li>\n <li><strong>Practices:</strong> Daily habits and traditions (e.g., food, festivals).</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 382",
+    "topic": [
+      "Definitions",
+      "Gender"
+    ],
+    "Question": {
+      "content": "How is gender best defined?",
+      "type": "OBJ",
+      "options": [
+        "Biological differences between sexes",
+        "Cultural and social roles assigned to males and females",
+        "Hormonal characteristics",
+        "Genetic composition"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cultural and social roles assigned to males and females"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining Gender</h4>\n <p>The correct answer is <strong>Cultural and social roles assigned to males and females</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Gender vs. Sex</strong><br>\n It's important to distinguish between these two:\n <ul>\n <li><strong>Sex</strong> refers to the biological and physiological characteristics that define males and females (chromosomes, hormones, anatomy).</li>\n <li><strong>Gender</strong> refers to the socially constructed roles, behaviors, expressions, and identities of individuals. It's about how society expects you to act, dress, and speak based on your sex assigned at birth.</li>\n </ul>\n In short, sex is biological; gender is a social construct.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 383",
+    "topic": [
+      "Definitions",
+      "Conflict"
+    ],
+    "Question": {
+      "content": "How can conflict be described?",
+      "type": "OBJ",
+      "options": [
+        "Total agreement between parties",
+        "A struggle arising from incompatible goals",
+        "Absence of communication",
+        "A natural disaster"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A struggle arising from incompatible goals"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Conflict</h4>\n <p>The correct answer is <strong>A struggle arising from incompatible goals</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is Conflict?</strong><br>\n At its heart, conflict is about a clash. This happens when two or more people (or groups) have goals, interests, or values that cannot be achieved simultaneously. It's a natural part of human interaction. The key elements are:\n <ul>\n <li><strong>Perception:</strong> The parties believe their goals are incompatible.</li>\n <li><strong>Scarcity:</strong> There is a perceived shortage of resources (like power, money, or respect).</li>\n <li><strong>Opposition:</strong> The actions of one party interfere with the goals of the other.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 384",
+    "topic": [
+      "Conflict",
+      "Culture"
+    ],
+    "Question": {
+      "content": "What is a major cause of cultural conflict?",
+      "type": "OBJ",
+      "options": [
+        "Shared values",
+        "Cultural misunderstanding",
+        "Social harmony",
+        "Similar beliefs"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cultural misunderstanding"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Root of Cultural Conflict</h4>\n <p>The correct answer is <strong>Cultural misunderstanding</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>When Cultures Clash</strong><br>\n Conflict between different cultural groups often doesn't start from hatred. It often begins with a simple misunderstanding. For example:\n <ul>\n <li>One culture's friendly gesture (like direct eye contact) might be considered rude in another culture.</li>\n <li>Different concepts of time (being \"on time\" vs. \"event time\") can lead to frustration.</li>\n <li>Misinterpreting communication styles (loud vs. soft speech) can be seen as aggression or weakness.</li>\n </ul>\n When we lack knowledge about another culture, we judge their actions by our own cultural rules, leading to conflict. Shared values and social harmony are the opposite of conflict causes.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 385",
+    "topic": [
+      "Gender",
+      "Stereotypes"
+    ],
+    "Question": {
+      "content": "What are gender stereotypes?",
+      "type": "OBJ",
+      "options": [
+        "Accurate descriptions of all men and women",
+        "Oversimplified beliefs about gender roles",
+        "Biological markers of sex",
+        "Government regulations"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Oversimplified beliefs about gender roles"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Breaking Down Gender Stereotypes</h4>\n <p>The correct answer is <strong>Oversimplified beliefs about gender roles</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is a Stereotype?</strong><br>\n A stereotype is a fixed, over-generalized belief about a particular group of people. Gender stereotypes are assumptions about how people should act based on their gender. They are problematic because:\n <ul>\n <li>They are oversimplifications; they don't account for individual differences.</li>\n <li>They create expectations that limit people's potential (e.g., \"boys don't cry,\" \"girls aren't good at math\").</li>\n <li>They are often used to justify inequality.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 386",
+    "topic": [
+      "Conflict",
+      "Conflict Resolution"
+    ],
+    "Question": {
+      "content": "What does conflict resolution involve?",
+      "type": "OBJ",
+      "options": [
+        "Escalating disagreements",
+        "Reducing tensions and finding solutions",
+        "Promoting violence",
+        "Ignoring the problem"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Reducing tensions and finding solutions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What is Conflict Resolution?</h4>\n <p>The correct answer is <strong>Reducing tensions and finding solutions</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Goal of Resolution</strong><br>\n Conflict resolution is not about winning or losing. It is a constructive process aimed at:\n <ul>\n <li><strong>De-escalation:</strong> Calming emotions and reducing hostility between parties.</li>\n <li><strong>Communication:</strong> Creating a safe space for everyone to express their needs and feelings.</li>\n <li><strong>Problem-Solving:</strong> Working together to find a mutually acceptable solution that addresses the underlying issues.</li>\n </ul>\n The opposite would be ignoring the problem, which lets it fester, or escalating it, which makes it worse.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 387",
+    "topic": [
+      "Gender",
+      "Sociology"
+    ],
+    "Question": {
+      "content": "What does patriarchy refer to in a system?",
+      "type": "OBJ",
+      "options": [
+        "Women hold dominant authority",
+        "Men hold dominant authority",
+        "Children rule families",
+        "Authority is equally shared"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Men hold dominant authority"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Patriarchy</h4>\n <p>The correct answer is <strong>Men hold dominant authority</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is Patriarchy?</strong><br>\n Patriarchy is a social system in which men hold primary power and predominate in roles of political leadership, moral authority, social privilege, and control of property. It's not just about individual men being powerful; it's a system embedded in social structures, institutions, and norms that favors men. This system can:\n <ul>\n <li>Limit opportunities for women.</li>\n <li>Create rigid gender roles for both men and women.</li>\n <li>Be perpetuated through family structures, religion, and government.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 388",
+    "topic": [
+      "Culture",
+      "Ethics"
+    ],
+    "Question": {
+      "content": "What does the term 'cultural relativism' mean?",
+      "type": "OBJ",
+      "options": [
+        "Judging other cultures by one's own standards",
+        "Understanding cultures based on their own contexts",
+        "Rejecting all cultural differences",
+        "Forcing one's culture on others"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Understanding cultures based on their own contexts"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What is Cultural Relativism?</h4>\n <p>The correct answer is <strong>Understanding cultures based on their own contexts</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>A Key Anthropological Concept</strong><br>\n Cultural relativism is the idea that a person's beliefs and activities should be understood in terms of their own culture, not judged against the criteria of another. It is the opposite of ethnocentrism (judging another culture by your own). The goal is not to say \"anything goes,\" but to promote understanding by:\n <ul>\n <li>Suspending your own cultural biases.</li>\n <li>Learning about the history and reasoning behind a cultural practice.</li>\n <li>Seeing the world from the perspective of those within that culture.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 389",
+    "topic": [
+      "Gender",
+      "Violence"
+    ],
+    "Question": {
+      "content": "What does Gender-Based Violence (GBV) refer to?",
+      "type": "OBJ",
+      "options": [
+        "Violence caused by natural disaster",
+        "Violence directed at individuals based on gender",
+        "Violence involving only males",
+        "A political event"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Violence directed at individuals based on gender"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Gender-Based Violence</h4>\n <p>The correct answer is <strong>Violence directed at individuals based on gender</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is GBV?</strong><br>\n Gender-Based Violence is a serious human rights violation. It includes any harmful act that is perpetrated against a person's will and that is based on socially ascribed (gender) differences between males and females. Key points:\n <ul>\n <li>It stems from inequality and power imbalances.</li>\n <li>It affects people of all genders, but disproportionately affects women and girls.</li>\n <li>It can be physical, sexual, psychological, or economic in nature (e.g., domestic violence, sexual assault, female genital mutilation, forced marriage).</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 390",
+    "topic": [
+      "Conflict",
+      "Culture"
+    ],
+    "Question": {
+      "content": "Which of the following is a form of cultural conflict?",
+      "type": "OBJ",
+      "options": [
+        "Language barriers",
+        "Shared festivals",
+        "Mutual respect",
+        "Common norms"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Language barriers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Identifying Cultural Conflict</h4>\n <p>The correct answer is <strong>Language barriers</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Culture as a Source of Conflict</strong><br>\n A cultural conflict is a type of conflict that occurs when different cultural values and beliefs clash. A language barrier is a perfect example of this:\n <ul>\n <li>It prevents effective communication and can lead to frustration and misinterpretation.</li>\n <li>It can create \"in-groups\" and \"out-groups,\" fostering division and distrust.</li>\n <li>It can be a source of political and social tension in multilingual societies.</li>\n </ul>\n Shared festivals, mutual respect, and common norms are elements that promote cultural harmony, not conflict.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 391",
+    "topic": [
+      "Gender",
+      "Equality"
+    ],
+    "Question": {
+      "content": "What does gender equality promote?",
+      "type": "OBJ",
+      "options": [
+        "Equal access to opportunities for all genders",
+        "Superiority of one gender",
+        "Biological roles only",
+        "Exclusion of one sex"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Equal access to opportunities for all genders"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What is Gender Equality?</h4>\n <p>The correct answer is <strong>Equal access to opportunities for all genders</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>A Fundamental Human Right</strong><br>\n Gender equality does not mean that men and women are the same. It means that their rights, responsibilities, and opportunities will not depend on whether they are born male or female. It promotes:\n <ul>\n <li><strong>Equal opportunities</strong> in education, employment, and leadership.</li>\n <li><strong>Equal access</strong> to resources and services (like healthcare).</li>\n <li><strong>Equal value</strong> placed on the contributions of all genders in society and the economy.</li>\n </ul>\n It is about fairness and justice, ensuring everyone can reach their full potential.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 392",
+    "topic": [
+      "Gender",
+      "Sociology"
+    ],
+    "Question": {
+      "content": "What is a gender role?",
+      "type": "OBJ",
+      "options": [
+        "A natural biological function",
+        "A socially constructed expectation",
+        "A government policy",
+        "A scientific measurement"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A socially constructed expectation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining Gender Roles</h4>\n <p>The correct answer is <strong>A socially constructed expectation</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Not Biological, But Learned</strong><br>\n A gender role is a set of societal norms dictating what types of behaviors are generally considered acceptable, appropriate, or desirable for a person based on their actual or perceived sex. They are:\n <ul>\n <li><strong>Socially constructed:</strong> They are created and reinforced by society, family, media, and institutions.</li>\n <li><strong>Variable:</strong> They change over time and differ from one culture to another. For example, the color pink being for girls is a modern, Western social construct, not a biological fact.</li>\n <li><strong>Prescriptive:</strong> They tell people how they \"should\" be, rather than describing how they are.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 393",
+    "topic": [
+      "Conflict",
+      "Interpersonal Relationships"
+    ],
+    "Question": {
+      "content": "When does interpersonal conflict occur?",
+      "type": "OBJ",
+      "options": [
+        "Within a single individual",
+        "Between individuals",
+        "Between nations",
+        "In the environment"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Between individuals"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Levels of Conflict</h4>\n <p>The correct answer is <strong>Between individuals</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Interpersonal Defined</strong><br>\n The prefix \"inter-\" means \"between\" or \"among.\" Therefore, interpersonal conflict is a disagreement or struggle between two or more people. This is the most common level of conflict we face in daily life, whether with family, friends, or colleagues. It's distinct from:\n <ul>\n <li><strong>Intrapersonal conflict:</strong> A struggle within a single individual (e.g., making a difficult decision).</li>\n <li><strong>International conflict:</strong> A conflict between nations or states.</li>\n <li><strong>Environmental conflict:</strong> Conflict stemming from environmental issues.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 394",
+    "topic": [
+      "Culture",
+      "Diversity"
+    ],
+    "Question": {
+      "content": "What does the term 'cultural diversity' mean?",
+      "type": "OBJ",
+      "options": [
+        "Presence of only one culture",
+        "Uniformity of beliefs",
+        "Variety of cultural groups within a society",
+        "Absence of traditions"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Variety of cultural groups within a society"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Cultural Diversity</h4>\n <p>The correct answer is <strong>Variety of cultural groups within a society</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Richness of Human Experience</strong><br>\n Cultural diversity is the quality of diverse or different cultures, as opposed to monoculture. It's about the coexistence of a multitude of cultural groups within a single society. This includes differences in:\n <ul>\n <li>Language, religion, and ethnicity.</li>\n <li>Customs, traditions, and art forms.</li>\n <li>Social structures and ways of life.</li>\n </ul>\n A diverse society is one that is not uniform, but rather a rich mosaic of different cultural identities.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 395",
+    "topic": [
+      "Conflict Resolution",
+      "Mediation"
+    ],
+    "Question": {
+      "content": "What does mediation in conflict resolution involve?",
+      "type": "OBJ",
+      "options": [
+        "A neutral third party guiding discussion",
+        "Increasing hostility",
+        "Avoiding negotiation",
+        "Supporting one side"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A neutral third party guiding discussion"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Role of Mediation</h4>\n <p>The correct answer is <strong>A neutral third party guiding discussion</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>A Key Tool for Resolution</strong><br>\n Mediation is a voluntary process where a neutral, impartial third party (the mediator) helps people in conflict communicate effectively and reach their own mutually acceptable agreement. The mediator does not:\n <ul>\n <li>Judge who is right or wrong.</li>\n <li>Make a decision for the parties.</li>\n <li>Take sides.</li>\n </ul>\n Instead, the mediator facilitates the conversation, helps clarify issues, and explores options for a solution that works for everyone involved. It's a constructive alternative to fighting or avoidance.\n </div>\n</div>"
+    }
+  }
+]
+```
+
+
+
+```json
+[
+  {
+    "type": "Question",
+    "name": "Question 396",
+    "topic": ["Gender Studies", "Discrimination", "Social Justice"],
+    "Question": {
+      "content": "When does gender discrimination occur?",
+      "type": "OBJ",
+      "options": [
+        "Individuals are treated unfairly based on gender",
+        "People are given equal opportunities",
+        "Cultures interact peacefully",
+        "Conflict is resolved"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Individuals are treated unfairly based on gender"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Gender Discrimination</h4>\n <p>The correct answer is <strong>Individuals are treated unfairly based on gender</strong>. Gender discrimination happens when someone is treated differently or unfairly simply because of their gender, whether they are a man, woman, or non-binary person.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Simple Explanation</strong><br>\n Think of it like this: if two people do the same job equally well, but one gets paid less because of their gender, that is gender discrimination. It's about unfair treatment linked to being male, female, or another gender identity.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 397",
+    "topic": ["Culture", "Sociology", "Definitions"],
+    "Question": {
+      "content": "What are cultural norms?",
+      "type": "OBJ",
+      "options": [
+        "Written laws",
+        "Acceptable behaviors within a culture",
+        "UN conventions",
+        "Individual desires"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Acceptable behaviors within a culture"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining Cultural Norms</h4>\n <p>The correct answer is <strong>Acceptable behaviors within a culture</strong>. Cultural norms are the shared expectations and rules that guide behavior within a specific group or society.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Simple Explanation</strong><br>\n Imagine unwritten rules. For example, in some cultures, it's a norm to greet someone with a handshake, while in others, it might be a bow or a kiss on the cheek. These aren't written laws, but they are expected behaviors that help people interact smoothly.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 398",
+    "topic": ["Sociology", "Psychology", "Stereotypes"],
+    "Question": {
+      "content": "What is a stereotype?",
+      "type": "OBJ",
+      "options": [
+        "A complex understanding of people",
+        "A fixed and oversimplified idea about a group",
+        "A legal classification",
+        "A scientific law"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A fixed and oversimplified idea about a group"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Stereotypes</h4>\n <p>The correct answer is <strong>A fixed and oversimplified idea about a group</strong>. A stereotype is a widely held but overly simplified and generalized belief about a particular category of people.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Simple Explanation</strong><br>\n It's like assuming all people from a certain place are good at math, or all members of a group are loud. These ideas are often not true for individuals and ignore the rich diversity within any group. Stereotypes can be harmful because they lead to unfair judgments.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 399",
+    "topic": ["Gender Studies", "Policy", "Social Justice"],
+    "Question": {
+      "content": "What is the aim of gender mainstreaming?",
+      "type": "OBJ",
+      "options": [
+        "Eliminate gender considerations",
+        "Integrate gender perspectives into policies and programs",
+        "Promote male dominance",
+        "Focus only on women"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Integrate gender perspectives into policies and programs"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What is Gender Mainstreaming?</h4>\n <p>The correct answer is <strong>Integrate gender perspectives into policies and programs</strong>. Gender mainstreaming is a strategy to make the concerns and experiences of both women and men an integral part of the design, implementation, monitoring, and evaluation of policies and programs.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Simple Explanation</strong><br>\n Instead of creating a separate program \"for women,\" gender mainstreaming means looking at every single policy—like a transportation plan or a school curriculum—and asking, \"How will this affect men and women differently?\" and \"How can we make it fair for everyone?\"\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 400",
+    "topic": ["Conflict Resolution", "Communication", "Definitions"],
+    "Question": {
+      "content": "What does conflict escalation mean?",
+      "type": "OBJ",
+      "options": [
+        "Reducing the intensity of conflict",
+        "Increasing the severity of conflict",
+        "Resolving disagreements",
+        "Reaching compromise"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Increasing the severity of conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Conflict Escalation</h4>\n <p>The correct answer is <strong>Increasing the severity of conflict</strong>. Conflict escalation is the process by which a conflict grows in intensity, scope, or severity. It means things are getting worse.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Simple Explanation</strong><br>\n Imagine two people having a disagreement. It starts with a quiet argument. Escalation is when they start shouting, then insulting each other, and maybe even pushing. The conflict is getting more severe and harder to solve.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 401",
+    "topic": ["Gender Studies", "Inequality", "Sociology"],
+    "Question": {
+      "content": "What is one major driver of gender inequality?",
+      "type": "OBJ",
+      "options": [
+        "Equal education",
+        "Traditional gender roles",
+        "Equal employment opportunities",
+        "Shared leadership"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Traditional gender roles"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Drivers of Gender Inequality</h4>\n <p>The correct answer is <strong>Traditional gender roles</strong>. These are societal norms that assign different tasks, responsibilities, and rights to people based on their gender, often limiting opportunities for one gender, typically women and girls.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Simple Explanation</strong><br>\n Traditional gender roles are like saying \"men are the breadwinners and should be strong, while women are caregivers and should be nurturing.\" These expectations can lead to inequality because they can prevent women from pursuing careers or men from taking on caregiving roles, limiting everyone's freedom and potential.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 402",
+    "topic": ["Communication", "Culture", "Intercultural Relations"],
+    "Question": {
+      "content": "What does cross-cultural communication help to do?",
+      "type": "OBJ",
+      "options": [
+        "Increase misunderstanding",
+        "Improve interactions among different cultures",
+        "Encourage discrimination",
+        "Promote stereotypes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Improve interactions among different cultures"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Purpose of Cross-Cultural Communication</h4>\n <p>The correct answer is <strong>Improve interactions among different cultures</strong>. It is the process of recognizing and understanding differences and similarities between people from different cultural backgrounds to communicate effectively.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Simple Explanation</strong><br>\n Imagine you're from a culture where direct eye contact is polite, but you're talking to someone from a culture where it's considered aggressive. Cross-cultural communication helps you learn that difference so you can adjust your behavior, avoid misunderstandings, and build a better relationship.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 403",
+    "topic": ["Culture", "Sociology", "Values"],
+    "Question": {
+      "content": "What is a cultural value?",
+      "type": "OBJ",
+      "options": [
+        "An individual’s personal hobby",
+        "A society’s belief about what is important",
+        "A scientific theory",
+        "A government tax rule"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A society’s belief about what is important"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining Cultural Values</h4>\n <p>The correct answer is <strong>A society’s belief about what is important</strong>. Cultural values are the core principles and ideals that a society collectively upholds. They guide what is considered good, desirable, and worthy.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Simple Explanation</strong><br>\n Values are like a society's moral compass. For one culture, \"freedom\" and \"individuality\" might be top values. For another, \"community,\" \"family,\" and \"respect for elders\" might be most important. These values shape laws, traditions, and how people behave every day.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 404",
+    "topic": ["Gender Studies", "Conflict", "Sociology"],
+    "Question": {
+      "content": "What does gender conflict often arise from?",
+      "type": "OBJ",
+      "options": [
+        "Limited gender roles and expectations",
+        "Equal rights",
+        "Balanced opportunities",
+        "Mutual respect"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Limited gender roles and expectations"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Roots of Gender Conflict</h4>\n <p>The correct answer is <strong>Limited gender roles and expectations</strong>. Conflict arises when rigid, restrictive expectations based on gender clash with an individual's desires, abilities, or sense of fairness.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Simple Explanation</strong><br>\n Think of it like this: if a society says women \"must\" be the only ones to raise children, and a man wants to be a stay-at-home dad, this can create conflict. Or if a woman wants to be a leader in a field where people believe only men can lead, that can cause conflict. The struggle happens because the limited roles don't fit everyone.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 405",
+    "topic": ["Conflict Resolution", "Management", "Definitions"],
+    "Question": {
+      "content": "What is conflict management?",
+      "type": "OBJ",
+      "options": [
+        "Eliminating all conflict forever",
+        "Handling conflict constructively",
+        "Avoiding communication",
+        "Promoting violence"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Handling conflict constructively"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Conflict Management</h4>\n <p>The correct answer is <strong>Handling conflict constructively</strong>. Conflict management is the practice of dealing with disagreements in a way that minimizes negative outcomes and, when possible, leads to positive ones.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Simple Explanation</strong><br>\n It's not about avoiding arguments or pretending they don't exist. Instead, it's about having the skills to have difficult conversations, listen to each other, and find a solution that everyone can live with. It's turning a fight into a productive discussion.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 406",
+    "topic": ["Culture", "Psychology", "Adaptation"],
+    "Question": {
+      "content": "What does the term 'cultural shock' refer to?",
+      "type": "OBJ",
+      "options": [
+        "Happiness from cultural change",
+        "Disorientation experienced in a new culture",
+        "Complete cultural understanding",
+        "Deep knowledge of one’s own culture"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Disorientation experienced in a new culture"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What is Culture Shock?</h4>\n <p>The correct answer is <strong>Disorientation experienced in a new culture</strong>. Culture shock is the feeling of confusion, anxiety, and uncertainty that people often feel when they move to a new country or are immersed in a culture different from their own.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Simple Explanation</strong><br>\n Imagine suddenly moving to a place where you don't speak the language, the food is strange, people stand at a different distance when they talk, and you don't know the rules. You might feel lost, frustrated, and homesick. That's culture shock. It's a normal, temporary reaction to being in an unfamiliar environment.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 407",
+    "topic": ["Gender Studies", "Culture", "Human Rights"],
+    "Question": {
+      "content": "Which of the following is a gender-related cultural practice?",
+      "type": "OBJ",
+      "options": [
+        "Equal employment rights",
+        "Female genital mutilation",
+        "Free education for all",
+        "Modern technology use"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Female genital mutilation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Identifying Gender-Related Cultural Practices</h4>\n <p>The correct answer is <strong>Female genital mutilation (FGM)</strong>. FGM is a harmful traditional practice that involves the partial or total removal of external female genitalia for non-medical reasons. It is a practice directly linked to cultural beliefs about gender, sexuality, and control over women's bodies.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Simple Explanation</strong><br>\n This question asks you to spot which practice is explicitly tied to a person's gender because of culture. Equal rights and free education are efforts to correct inequality, not causes of it. FGM is a practice done specifically to girls and women based on deep-rooted cultural beliefs about what it means to be female.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 408",
+    "topic": ["Conflict Resolution", "Communication", "Innovation"],
+    "Question": {
+      "content": "When can conflict be positive?",
+      "type": "OBJ",
+      "options": [
+        "When it leads to destruction",
+        "When it promotes understanding and innovation",
+        "When it causes hatred",
+        "When it breaks relationships"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "When it promotes understanding and innovation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Positive Side of Conflict</h4>\n <p>The correct answer is <strong>When it promotes understanding and innovation</strong>. Not all conflict is bad. When handled constructively, it can challenge old ideas, surface hidden issues, and lead to creative solutions.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Simple Explanation</strong><br>\n Think of a team working on a project. If everyone agrees all the time, they might miss a better idea. A respectful debate (a form of conflict) can help them see different perspectives, leading to a more innovative and successful outcome. It's the process of arguing about ideas, not attacking each other.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 409",
+    "topic": ["Culture", "Tolerance", "Sociology"],
+    "Question": {
+      "content": "What does cultural tolerance mean?",
+      "type": "OBJ",
+      "options": [
+        "Rejecting foreign cultures",
+        "Respecting cultural differences",
+        "Accepting one culture as superior",
+        "Preventing cultural interaction"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Respecting cultural differences"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Cultural Tolerance</h4>\n <p>The correct answer is <strong>Respecting cultural differences</strong>. Cultural tolerance is the ability and willingness to accept and respect the beliefs, practices, and values of people from different cultures, even if they differ from one's own.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Simple Explanation</strong><br>\n It doesn't mean you have to agree with everything another culture does. It means you recognize their right to have their own traditions and you treat people with dignity, regardless of their cultural background. It's about coexisting peacefully without trying to change or judge them.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 410",
+    "topic": ["Gender Studies", "Empowerment", "Social Justice"],
+    "Question": {
+      "content": "What does gender empowerment focus on?",
+      "type": "OBJ",
+      "options": [
+        "Restricting women’s participation",
+        "Enhancing the abilities of all genders to make decisions",
+        "Promoting inequality",
+        "Reinforcing stereotypes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Enhancing the abilities of all genders to make decisions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining Gender Empowerment</h4>\n <p>The correct answer is <strong>Enhancing the abilities of all genders to make decisions</strong>. Gender empowerment is about giving people, regardless of their gender, the power and agency to control their own lives and make important choices.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Simple Explanation</strong><br>\n It's more than just \"helping women.\" It's about creating a world where a person's gender doesn't dictate their opportunities. This includes having the power to make decisions about their education, career, finances, health, and family life. It's about ensuring everyone has a voice and the ability to act on it.\n </div>\n</div>"
+    }
+  }
+]

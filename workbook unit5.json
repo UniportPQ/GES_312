@@ -1,0 +1,762 @@
+[
+  
+  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Peace and Conflicts Resolution",
+    "code": "GES 312",
+    "session": "Unit 5",
+    "topics": ["Conflict Analysis", "Definitions", "Organizational Behavior", "Conflict Resolution", "Thomas-Kilmann Model", "Communication", "Strategies"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  
+  {
+    "type": "heading",
+    "heading": "Unit Five: Conflict Analysis and Conflict Resolution",
+    "Subheading": "Foundations of Conflict Analysis"
+  },
+  {
+    "type": "Question",
+    "name": "Question 211",
+    "topic": ["Conflict Analysis", "Definitions"],
+    "Question": {
+      "content": "What is the primary focus of conflict analysis?",
+      "type": "OBJ",
+      "options": [
+        "Eliminating all conflicts immediately",
+        "Understanding the causes, actors, and dynamics of conflict",
+        "Blaming parties involved in the conflict",
+        "Avoiding negotiations"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Understanding the causes, actors, and dynamics of conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Goal of Conflict Analysis</h4>\n <p>The solution key indicates the answer is <strong>B (Understanding the causes, actors, and dynamics of conflict)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>A Step-by-Step Approach</strong><br>\n Conflict analysis is like a doctor diagnosing a disease before prescribing treatment. You can't solve a conflict if you don't understand it. The analysis focuses on:<br>\n 1. <strong>Causes</strong>: What are the root issues? (e.g., inequality, historical grievances, resource scarcity).<br>\n 2. <strong>Actors</strong>: Who are the main parties involved? What are their interests, goals, and relationships?<br>\n 3. <strong>Dynamics</strong>: How does the conflict change over time? What are the key events, triggers, and escalators?\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 212",
+    "topic": ["Conflict Analysis", "Organizational Behavior"],
+    "Question": {
+      "content": "Which of the following is a major cause of conflict in organizations?",
+      "type": "OBJ",
+      "options": [
+        "Cooperation",
+        "Effective leadership",
+        "Resource scarcity",
+        "Clear communication"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Resource scarcity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Conflict in Organizations</h4>\n <p>The solution key indicates the answer is <strong>C (Resource scarcity)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why Resource Scarcity Causes Conflict</strong><br>\n In any organization—a company, a family, or a government—resources like money, time, staff, equipment, and opportunities are often limited. When different departments or individuals need the same limited resource to achieve their own goals, competition and conflict arise. For example, two project managers fighting over the same skilled employee or two departments competing for a smaller budget are classic examples of resource scarcity causing conflict.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 213",
+    "topic": ["Conflict Resolution", "Definitions"],
+    "Question": {
+      "content": "What is the process of resolving a dispute by bringing in a neutral third party who facilitates dialogue called?",
+      "type": "OBJ",
+      "options": [
+        "Competition",
+        "Mediation",
+        "Negotiation",
+        "Domination"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mediation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Mediation</h4>\n <p>The solution key indicates the answer is <strong>B (Mediation)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Role of a Mediator</strong><br>\n Think of a mediator as a referee or a guide. They don't make the final decision for the parties in conflict. Instead, they are a neutral third party whose job is to:<br>\n 1. Create a safe space for communication.<br>\n 2. Help each side clarify their interests and needs.<br>\n 3. Facilitate dialogue so the parties can find their own mutually acceptable solution.<br>\n Mediation is different from arbitration, where the third party makes a binding decision.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 214",
+    "topic": ["Conflict Resolution", "Thomas-Kilmann Model"],
+    "Question": {
+      "content": "A win-win solution is typically associated with what conflict-handling style?",
+      "type": "OBJ",
+      "options": [
+        "Avoiding",
+        "Compromising",
+        "Collaborating",
+        "Competing"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Collaborating"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Win-Win Solutions</h4>\n <p>The solution key indicates the answer is <strong>C (Collaborating)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Collaborating Style</strong><br>\n The Thomas-Kilmann model has five conflict styles. The collaborating style is the only one that aims for a 'win-win' outcome. This involves:<br>\n 1. <strong>High Assertiveness</strong>: Firmly advocating for one's own needs and interests.<br>\n 2. <strong>High Cooperativeness</strong>: Deeply understanding and trying to meet the other party's needs.<br>\n The goal is not just to split the difference (compromise), but to find a creative solution that fully satisfies the core interests of both sides. It's about 'we both get what we truly want.'\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 215",
+    "topic": ["Conflict Resolution", "Thomas-Kilmann Model"],
+    "Question": {
+      "content": "The Thomas-Kilmann model identifies all the following conflict-handling styles except which one?",
+      "type": "OBJ",
+      "options": [
+        "Competing",
+        "Avoiding",
+        "Smoothing",
+        "Collaborating"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Smoothing"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Thomas-Kilmann Model</h4>\n <p>The solution key indicates the answer is <strong>C (Smoothing)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Five Conflict-Handling Styles</strong><br>\n The Thomas-Kilmann model is a classic framework. It defines five styles based on two dimensions: assertiveness and cooperativeness. They are:<br>\n 1. <strong>Competing</strong> (Assertive, Uncooperative)<br>\n 2. <strong>Collaborating</strong> (Assertive, Cooperative)<br>\n 3. <strong>Compromising</strong> (Moderate Assertiveness, Moderate Cooperativeness)<br>\n 4. <strong>Avoiding</strong> (Unassertive, Uncooperative)<br>\n 5. <strong>Accommodating</strong> (Unassertive, Cooperative).<br>\n 'Smoothing' is an older term, sometimes used as a synonym for accommodating, but it is not one of the five core styles in the official Thomas-Kilmann model.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 216",
+    "topic": ["Conflict Analysis", "Definitions"],
+    "Question": {
+      "content": "Which term refers to the visible part of a conflict, usually triggered by underlying issues?",
+      "type": "OBJ",
+      "options": [
+        "Manifest conflict",
+        "Latent conflict",
+        "Structural conflict",
+        "Perceived conflict"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Manifest conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Levels of Conflict</h4>\n <p>The solution key indicates the answer is <strong>A (Manifest conflict)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Seeing the Conflict</strong><br>\n Conflict isn't always visible. Think of an iceberg:<br>\n 1. <strong>Latent Conflict</strong>: This is the hidden part, the conditions that set the stage for conflict (e.g., poverty, inequality, historical grievances). The conflict isn't openly expressed yet.<br>\n 2. <strong>Manifest Conflict</strong>: This is the tip of the iceberg—the visible, open expression of conflict. It's the stage where we see actual behaviors like arguments, strikes, protests, or violence. These actions are triggered by the underlying latent conditions.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 217",
+    "topic": ["Conflict Analysis", "Definitions"],
+    "Question": {
+      "content": "What is the term for a situation in which parties believe their goals are incompatible even if they are not?",
+      "type": "OBJ",
+      "options": [
+        "Felt conflict",
+        "Perceived conflict",
+        "Manifest conflict",
+        "Latent conflict"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Perceived conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Perceived vs. Felt Conflict</h4>\n <p>The solution key indicates the answer is <strong>B (Perceived conflict)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>A Crucial Distinction</strong><br>\n - <strong>Perceived Conflict</strong> is cognitive. It happens when one or both parties become aware or believe that their goals are in opposition. The conflict may be based on a misunderstanding or misperception. For example, two coworkers might think they are competing for the same promotion when, in reality, there are two identical positions available.<br>\n - <strong>Felt Conflict</strong> is emotional. It's when the parties start to feel anxiety, tension, or hostility towards each other because of the perceived conflict. It moves from a thought to a feeling.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 218",
+    "topic": ["Conflict Analysis"],
+    "Question": {
+      "content": "What is usually the first step in conflict analysis?",
+      "type": "OBJ",
+      "options": [
+        "Implementing sanctions",
+        "Identifying stakeholders",
+        "Drafting a peace agreement",
+        "Assigning blame"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Identifying stakeholders"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Where to Begin?</h4>\n <p>The solution key indicates the answer is <strong>B (Identifying stakeholders)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The First Step: Who is Involved?</strong><br>\n Before you can understand the causes of a conflict or how it's unfolding, you must first know who is involved. This step is called <strong>stakeholder identification</strong>. A stakeholder is any person, group, or institution that has an interest in the conflict, can influence it, or is affected by it. This includes the primary parties (those in direct conflict), secondary parties (those with indirect interests, like allies or family), and third parties (like mediators or governments). You can't analyze a conflict without first mapping out the people involved.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 219",
+    "topic": ["Conflict Analysis", "Definitions"],
+    "Question": {
+      "content": "What is a conflict in which parties openly express their disagreement known as?",
+      "type": "OBJ",
+      "options": [
+        "Latent conflict",
+        "Manifest conflict",
+        "Structural conflict",
+        "Suppressed conflict"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Manifest conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Open Expression</h4>\n <p>The solution key indicates the answer is <strong>B (Manifest conflict)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Conflict in Action</strong><br>\n As discussed in Question 216, a <strong>manifest conflict</strong> is the stage where the conflict becomes visible and open. It is the overt behavior that results from the underlying latent conditions and the perceptions of the parties involved. This open expression can take many forms, from peaceful protests, strikes, and legal battles to violent acts like riots and warfare. The key is that the disagreement is no longer hidden; it is being acted upon.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 220",
+    "topic": ["Conflict Resolution"],
+    "Question": {
+      "content": "Which of these is not a method of conflict resolution?",
+      "type": "OBJ",
+      "options": [
+        "Negotiation",
+        "Arbitration",
+        "Mediation",
+        "Escalation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Escalation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Resolution vs. Escalation</h4>\n <p>The solution key indicates the answer is <strong>D (Escalation)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Understanding the Terms</strong><br>\n - <strong>Negotiation</strong>, <strong>Mediation</strong>, and <strong>Arbitration</strong> are all forms of Alternative Dispute Resolution (ADR). They are structured processes aimed at de-escalating a conflict and finding a resolution.<br>\n - <strong>Escalation</strong>, on the other hand, is the exact opposite. It refers to the process of a conflict intensifying—becoming more hostile, involving more parties, and employing more severe tactics. It is a phase of conflict, not a method for resolving it.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 211",
+    "topic": [
+      "Communication",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "How does arbitration differ from mediation?",
+      "type": "OBJ",
+      "options": [
+        "Is always biased",
+        "Encourages open discussion",
+        "Makes a binding decision",
+        "Avoids listening to parties"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Makes a binding decision"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Arbitration vs Mediation</h4>\n <p>The key difference is that an arbitrator acts like a private judge and makes a decision that the parties must follow. In mediation, the mediator helps parties talk but does not impose a solution.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>In Simple Terms</strong><br>\n <ul>\n <li><strong>Mediation:</strong> A neutral person helps you talk and find your own solution. You don't have to agree.</li>\n <li><strong>Arbitration:</strong> A neutral person listens to both sides and then makes a final, binding decision.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 212",
+    "topic": [
+      "Communication",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "Which analytical tool is used to examine 'actors, interests, and relationships'?",
+      "type": "OBJ",
+      "options": [
+        "SWOT analysis",
+        "Conflict mapping",
+        "PESTLE analysis",
+        "Value chain analysis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Conflict mapping"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What is Conflict Mapping?</h4>\n <p>Conflict mapping is a tool designed to analyze the different people involved (actors), what they want (interests), and how they are connected (relationships). It helps to see the whole picture of a conflict.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why Not the Others?</strong><br>\n <ul>\n <li><strong>SWOT:</strong> Analyzes Strengths, Weaknesses, Opportunities, and Threats (used in business strategy).</li>\n <li><strong>PESTLE:</strong> Analyzes external factors: Political, Economic, Social, Technological, Legal, Environmental.</li>\n <li><strong>Value Chain:</strong> Analyzes the activities a business performs to create value.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 213",
+    "topic": [
+      "Communication"
+    ],
+    "Question": {
+      "content": "Which of the following is an example of an interpersonal conflict?",
+      "type": "OBJ",
+      "options": [
+        "Conflict between two employees",
+        "Conflict between departments",
+        "Conflict in national politics",
+        "Conflict between companies"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Conflict between two employees"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Interpersonal Conflict Defined</h4>\n <p>\"Interpersonal\" means between individuals. This type of conflict happens on a personal, one-on-one level.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Levels of Conflict</strong><br>\n <ul>\n <li><strong>Interpersonal:</strong> Between two or more individuals (e.g., two employees, two friends).</li>\n <li><strong>Intergroup/Intragroup:</strong> Between or within groups (e.g., departments, teams).</li>\n <li><strong>International/Interstate:</strong> Between countries or large political entities.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 214",
+    "topic": [
+      "Communication"
+    ],
+    "Question": {
+      "content": "What is the primary source of structural conflict?",
+      "type": "OBJ",
+      "options": [
+        "Personal differences",
+        "Organizational arrangements or power imbalances",
+        "Random events",
+        "Emotional responses"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Organizational arrangements or power imbalances"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Structural Conflict</h4>\n <p>This type of conflict isn't about personality. It's built into the structure of an organization or system. For example, limited resources, unclear roles, or unequal power can create conflict regardless of who the people are.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Common Examples</strong><br>\n <ul>\n <li>Two managers fighting over a limited budget.</li>\n <li>An employee with a title but no real authority to make decisions.</li>\n <li>Unfair company policies that treat some employees better than others.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 215",
+    "topic": [
+      "Communication"
+    ],
+    "Question": {
+      "content": "Which conflict management style involves delaying or ignoring a conflict?",
+      "type": "OBJ",
+      "options": [
+        "Competing",
+        "Accommodating",
+        "Avoiding",
+        "Collaborating"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Avoiding"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Avoiding Style</h4>\n <p>The avoiding style is characterized by a deliberate choice to postpone, withdraw from, or simply ignore the conflict. It's often used when the issue is trivial or when the potential costs of confronting it are too high.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Other Styles for Context</strong><br>\n <ul>\n <li><strong>Competing:</strong> Pursuing one's own concerns at the other's expense.</li>\n <li><strong>Accommodating:</strong> Neglecting one's own concerns to satisfy the other.</li>\n <li><strong>Collaborating:</strong> Working together to find a win-win solution.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 216",
+    "topic": [
+      "Communication"
+    ],
+    "Question": {
+      "content": "What type of conflict involves parties willingly working together for a mutually beneficial outcome?",
+      "type": "OBJ",
+      "options": [
+        "Compromising",
+        "Collaborating",
+        "Competing",
+        "Avoiding"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Collaborating"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Collaborating Style</h4>\n <p>Collaborating is the win-win approach. It requires the highest level of trust and effort, as both parties work together to fully satisfy the concerns of everyone involved. The goal is to find a creative solution that meets all needs.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Collaborating vs. Compromising</strong><br>\n <p>Compromising is often a lose-lose or partial win, where both sides give something up. Collaborating is about finding a new solution where both sides get what they want.</p>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 217",
+    "topic": [
+      "Communication"
+    ],
+    "Question": {
+      "content": "What is a major benefit of effective conflict resolution?",
+      "type": "OBJ",
+      "options": [
+        "Low morale",
+        "Improved relationships",
+        "Increased hostility",
+        "Reduced trust"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Improved relationships"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Positive Side of Conflict</h4>\n <p>When handled correctly, conflict resolution clears the air, builds trust, and strengthens relationships. It allows people to understand each other's perspectives better and find common ground.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Benefits</strong><br>\n <ul>\n <li><strong>Improved Communication:</strong> People learn to express needs clearly.</li>\n <li><strong>Stronger Trust:</strong> Successfully navigating conflict builds confidence in the relationship.</li>\n <li><strong>Innovation:</strong> Working through disagreements can lead to new, better ideas.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 218",
+    "topic": [
+      "Communication"
+    ],
+    "Question": {
+      "content": "In conflict analysis, what does the term \"root cause\" refer to?",
+      "type": "OBJ",
+      "options": [
+        "Superficial symptoms",
+        "Underlying fundamental issues",
+        "A temporary disagreement",
+        "Individual emotions"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Underlying fundamental issues"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Root Cause Analysis</h4>\n <p>The root cause is the deep, fundamental reason why a conflict exists. It's not the surface-level argument (the symptom), but the core issue that, if addressed, would prevent the conflict from recurring.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Example</strong><br>\n <p><strong>Symptom:</strong> Two coworkers argue about who should do a task.<br>\n<strong>Root Cause:</strong> The job descriptions are unclear and overlapping, creating a structural conflict.</p>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 219",
+    "topic": [
+      "Communication"
+    ],
+    "Question": {
+      "content": "Which of the following is an effective conflict prevention strategy?",
+      "type": "OBJ",
+      "options": [
+        "Encouraging rumors",
+        "Providing clear communication channels",
+        "Avoiding feedback",
+        "Promoting secrecy"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Providing clear communication channels"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Preventing Conflict</h4>\n <p>Many conflicts start from misunderstandings, lack of information, or feeling unheard. Establishing clear and open channels for communication ensures that information is shared, feedback is given constructively, and people have a safe way to voice concerns before they escalate.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Prevention Strategies</strong><br>\n <ul>\n <li>Setting clear roles and expectations.</li>\n <li>Providing regular, constructive feedback.</li>\n <li>Creating a culture of transparency and respect.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 220",
+    "topic": [
+      "Communication"
+    ],
+    "Question": {
+      "content": "How does emotional intelligence help in conflict resolution?",
+      "type": "OBJ",
+      "options": [
+        "Increasing aggression",
+        "Encouraging emotional manipulation",
+        "Enhancing empathy and communication",
+        "Promoting avoidance"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Enhancing empathy and communication"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Role of Emotional Intelligence (EQ)</h4>\n <p>Emotional intelligence is the ability to understand and manage your own emotions and the emotions of others. In a conflict, high EQ helps you:</p>\n <ul>\n <li><strong>Stay Calm:</strong> Manage your own frustration and anger.</li>\n <li><strong>Be Empathetic:</strong> See the situation from the other person's perspective.</li>\n <li><strong>Communicate Clearly:</strong> Express your needs without blaming, and listen actively to theirs.</li>\n </ul>\n <p>This shifts the focus from fighting to problem-solving.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 221",
+    "topic": [
+      "Communication"
+    ],
+    "Question": {
+      "content": "In negotiation, what does the acronym BATNA stand for?",
+      "type": "OBJ",
+      "options": [
+        "Best Alternative To a Negotiated Agreement",
+        "Basic Agreement Terms Negotiation Approach",
+        "Broad Analysis of Tension and Needs Assessment",
+        "Best Attempt To Negotiate Amicably"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Best Alternative To a Negotiated Agreement"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding BATNA</h4>\n <p>BATNA is your \"plan B\"—the best thing you can do if the current negotiation fails and you cannot reach an agreement. Knowing your BATNA gives you power because you know you can walk away if the deal isn't as good as your alternative.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why It Matters</strong><br>\n <p>If you are negotiating a salary and have a job offer from another company (a strong BATNA), you can confidently ask for what you're worth. Without a BATNA, you might feel forced to accept a bad deal.</p>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 222",
+    "topic": [
+      "Communication"
+    ],
+    "Question": {
+      "content": "Which conflict style prioritizes maintaining relationships over achieving personal goals?",
+      "type": "OBJ",
+      "options": [
+        "Competing",
+        "Avoiding",
+        "Accommodating",
+        "Collaborating"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Accommodating"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Accommodating Style</h4>\n <p>Accommodating is the opposite of competing. A person using this style puts the other person's needs and the preservation of the relationship above their own goals. It is often used when the issue is more important to the other person or when preserving harmony is critical.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>When It's Used</strong><br>\n <ul>\n <li>To build up social credits for later issues.</li>\n <li>When you realize you are wrong and it's better to admit it.</li>\n <li>When the issue is simply not that important to you.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 223",
+    "topic": [
+      "Communication"
+    ],
+    "Question": {
+      "content": "How is a compromise best described?",
+      "type": "OBJ",
+      "options": [
+        "One party wins completely",
+        "Both parties lose everything",
+        "Each party gives up something to reach a middle ground",
+        "A refusal to negotiate"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Each party gives up something to reach a middle ground"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Compromise Style</h4>\n <p>Compromise is often seen as a \"split the difference\" or \"lose-lose\" solution. Both parties give up something they wanted to find a mutually acceptable, middle-ground solution. It's faster than collaborating but doesn't fully satisfy either party's initial goals.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Example</strong><br>\n <p>Two friends want to eat at different restaurants. One wants Italian, the other wants Chinese. They compromise by going to a new restaurant that serves fusion food, which is okay for both but not their first choice.</p>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 224",
+    "topic": [
+      "Communication"
+    ],
+    "Question": {
+      "content": "When does conflict escalation occur?",
+      "type": "OBJ",
+      "options": [
+        "Tensions decrease",
+        "Parties adopt conciliatory attitudes",
+        "Conflict intensifies over time",
+        "Parties agree quickly"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Conflict intensifies over time"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Conflict Escalation</h4>\n <p>Escalation is the process by which a conflict grows in intensity and severity. It moves from a small disagreement to something much larger. Tactics become harsher, emotions run higher, and the original issue often gets lost as the conflict becomes about \"winning.\"</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Signs of Escalation</strong><br>\n <ul>\n <li>Parties stop listening and start blaming.</li>\n <li>Issues become generalized (e.g., \"You always do this!\" ).</li>\n <li>More people or issues are drawn into the fight.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 225",
+    "topic": [
+      "Communication"
+    ],
+    "Question": {
+      "content": "Which tool is used to understand the sequence of events and timeline of a conflict?",
+      "type": "OBJ",
+      "options": [
+        "Conflict chronology",
+        "Conflict tree",
+        "Conflict timeline",
+        "Conflict funnel"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Conflict timeline"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Conflict Timeline</h4>\n <p>A conflict timeline is a visual tool that maps out the key events in a conflict in chronological order. It helps to see the big picture, understand how the conflict developed, and identify critical moments or turning points.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Other Tools for Context</strong><br>\n <ul>\n <li><strong>Conflict Tree:</strong> Analyzes the core problem (trunk), its causes (roots), and its effects (branches).</li>\n <li><strong>Conflict Funnel:</strong> A less common term, generally used to describe the narrowing of focus in analysis.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 226",
+    "topic": [
+      "Communication"
+    ],
+    "Question": {
+      "content": "According to the conflict triangle (ABC model), what does the acronym ABC stand for?",
+      "type": "OBJ",
+      "options": [
+        "Attitude, Behaviour, Contradiction",
+        "Action, Bargain, Cooperation",
+        "Agenda, Bias, Control",
+        "Awareness, Belief, Conflict"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Attitude, Behaviour, Contradiction"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The ABC Triangle (Galtung's Triangle)</h4>\n <p>This model, developed by Johan Galtung, suggests that conflict is not a single thing but a triangle of three interconnected components:</p>\n <ul>\n <li><strong>A - Attitude:</strong> The parties' perceptions, assumptions, and emotions (e.g., stereotypes, hostility, fear).</li>\n <li><strong>B - Behaviour:</strong> The actions taken, which can be cooperative or coercive (e.g., negotiation, threats, violence).</li>\n <li><strong>C - Contradiction:</strong> The underlying incompatibility of goals, interests, or resources (the root issue).</li>\n </ul>\n <p>To resolve a conflict, you often need to address all three corners of the triangle, not just one.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 227",
+    "topic": [
+      "Communication"
+    ],
+    "Question": {
+      "content": "What is a major cause of intercultural conflict?",
+      "type": "OBJ",
+      "options": [
+        "Shared beliefs",
+        "Similar communication styles",
+        "Differences in values and norms",
+        "High levels of trust"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Differences in values and norms"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Intercultural Conflict</h4>\n <p>This type of conflict arises when people from different cultural backgrounds interact. The primary driver is often a clash of core values, beliefs, norms, or communication styles that are considered \"normal\" in one culture but might be seen as offensive or strange in another.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Common Triggers</strong><br>\n <ul>\n <li><strong>Direct vs. Indirect Communication:</strong> One culture values direct, blunt honesty; another values politeness and saving face.</li>\n <li><strong>Individualism vs. Collectivism:</strong> Prioritizing personal goals vs. group harmony.</li>\n <li><strong>Perceptions of Time:</strong> Being strictly on time vs. having a more fluid, relational approach.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Unit Five: Conflict Resolution Foundations",
+    "Subheading": "Review Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 228",
+    "topic": [
+      "Conflict Resolution",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "What is the primary characteristic of a conflict?",
+      "type": "OBJ",
+      "options": [
+        "Complete agreement between parties",
+        "Perceived incompatibility of interests or goals",
+        "Absence of communication",
+        "Physical violence"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Perceived incompatibility of interests or goals"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Conflict</h4>\n<p>The correct answer is <strong>B</strong>. Conflict arises when there is a <strong>perceived incompatibility</strong> of interests, goals, values, or needs between parties. It is important to note that conflict is based on perception—it exists when parties believe their interests are opposed, regardless of whether they actually are.</p>\n<div style='margin-top: 12px;'><strong>Key Point:</strong> Conflict is not necessarily negative; it can be a catalyst for positive change when managed effectively.</div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 229",
+    "topic": [
+      "Conflict Resolution",
+      "Strategies"
+    ],
+    "Question": {
+      "content": "Which conflict resolution style involves a high concern for self and a low concern for others?",
+      "type": "OBJ",
+      "options": [
+        "Accommodating",
+        "Avoiding",
+        "Competing",
+        "Collaborating"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Competing"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Thomas-Kilmann Conflict Styles</h4>\n<p>The correct answer is <strong>C (Competing)</strong>. The Thomas-Kilmann model identifies five conflict styles based on two dimensions: concern for self and concern for others. <strong>Competing</strong> is characterized by high concern for self and low concern for others—it is assertive and uncooperative, focusing on winning at the other's expense.</p>\n<div style='margin-top: 12px;'><strong>Other styles:</strong> Collaborating (high/high), Compromising (moderate/moderate), Avoiding (low/low), Accommodating (low/high).</div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 230",
+    "topic": [
+      "Conflict Resolution",
+      "Strategies"
+    ],
+    "Question": {
+      "content": "The collaborating conflict style is best used when:",
+      "type": "OBJ",
+      "options": [
+        "The issue is trivial",
+        "Maintaining relationships is unimportant",
+        "A creative solution is needed and both parties' concerns are important",
+        "Quick decision is required"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A creative solution is needed and both parties' concerns are important"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>When to Use Collaborating</h4>\n<p>The correct answer is <strong>C</strong>. Collaborating (win-win) is most appropriate when the issue is complex, both parties' concerns are too important to compromise, and a creative solution that fully satisfies everyone is needed. It requires time and trust but often produces the most durable outcomes.</p>\n</div>"
+    }
+  }
+]

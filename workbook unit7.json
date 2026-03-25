@@ -1,0 +1,753 @@
+[
+  
+  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Peace and Conflicts Resolution",
+    "code": "GES 312",
+    "session": "Unit 7",
+    "topics": ["International Organizations", "Peacekeeping", "United Nations", "African Union", "Regional Organizations", "Peace Enforcement", "UN Charter", "ECOWAS", "Liberia", "Conflict Resolution", "Definitions", "UN Structure", "Peace-building", "Post-Conflict Reconstruction", "NATO", "Kosovo", "West Africa", "UN History", "Peace Operations", "Post-Conflict", "African Standby Force", "UN System", "International Relations", "Peacebuilding", "Development"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  
+  {
+    "type": "heading",
+    "heading": "Unit Seven: International Organizations in Peacekeeping, Peace Enforcement, and Peace-Building Operations"
+  },
+  {
+    "type": "Question",
+    "name": "Question 261",
+    "topic": ["International Organizations", "Peacekeeping", "United Nations"],
+    "Question": {
+      "content": "Which international organization is primarily responsible for global peacekeeping operations?",
+      "type": "OBJ",
+      "options": [
+        "ECOWAS",
+        "United Nations",
+        "AU",
+        "NATO"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "United Nations"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Primary Peacekeeping Body</h4>\n <p>The correct answer is <strong>B (United Nations)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The UN's Role</strong><br>\n The United Nations (UN) is the world's foremost intergovernmental organization tasked with maintaining international peace and security. Its Charter gives it the mandate to deploy peacekeeping missions to help countries navigate the difficult path from conflict to peace.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Understanding the Options:</strong><br>\n - <strong>ECOWAS (Economic Community of West African States)</strong>: A regional economic bloc that also conducts peace operations, but only within West Africa.<br>\n - <strong>AU (African Union)</strong>: A continental body that leads peace missions in Africa, often in cooperation with the UN.<br>\n - <strong>NATO (North Atlantic Treaty Organization)</strong>: A military alliance focused on collective defense of its members, though it has also been involved in peace enforcement.<br>\n - <strong>United Nations</strong>: Has a global mandate and is responsible for the vast majority of peacekeeping operations worldwide.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 262",
+    "topic": ["United Nations", "Peacekeeping", "International Organizations"],
+    "Question": {
+      "content": "What is the main organ of the UN responsible for authorizing peacekeeping missions?",
+      "type": "OBJ",
+      "options": [
+        "General Assembly",
+        "ECOSOC",
+        "Security Council",
+        "Secretariat"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Security Council"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The UN's Peacekeeping Authority</h4>\n <p>The correct answer is <strong>C (Security Council)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Security Council's Primary Responsibility</strong><br>\n Under the UN Charter, the Security Council has the primary responsibility for maintaining international peace and security. Therefore, it is the only body that can authorize the establishment of a UN peacekeeping operation. Its five permanent members (China, France, Russia, the UK, and the US) have veto power over such decisions.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Roles of Other Organs:</strong><br>\n - <strong>General Assembly</strong>: Discusses and makes recommendations on peace and security issues but cannot authorize peacekeeping missions.<br>\n - <strong>ECOSOC (Economic and Social Council)</strong>: Focuses on economic, social, and environmental issues, not security.<br>\n - <strong>Secretariat</strong>: The administrative arm, led by the Secretary-General, which implements the decisions of the Security Council and manages peacekeeping operations.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 263",
+    "topic": ["African Union", "Peacekeeping", "Regional Organizations"],
+    "Question": {
+      "content": "Which of the following is a regional organization that conducts peacekeeping in Africa?",
+      "type": "OBJ",
+      "options": [
+        "ASEAN",
+        "EU",
+        "AU",
+        "OAS"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "AU"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Africa's Regional Peacekeeper</h4>\n <p>The correct answer is <strong>C (AU)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The African Union's Role</strong><br>\n The African Union (AU) is the primary continental organization in Africa. It has a legal and political mandate to intervene in conflicts on the continent, often deploying peace support operations. It works closely with the UN and regional economic communities like ECOWAS.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Understanding the Options:</strong><br>\n - <strong>ASEAN (Association of Southeast Asian Nations)</strong>: Focuses on economic and political cooperation in Southeast Asia, not peacekeeping.<br>\n - <strong>EU (European Union)</strong>: Conducts peace and security missions, but primarily in Europe and its neighborhood.<br>\n - <strong>AU (African Union)</strong>: The correct answer, dedicated to peace and security in Africa.<br>\n - <strong>OAS (Organization of American States)</strong>: Focuses on the Americas, not Africa.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 264",
+    "topic": ["United Nations", "Peace Enforcement", "UN Charter"],
+    "Question": {
+      "content": "Peace enforcement operations are usually authorized under which Chapter of the UN Charter?",
+      "type": "OBJ",
+      "options": [
+        "Chapter IV",
+        "Chapter VI",
+        "Chapter VII",
+        "Chapter IX"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Chapter VII"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Legal Basis for Force</h4>\n <p>The correct answer is <strong>C (Chapter VII)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Chapter VII: Action with Respect to Threats to the Peace</strong><br>\n This chapter of the UN Charter grants the Security Council the power to take enforcement action to maintain or restore international peace and security. This includes imposing sanctions and authorizing the use of military force, which is the essence of peace enforcement.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Distinction:</strong><br>\n - <strong>Chapter VI (Pacific Settlement of Disputes)</strong>: Authorizes traditional peacekeeping, which is based on consent and non-use of force except in self-defense. Peace enforcement under Chapter VII does not require the consent of the parties and allows for a more robust use of force.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 265",
+    "topic": ["ECOWAS", "Peace Enforcement", "Regional Organizations", "Liberia"],
+    "Question": {
+      "content": "ECOWAS carried out peace enforcement in which conflict through ECOMOG?",
+      "type": "OBJ",
+      "options": [
+        "Rwanda genocide",
+        "Liberia civil war",
+        "Kosovo crisis",
+        "Haiti intervention"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Liberia civil war"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>A Landmark Regional Intervention</h4>\n <p>The correct answer is <strong>B (Liberia civil war)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>ECOMOG and the Liberian Civil War</strong><br>\n In 1990, the Economic Community of West African States (ECOWAS) established its Monitoring Group (ECOMOG) to intervene in the First Liberian Civil War. This was a pioneering peace enforcement operation, as it was the first time a regional organization took such robust action without an explicit UN mandate at the outset. It marked a significant moment in African peacekeeping.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 266",
+    "topic": ["Peacekeeping", "Conflict Resolution", "Definitions"],
+    "Question": {
+      "content": "Which of the following best describes peacekeeping?",
+      "type": "OBJ",
+      "options": [
+        "Use of heavy force to defeat aggressors",
+        "Monitoring ceasefires with consent of parties",
+        "Imposing sanctions",
+        "Disarmament without negotiation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Monitoring ceasefires with consent of parties"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Classic Definition of Peacekeeping</h4>\n <p>The correct answer is <strong>B (Monitoring ceasefires with consent of parties)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Principles of Peacekeeping</strong><br>\n Traditional peacekeeping is guided by three core principles:<br>\n 1. <strong>Consent of the parties</strong>: The mission is deployed only with the agreement of the main conflicting parties.<br>\n 2. <strong>Impartiality</strong>: The mission does not take sides in the conflict.<br>\n 3. <strong>Non-use of force except in self-defense and defense of the mandate</strong>: Peacekeepers are lightly armed and use force only to protect themselves or their mission, not to enforce a peace.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 267",
+    "topic": ["United Nations", "Peacekeeping", "UN Structure"],
+    "Question": {
+      "content": "Which UN department manages peacekeeping missions?",
+      "type": "OBJ",
+      "options": [
+        "Department of Political Affairs",
+        "Department of Peace Operations",
+        "Department of Disarmament",
+        "UNDP"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Department of Peace Operations"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The UN's Peacekeeping Headquarters</h4>\n <p>The correct answer is <strong>B (Department of Peace Operations)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Department of Peace Operations (DPO)</strong><br>\n Formerly known as the Department of Peacekeeping Operations (DPKO), the DPO is the UN secretariat department dedicated to the planning, management, and support of all UN peacekeeping and political field missions. It provides strategic guidance, logistical support, and oversees the personnel deployed in the field.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 268",
+    "topic": ["Peace-building", "Conflict Resolution", "Post-Conflict Reconstruction"],
+    "Question": {
+      "content": "Peace-building mainly focuses on:",
+      "type": "OBJ",
+      "options": [
+        "Imposing military rule",
+        "Enforcing ceasefire with force",
+        "Addressing root causes of conflict",
+        "Border demarcation only"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Addressing root causes of conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Building a Sustainable Peace</h4>\n <p>The correct answer is <strong>C (Addressing root causes of conflict)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is Peace-building?</strong><br>\n Peace-building is a comprehensive, long-term process aimed at preventing the outbreak, escalation, or recurrence of conflict. It goes beyond just ending the fighting. Its main focus is to address the underlying structural and root causes of a conflict, such as political marginalization, economic inequality, historical grievances, and weak state institutions.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Examples of Peace-building Activities:</strong><br>\n - Reforming the security sector (army, police).<br>\n - Strengthening the rule of law and human rights.<br>\n - Supporting economic recovery and development.<br>\n - Facilitating political dialogue and reconciliation processes.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 269",
+    "topic": ["NATO", "Peace Enforcement", "Kosovo"],
+    "Question": {
+      "content": "NATO participated in peace enforcement during which conflict?",
+      "type": "OBJ",
+      "options": [
+        "Sierra Leone conflict",
+        "Kosovo intervention",
+        "South Sudan crisis",
+        "Haiti earthquake"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Kosovo intervention"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>NATO's First Major Combat Operation</h4>\n <p>The correct answer is <strong>B (Kosovo intervention)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Operation Allied Force</strong><br>\n In 1999, NATO conducted a 78-day air campaign against the Federal Republic of Yugoslavia to stop the humanitarian crisis and ethnic cleansing in Kosovo. This was a classic example of peace enforcement, as it was a coercive military action authorized without the consent of the Yugoslav government, aimed at imposing a solution. Following the air campaign, NATO led the Kosovo Force (KFOR), a peacekeeping mission.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 270",
+    "topic": ["ECOWAS", "Regional Organizations", "West Africa"],
+    "Question": {
+      "content": "Which organization oversees peace support operations in West Africa?",
+      "type": "OBJ",
+      "options": [
+        "SADC",
+        "ECOWAS",
+        "AU",
+        "OPEC"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ECOWAS"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Region's Peace and Security Architect</h4>\n <p>The correct answer is <strong>B (ECOWAS)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>ECOWAS's Role</strong><br>\n The Economic Community of West African States (ECOWAS) is the primary regional political and economic bloc in West Africa. It has developed a robust peace and security architecture, including its standby force (ECOMOG and later ESWF), to intervene in conflicts within its member states. It has led peace support operations in Liberia, Sierra Leone, Guinea-Bissau, and others.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 271",
+    "topic": ["United Nations", "Peace-building", "UN History"],
+    "Question": {
+      "content": "The UN Peacebuilding Commission was established in:",
+      "type": "OBJ",
+      "options": [
+        "1995",
+        "2000",
+        "2005",
+        "2010"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2005"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>A New Tool for Peace</h4>\n <p>The correct answer is <strong>C (2005)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Peacebuilding Commission (PBC)</strong><br>\n The PBC was established in 2005 by the UN General Assembly and the Security Council. It was created as a result of the 2005 World Summit, which recognized the need for a dedicated mechanism to support countries in their transition from war to peace. It serves as an advisory body, bringing together key actors to coordinate international efforts and marshal resources for post-conflict peacebuilding and recovery.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 272",
+    "topic": ["United Nations", "Peace Operations", "Definitions"],
+    "Question": {
+      "content": "Which of the following is NOT a type of UN peace operation?",
+      "type": "OBJ",
+      "options": [
+        "Peacekeeping",
+        "Peace enforcement",
+        "Combat invasion",
+        "Peacebuilding"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Combat invasion"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Distinguishing UN Operations</h4>\n <p>The correct answer is <strong>C (Combat invasion)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What the UN Does and Does Not Do</strong><br>\n The UN's peace operations fall under the broad categories of peacekeeping, peace enforcement, and peacebuilding. However, the UN does not conduct combat invasion <br> This term implies a war of aggression to conquer territory or overthrow a government, which is fundamentally incompatible with the UN Charter's principles of sovereign equality and the prohibition of the use of force except in self-defense or when authorized by the Security Council.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 273",
+    "topic": ["United Nations", "Peace-building", "Post-Conflict"],
+    "Question": {
+      "content": "Which body provides advisory support to post-conflict states in the UN system?",
+      "type": "OBJ",
+      "options": [
+        "Peacebuilding Commission",
+        "World Bank",
+        "UNESCO",
+        "ILO"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Peacebuilding Commission"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Advisory Hub for Post-Conflict States</h4>\n <p>The correct answer is <strong>A (Peacebuilding Commission)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The PBC's Advisory Role</strong><br>\n The Peacebuilding Commission's primary function is to provide strategic advice and support to countries emerging from conflict. It brings together the government of the post-conflict state, troop- and police-contributing countries, donor nations, and international financial institutions to develop integrated peacebuilding strategies and ensure sustained international attention and resources.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 274",
+    "topic": ["African Union", "Peacekeeping", "African Standby Force"],
+    "Question": {
+      "content": "The African Union's standby military structure for peace operations is called:",
+      "type": "OBJ",
+      "options": [
+        "African Standby Force",
+        "Rapid Deployment Unit",
+        "African Response Team",
+        "ECOWAS Standby Group"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "African Standby Force"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Africa's Peacekeeping Instrument</h4>\n <p>The correct answer is <strong>A (African Standby Force)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The African Standby Force (ASF)</strong><br>\n The ASF is a continental multi-disciplinary military, police, and civilian standby capability. It was established as a key component of the African Peace and Security Architecture (APSA). The ASF is designed to enable the African Union to respond rapidly to crises and deploy peace support operations across the continent. It is composed of standby contingents from five African sub-regions (North, West, Central, East, and Southern Africa).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 275",
+    "topic": [
+      "Peacekeeping",
+      "Conflict Resolution"
+    ],
+    "Question": {
+      "content": "Which of these is a major component of peace-building?",
+      "type": "OBJ",
+      "options": [
+        "War escalation",
+        "DDR (Disarmament, Demobilization, and Reintegration)",
+        "Attacking insurgents",
+        "Imposing sanctions"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "DDR (Disarmament, Demobilization, and Reintegration)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Peace-building</h4>\n <p><strong>Peace-building</strong> is the long-term process of creating conditions for lasting peace. It's like rebuilding a community after a storm—you don't just stop the rain, you repair homes, rebuild trust, and create systems to prevent future damage.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why DDR is Correct:</strong><br>\n DDR (Disarmament, Demobilization, and Reintegration) is a cornerstone of peace-building. Think of it as a structured way to help former fighters return to civilian life.\n <ul>\n <li><strong>Disarmament:</strong> Collecting weapons from combatants. This reduces the immediate threat of violence.</li>\n <li><strong>Demobilization:</strong> Formally disbanding armed groups. This is like officially ending the conflict structure.</li>\n <li><strong>Reintegration:</strong> Helping former soldiers find jobs, education, and a place in society. This addresses the root causes of conflict by giving people a stake in peace.</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why the Others Are Incorrect:</strong><br>\n War escalation (A) and attacking insurgents (C) are acts of war, which break down peace. Imposing sanctions (D) can be a tool of pressure, but it's often a punitive measure, not a constructive component of building peace from within.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 276",
+    "topic": [
+      "Peacekeeping"
+    ],
+    "Question": {
+      "content": "Peace enforcement is different from peacekeeping because it:",
+      "type": "OBJ",
+      "options": [
+        "Requires consent",
+        "Uses coercive military force",
+        "Is non-military",
+        "Focuses on economic development"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Uses coercive military force"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Peacekeeping vs. Peace Enforcement</h4>\n <p>Imagine a security guard at a mall. <strong>Peacekeeping</strong> is like the guard politely asking a group to stop fighting. <strong>Peace enforcement</strong> is when the guard is authorized to physically step in and stop the fight if they don't listen.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Difference:</strong><br>\n The core distinction lies in the use of force and consent.\n <ul>\n <li><strong>Peacekeeping:</strong> Operates with the consent of the main parties and uses force only in self-defense or to defend the mission's mandate.</li>\n <li><strong>Peace Enforcement:</strong> Does not require consent from the conflicting parties. It is authorized to use <strong>coercive military force</strong> to restore peace and security, often under Chapter VII of the UN Charter.</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why the Others Are Incorrect:</strong><br>\n (A) 'Requires consent' is a key feature of peacekeeping, not enforcement. (C) 'Is non-military' is false; both are military-led operations. (D) 'Focuses on economic development' is more aligned with peace-building, which is a long-term activity that follows peacekeeping or enforcement.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 277",
+    "topic": [
+      "International Organizations",
+      "Peacekeeping"
+    ],
+    "Question": {
+      "content": "Which European organization also carries out peace operations?",
+      "type": "OBJ",
+      "options": [
+        "EU",
+        "OPEC",
+        "FIFA",
+        "IOC"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "EU"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>European Organizations in Peace Operations</h4>\n <p>While the UN is the most famous, regional organizations like the European Union (EU) play a crucial role in maintaining peace in their own backyard.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The European Union (EU):</strong><br>\n The EU conducts its own peace operations, known as <strong>Common Security and Defence Policy (CSDP) missions</strong>. These can be military or civilian and are deployed to stabilize regions, train local security forces, and support the rule of law. Examples include missions in Bosnia and Herzegovina (Operation Althea), the Central African Republic, and Somalia.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why the Others Are Incorrect:</strong><br>\n <strong>OPEC</strong> (B) is a cartel of oil-producing countries focused on petroleum policy. <strong>FIFA</strong> (C) governs international soccer. <strong>IOC</strong> (D) is the International Olympic Committee. None of these have a mandate for peace operations.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 278",
+    "topic": [
+      "UN System",
+      "International Relations"
+    ],
+    "Question": {
+      "content": "The UN Security Council has how many permanent members?",
+      "type": "OBJ",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "5"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The UN Security Council's Permanent Members</h4>\n <p>The UN Security Council (UNSC) has 15 members total. Five of these are permanent members, often called the <strong>P5</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The P5:</strong>\n <ul>\n <li>China</li>\n <li>France</li>\n <li>Russia (formerly the Soviet Union)</li>\n <li>United Kingdom</li>\n <li>United States</li>\n </ul>\n These five nations hold a special power: the <strong>veto</strong>. Any one of them can block the adoption of any substantive resolution, giving them immense influence over global peace and security decisions.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>The Remaining 10:</strong><br>\n The other 10 members are non-permanent, elected by the UN General Assembly for two-year terms, ensuring regional representation.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 279",
+    "topic": [
+      "International Organizations",
+      "Peacekeeping"
+    ],
+    "Question": {
+      "content": "Which international organization supported the peace process in Bosnia and Herzegovina?",
+      "type": "OBJ",
+      "options": [
+        "AU",
+        "ECOWAS",
+        "EU",
+        "NATO"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "NATO"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Peace Process in Bosnia and Herzegovina</h4>\n <p>The conflict in Bosnia and Herzegovina (1992-1995) was one of Europe's most brutal wars since WWII. A successful peace process required a powerful, active military force to enforce the peace agreement.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>NATO's Role:</strong><br>\n NATO played a decisive role. After the <strong>Dayton Agreement</strong> was signed in 1995, NATO led the <strong>Implementation Force (IFOR)</strong>, a 60,000-strong military force tasked with supervising the military aspects of the peace deal. This was later followed by a smaller Stabilization Force (SFOR). NATO's presence was critical to separating the warring parties and creating a secure environment for the political and civilian peace-building that followed.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why the Others Are Incorrect:</strong><br>\n While the EU (C) played a significant role in post-conflict reconstruction and eventually took over policing missions, the primary military stabilization force that enabled the peace process was led by <strong>NATO (D)</strong>. The AU (African Union) and ECOWAS (Economic Community of West African States) are regional organizations focused on Africa.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 280",
+    "topic": [
+      "Peacekeeping"
+    ],
+    "Question": {
+      "content": "The primary goal of peacekeeping is to:",
+      "type": "OBJ",
+      "options": [
+        "Conquer territories",
+        "Maintain ceasefires and protect civilians",
+        "Supply weapons to rebels",
+        "Form new governments"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Maintain ceasefires and protect civilians"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Primary Goal of Peacekeeping</h4>\n <p>Peacekeeping is about creating a stable space for peace to take root. It's not about winning a war; it's about stopping the fighting and protecting people caught in the middle.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Core Objectives:</strong>\n <ul>\n <li><strong>Maintain Ceasefires:</strong> Peacekeepers monitor agreements, create buffer zones, and build confidence between former enemies to prevent a relapse into war.</li>\n <li><strong>Protect Civilians:</strong> In modern peacekeeping, protecting civilians from violence is a primary mandate. This is often the most dangerous and critical part of the job, especially in conflicts where civilians are deliberately targeted.</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why the Others Are Incorrect:</strong><br>\n (A) 'Conquer territories' is the goal of warfare, the opposite of peacekeeping. (C) 'Supply weapons to rebels' would be fueling conflict. (D) 'Form new governments' is a part of peace-building, but it's not the primary, immediate goal of a peacekeeping mission, which focuses on security first.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 281",
+    "topic": [
+      "UN System",
+      "Peacekeeping"
+    ],
+    "Question": {
+      "content": "UN peacekeepers are commonly known as:",
+      "type": "OBJ",
+      "options": [
+        "Green Berets",
+        "Blue Helmets",
+        "Red Berets",
+        "Blue Cross"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Blue Helmets"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Symbol of UN Peacekeepers</h4>\n <p>The most recognizable symbol of a UN peacekeeper is the blue helmet or beret. This is not just a fashion choice; it's a critical identifier.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why Blue?</strong><br>\n The color blue was chosen because it is not typically associated with any national military. It represents the UN's international, impartial, and neutral status. When a peacekeeper wears a blue helmet, it signals to all parties that they are there to protect, not to fight for one side or the other. This uniform is what gives them the nickname \"Blue Helmets.\"\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why the Others Are Incorrect:</strong><br>\n <strong>Green Berets</strong> (A) are the U.S. Army Special Forces. <strong>Red Berets</strong> (C) are worn by various military units, including paratroopers in some nations. <strong>Blue Cross</strong> (D) is a humanitarian symbol, but it's not the official nickname for UN peacekeepers.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 282",
+    "topic": [
+      "International Organizations",
+      "Peacekeeping"
+    ],
+    "Question": {
+      "content": "Which organization led AMISOM in Somalia?",
+      "type": "OBJ",
+      "options": [
+        "UNICEF",
+        "AU",
+        "EU",
+        "NATO"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "AU"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>AMISOM: A Regional Peacekeeping Mission</h4>\n <p>AMISOM stands for the <strong>African Union Mission in Somalia</strong>. It was a major peace support operation authorized by the African Union (AU) and later endorsed by the UN Security Council.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The African Union's Role:</strong><br>\n The AU took the lead in Somalia, a country plagued by civil war and the militant group Al-Shabaab. AMISOM's goal was to protect the Somali government, support the Somali security forces, and create a secure environment for the delivery of humanitarian aid. This mission is a prime example of regional organizations taking responsibility for peace and security in their own continent, a principle enshrined in the UN Charter's Chapter VIII.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why the Others Are Incorrect:</strong><br>\n <strong>UNICEF</strong> (A) is a UN children's agency, not a military peacekeeping organization. While the <strong>EU</strong> (C) and <strong>NATO</strong> (D) have their own peace operations, AMISOM was fundamentally an African Union-led mission. The UN provided logistical and financial support, but the leadership and troops were from African nations.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 283",
+    "topic": [
+      "Peacebuilding"
+    ],
+    "Question": {
+      "content": "Peace-building programs often include:",
+      "type": "OBJ",
+      "options": [
+        "Capacity-building of institutions",
+        "Bombing campaigns",
+        "Border militarization",
+        "Airstrikes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Capacity-building of institutions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Building Blocks of Peace</h4>\n <p>If peacekeeping is about stopping the immediate fighting, peace-building is about creating the foundations so the fighting doesn't start again. It's a long-term, holistic process.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Capacity-Building of Institutions:</strong><br>\n This is a core component. When a country emerges from conflict, its government institutions (police, courts, civil service) are often weak, corrupt, or non-existent. Peace-building programs work to:\n <ul>\n <li>Train and professionalize police forces so they protect citizens, not oppress them.</li>\n <li>Reform the judiciary to ensure fair and impartial justice.</li>\n <li>Support public administration so the government can deliver basic services like water, electricity, and schools.</li>\n </ul>\n Strengthening these institutions builds public trust in the government and provides a non-violent way to resolve disputes.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why the Others Are Incorrect:</strong><br>\n Bombing campaigns (B), border militarization (C), and airstrikes (D) are all military acts of force that would escalate a conflict, not build peace.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 284",
+    "topic": [
+      "UN System",
+      "Peacekeeping"
+    ],
+    "Question": {
+      "content": "Which of these is a challenge to UN peacekeeping operations?",
+      "type": "OBJ",
+      "options": [
+        "Adequate funding",
+        "Strong host-country support",
+        "Political interference by member states",
+        "Global consensus on all issues"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Political interference by member states"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Challenges Facing UN Peacekeeping</h4>\n <p>UN peacekeeping is a complex political and military endeavor that faces numerous obstacles. One of the most significant is the political nature of the UN itself.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Political Interference by Member States:</strong><br>\n The UN Security Council (UNSC) is made up of member states with their own geopolitical interests. This leads to several problems:\n <ul>\n <li><strong>Veto Power:</strong> A single permanent member can block a mission from being authorized, or force it to have a weak mandate to serve its own interests.</li>\n <li><strong>Troop Contributions:</strong> Countries may offer troops for political or financial reasons, sometimes from nations with poor human rights records.</li>\n <li><strong>Mandate Limitations:</strong> The UNSC may give a mission an unrealistic mandate without providing the resources (troops, equipment, clear rules of engagement) needed to accomplish it.</li>\n </ul>\n This political interference can severely hamstring a mission's ability to protect civilians or implement its mandate effectively.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why the Others Are Not Challenges:</strong><br>\n (A) 'Adequate funding' and (D) 'Global consensus' are actually the opposite of challenges; they are things that would make peacekeeping easier but are often lacking. (B) 'Strong host-country support' is essential for success; its absence is the real challenge.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 285",
+    "topic": [
+      "Conflict Resolution",
+      "Peacebuilding"
+    ],
+    "Question": {
+      "content": "What is the term for rebuilding trust between conflicting groups?",
+      "type": "OBJ",
+      "options": [
+        "Reconciliation",
+        "Militarization",
+        "Occupation",
+        "Resistance"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Reconciliation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Heart of Lasting Peace: Reconciliation</h4>\n <p>Ending a war on paper with a treaty is only the first step. For peace to be sustainable, the people who were on opposite sides must be able to live together again. That process is called reconciliation.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What Reconciliation Involves:</strong><br>\n It's a long, difficult, society-wide process that goes beyond simply stopping the violence. It aims to heal fractured relationships and build a shared future. Key components often include:\n <ul>\n <li><strong>Truth-telling:</strong> Establishing truth commissions (like in South Africa) to uncover the facts of past abuses.</li>\n <li><strong>Justice and Accountability:</strong> Prosecuting the worst offenders for war crimes to end a culture of impunity.</li>\n <li><strong>Reparations:</strong> Providing some form of compensation to victims.</li>\n <li><strong>Dialogue and Healing:</strong> Creating spaces for different communities to meet, share experiences, and rebuild trust.</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why the Others Are Incorrect:</strong><br>\n Militarization (B), occupation (C), and resistance (D) are all terms associated with conflict, division, and the use of force—the exact opposite of rebuilding trust.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 286",
+    "topic": [
+      "Peacekeeping"
+    ],
+    "Question": {
+      "content": "The term “robust peacekeeping” refers to:",
+      "type": "OBJ",
+      "options": [
+        "No use of force",
+        "Limited force to protect civilians",
+        "Using heavy weapons to attack enemies",
+        "Economic sanctions"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Limited force to protect civilians"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Robust Peacekeeping</h4>\n <p>Traditional peacekeeping was based on consent and using force only in self-defense. In the 1990s, failures to protect civilians (like in Rwanda and Srebrenica) led to a shift. Robust peacekeeping is the middle ground between passive observation and active war-fighting.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Features:</strong>\n <ul>\n <li><strong>Proactive Mandate:</strong> It gives peacekeepers the authority to use force at the tactical level to protect civilians who are under imminent threat of violence.</li>\n <li><strong>Limited and Defensive:</strong> It is not about \"winning\" a war. The use of force is meant to be proportionate, limited in scope, and is a last resort to fulfill the mission's protection mandate.</li>\n <li><strong>Still Impartial:</strong> The goal remains to maintain impartiality, even while using force against a specific actor that is attacking civilians.</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why the Others Are Incorrect:</strong><br>\n (A) 'No use of force' describes traditional peacekeeping. (C) 'Using heavy weapons to attack enemies' describes war-fighting or peace enforcement, not peacekeeping. (D) 'Economic sanctions' is a diplomatic/economic tool, not a peacekeeping tactic.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 287",
+    "topic": [
+      "UN System",
+      "Development"
+    ],
+    "Question": {
+      "content": "Which UN agency often supports peace-building through development projects?",
+      "type": "OBJ",
+      "options": [
+        "WHO",
+        "UNDP",
+        "WFP",
+        "ICAO"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "UNDP"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The UN's Development Arm for Peace</h4>\n <p>While other UN agencies provide crucial humanitarian aid, the United Nations Development Programme (UNDP) is the lead agency for long-term development, which is a cornerstone of peace-building.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>UNDP's Role in Peace-building:</strong><br>\n UNDP works to address the root causes of conflict by focusing on structural issues. Their work includes:\n <ul>\n <li><strong>Strengthening Rule of Law:</strong> Helping countries build effective, fair judicial systems and security forces.</li>\n <li><strong>Promoting Democratic Governance:</strong> Supporting elections, parliamentary development, and anti-corruption efforts.</li>\n <li><strong>Restoring Livelihoods:</strong> Creating jobs and economic opportunities for ex-combatants and war-affected communities.</li>\n <li><strong>Reintegrating Displaced People:</strong> Helping refugees and internally displaced persons (IDPs) return home safely and rebuild their lives.</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why the Others Are Incorrect:</strong><br>\n <strong>WHO</strong> (A) is the World Health Organization, focused on public health. <strong>WFP</strong> (C) is the World Food Programme, which provides life-saving food aid. <strong>ICAO</strong> (D) is the International Civil Aviation Organization, which sets standards for air travel. While all contribute to stability, <strong>UNDP</strong> is the primary development agency whose entire mission is about building sustainable institutions and livelihoods.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 288",
+    "topic": [
+      "Peacekeeping"
+    ],
+    "Question": {
+      "content": "Peace enforcement mandates allow:",
+      "type": "OBJ",
+      "options": [
+        "Only observation",
+        "Use of force without full consent",
+        "Only humanitarian aid",
+        "Political negotiations only"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Use of force without full consent"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Peace Enforcement Mandates</h4>\n <p>Peace enforcement is a high-stakes tool used when a ceasefire is not in place or when one party is actively working to undermine the peace. It's a step up from robust peacekeeping.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Characteristics:</strong>\n <ul>\n <li><strong>Chapter VII Authority:</strong> Peace enforcement missions are authorized under Chapter VII of the UN Charter, which deals with \"threats to the peace, breaches of the peace, and acts of aggression.\"</li>\n <li><strong>Coercive Force:</strong> The defining feature is the explicit authorization to use \"all necessary means\" or \"coercive military force\" to achieve their objectives.</li>\n <li><strong>Consent Not Required:</strong> Unlike peacekeeping, these missions do not require the consent of the conflicting parties. They are designed to impose a peace when the warring parties are unwilling or unable to stop fighting themselves.</li>\n </ul>\n Examples include NATO's intervention in Bosnia (IFOR) and the UN-mandated operation in Somalia (UNITAF) in the early 1990s.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why the Others Are Incorrect:</strong><br>\n (A) 'Only observation' is a very limited observer mission. (C) 'Only humanitarian aid' is a humanitarian operation. (D) 'Political negotiations only' is diplomacy. All of these are separate from the military power inherent in a peace enforcement mandate.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 289",
+    "topic": [
+      "UN System",
+      "Regional Organizations"
+    ],
+    "Question": {
+      "content": "Which organization uses “Chapter VIII” of the UN Charter for regional peacekeeping?",
+      "type": "OBJ",
+      "options": [
+        "ECOWAS",
+        "FIFA",
+        "WTO",
+        "IMF"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ECOWAS"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Chapter VIII: The UN's Partnership with Regional Groups</h4>\n <p>Chapter VIII of the UN Charter acknowledges the vital role regional organizations can play in maintaining international peace and security. It allows them to conduct peacekeeping operations, with UN authorization, that are suited to their local context.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>ECOWAS as a Prime Example:</strong><br>\n The Economic Community of West African States (ECOWAS) has been a pioneer in this area. Faced with brutal civil wars in Liberia and Sierra Leone in the 1990s, ECOWAS acted when the UN was slow to respond. It deployed its own military force, ECOMOG (ECOWAS Monitoring Group), which:\n <ul>\n <li>Intervened militarily to stop the fighting.</li>\n <li>Helped broker peace agreements.</li>\n <li>Laid the groundwork for later, more robust UN peacekeeping missions.</li>\n </ul>\n This demonstrated how a regional organization can effectively use its proximity and political leverage to manage crises, a model later used by the African Union and others.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why the Others Are Incorrect:</strong><br>\n <strong>FIFA</strong> (B), the <strong>WTO</strong> (World Trade Organization) (C), and the <strong>IMF</strong> (International Monetary Fund) (D) are not security organizations and have no mandate for peacekeeping.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 290",
+    "topic": [
+      "Peacekeeping"
+    ],
+    "Question": {
+      "content": "Which statement about international peacekeeping is correct?",
+      "type": "OBJ",
+      "options": [
+        "Only the military participates",
+        "It often involves military, police, and civilians",
+        "It is purely economic",
+        "It is limited to Europe"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It often involves military, police, and civilians"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Multi-Dimensional Nature of Peacekeeping</h4>\n <p>Modern peacekeeping is far more complex than just soldiers monitoring a ceasefire. It has evolved into a multi-dimensional operation that requires a diverse team to address the many facets of a post-conflict environment.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Three Pillars of a Peacekeeping Mission:</strong>\n <ul>\n <li><strong>Military:</strong> The armed troops provide security, monitor ceasefires, protect the mission, and often protect civilians.</li>\n <li><strong>Police:</strong> UN Police (UNPOL) help reform, train, and monitor local police forces. They are critical for building a sustainable, law-abiding security sector that respects human rights.</li>\n <li><strong>Civilians:</strong> This is the largest group in many missions. Civilians are the experts who work on political affairs, human rights, rule of law, electoral assistance, public information, and coordinating humanitarian aid. They are the peace-builders.</li>\n </ul>\n This combination allows a mission to tackle both the immediate security threat and the underlying political and social issues that fuel conflict.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why the Others Are Incorrect:</strong><br>\n (A) 'Only the military participates' is a dated view. (C) 'It is purely economic' is false. (D) 'It is limited to Europe' is false; peacekeeping missions have been deployed across the globe, especially in Africa, the Middle East, and Asia.\n </div>\n</div>"
+    }
+  }
+]
