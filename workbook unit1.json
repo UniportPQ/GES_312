@@ -1,0 +1,706 @@
+[
+  
+  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Peace and Conflicts Resolution",
+    "code": "GES 312",
+    "session": "Unit 1",
+    "topics": ["Definitions", "Conflict Resolution", "Peace Studies", "Etymology", "Theories of Conflict", "Organizational Behavior", "Marxism", "Sociology", "Power", "Lewis Coser", "Types of Conflict", "Interpersonal Conflict", "Psychology", "Intrapersonal Conflict", "Intergroup Conflict", "Interactionist Theory", "Causes of Conflict", "Role Conflict", "Social Class", "Conflict", "Communication", "Organizational Structure", "Team Dynamics"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": ["Definitions", "Conflict Resolution", "Peace Studies"],
+    "Question": {
+      "content": "How is conflict best described?",
+      "type": "OBJ",
+      "options": [
+        "Total agreement among parties",
+        "A state of incompatibility between ideas or interests",
+        "A process of goal alignment",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A state of incompatibility between ideas or interests"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Conflict</h4>\n<p>The correct answer is <strong>B (A state of incompatibility between ideas or interests)</strong>.</p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>What is Conflict?</strong><br>\nConflict arises when two or more parties have differences that cannot be easily reconciled. It's not simply disagreement—it's a situation where the goals, interests, or ideas of one party are incompatible with those of another. Think of it as a fork in the road where people want to go in opposite directions.\n</div>\n<div>\n<strong style='color: var(--strongColor);'>Why the other options are incorrect:</strong><br>\n- <strong>Total agreement</strong> is the opposite of conflict.<br>\n- <strong>Goal alignment</strong> means people are working together, which prevents conflict.<br>\n- <strong>All of the above</strong> cannot be correct because only one option accurately describes conflict.\n</div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": ["Definitions", "Conflict Resolution", "Peace Studies"],
+    "Question": {
+      "content": "Which of the following is NOT a cause of conflict?",
+      "type": "OBJ",
+      "options": [
+        "Scarcity of resources",
+        "Differences in values",
+        "Effective communication",
+        "Role ambiguity"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Effective communication"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Causes of Conflict</h4>\n<p>The correct answer is <strong>C (Effective communication)</strong> because it prevents conflict rather than causing it.</p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>What Causes Conflict?</strong><br>\nConflicts typically arise from:<br>\n- <strong>Scarcity of resources:</strong> When there isn't enough money, time, or materials to go around, people compete.<br>\n- <strong>Differences in values:</strong> People have different beliefs about what is right, important, or acceptable.<br>\n- <strong>Role ambiguity:</strong> When people are unclear about their responsibilities, confusion and blame follow.\n</div>\n<div>\n<strong style='color: var(--strongColor);'>Why Effective Communication is Different:</strong><br>\nEffective communication—where people listen, clarify, and express themselves clearly—helps resolve misunderstandings before they escalate into conflict. It is a solution, not a cause.\n</div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": ["Definitions", "Conflict Resolution", "Etymology"],
+    "Question": {
+      "content": "The term 'conflict' is derived from a Latin word meaning what?",
+      "type": "OBJ",
+      "options": [
+        "To cooperate",
+        "To strike together",
+        "To run away",
+        "To agree mutually"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To strike together"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Origin of the Word 'Conflict'</h4>\n<p>The correct answer is <strong>B (To strike together)</strong>.</p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Latin Roots:</strong><br>\nThe word \"conflict\" comes from the Latin word <em>\"conflictus\"</em>, which is formed from:<br>\n- <strong>\"com-\"</strong> meaning \"together\"<br>\n- <strong>\"fligere\"</strong> meaning \"to strike\"<br>\nSo literally, it means \"to strike together\"—a vivid image of two forces colliding.\n</div>\n<div>\n<strong style='color: var(--strongColor);'>Why This Makes Sense:</strong><br>\nJust like two objects striking each other create friction and impact, conflict involves opposing forces (people, ideas, or interests) colliding. Understanding the etymology helps us see conflict as a collision of differences rather than something that exists in isolation.\n</div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": ["Theories of Conflict", "Conflict Resolution", "Organizational Behavior"],
+    "Question": {
+      "content": "According to the Human Relations View of conflict, how is conflict characterized?",
+      "type": "OBJ",
+      "options": [
+        "Always harmful",
+        "Avoidable at all times",
+        "A natural and inevitable part of group interaction",
+        "Completely unnecessary in organizations"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A natural and inevitable part of group interaction"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Human Relations View of Conflict</h4>\n<p>The correct answer is <strong>C (A natural and inevitable part of group interaction)</strong>.</p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>What is the Human Relations View?</strong><br>\nThis perspective emerged as a response to the Traditional View. It acknowledges that conflict is bound to happen whenever people work or live together. Because people have different personalities, backgrounds, and interests, disagreements will naturally arise.\n</div>\n<div>\n<strong style='color: var(--strongColor);'>Key Idea:</strong><br>\nInstead of trying to eliminate conflict completely (which is impossible), this view suggests that we should accept it as normal and learn to manage it productively. Conflict isn't inherently bad—it's how we handle it that matters.\n</div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": ["Theories of Conflict", "Conflict Resolution", "Organizational Behavior"],
+    "Question": {
+      "content": "How does the Traditional View of conflict perceive conflict?",
+      "type": "OBJ",
+      "options": [
+        "Functional",
+        "Positive and necessary",
+        "Always destructive and should be avoided",
+        "A tool for innovation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Always destructive and should be avoided"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Traditional View of Conflict</h4>\n<p>The correct answer is <strong>C (Always destructive and should be avoided)</strong>.</p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>What is the Traditional View?</strong><br>\nThis is the oldest and most negative way of thinking about conflict. It treats conflict like a disease—something harmful that disrupts harmony, reduces productivity, and damages relationships. According to this view, a well-functioning group should have no conflict at all.\n</div>\n<div>\n<strong style='color: var(--strongColor);'>Limitations:</strong><br>\nThe problem with this view is that it ignores the potential benefits of conflict, such as sparking creativity, exposing hidden problems, and leading to better solutions. It also promotes suppression of disagreements, which can make problems worse over time.\n</div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": ["Theories of Conflict", "Conflict Resolution", "Organizational Behavior"],
+    "Question": {
+      "content": "What does the Interactionist View of conflict encourage?",
+      "type": "OBJ",
+      "options": [
+        "Total avoidance of conflict",
+        "Minimal conflict for creativity",
+        "Suppression of disagreement",
+        "Elimination of competing goals"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Minimal conflict for creativity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Interactionist View of Conflict</h4>\n<p>The correct answer is <strong>B (Minimal conflict for creativity)</strong>.</p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>What is the Interactionist View?</strong><br>\nThis is the most modern perspective. It doesn't just accept conflict—it actively encourages a healthy level of it. The idea is that too little conflict leads to stagnation, groupthink (everyone agreeing without thinking critically), and complacency.\n</div>\n<div>\n<strong style='color: var(--strongColor);'>Key Insight:</strong><br>\nA small amount of constructive conflict can stimulate creativity, encourage innovation, and prevent groups from becoming lazy or disconnected from reality. However, too much conflict is still harmful. The goal is to find the \"optimal\" level of conflict that keeps a group dynamic without becoming destructive.\n</div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": ["Theories of Conflict", "Marxism", "Sociology", "Power"],
+    "Question": {
+      "content": "Which theory focuses on power struggles arising from unequal access to resources?",
+      "type": "OBJ",
+      "options": [
+        "Human Relations Theory",
+        "Structural-Functional Theory",
+        "Marxist Conflict Theory",
+        "Behavioral Theory"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Marxist Conflict Theory"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Marxist Conflict Theory</h4>\n<p>The correct answer is <strong>C (Marxist Conflict Theory)</strong>.</p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>What is Marxist Conflict Theory?</strong><br>\nDeveloped by Karl Marx, this theory argues that society is divided into groups (classes) that compete for limited resources. The most important division is between those who own the means of production (the wealthy elite) and those who work for wages (the working class). Conflict arises because the powerful group exploits the less powerful to maintain their advantages.\n</div>\n<div>\n<strong style='color: var(--strongColor);'>Core Idea:</strong><br>\nInequality in access to resources—money, land, education, political power—creates ongoing tension and struggle. Social change happens when the oppressed group rises up against the oppressors.\n</div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": ["Theories of Conflict", "Sociology", "Lewis Coser"],
+    "Question": {
+      "content": "According to Lewis Coser, what function can conflict serve?",
+      "type": "OBJ",
+      "options": [
+        "Entirely destructive",
+        "Functional in strengthening group solidarity",
+        "Eliminated through strict rules",
+        "Avoided through hierarchy"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Functional in strengthening group solidarity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Lewis Coser's View on Conflict</h4>\n<p>The correct answer is <strong>B (Functional in strengthening group solidarity)</strong>.</p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Who Was Lewis Coser?</strong><br>\nLewis Coser was a sociologist who argued that conflict isn't always negative. In his book \"The Functions of Social Conflict,\" he showed how conflict can actually help groups become stronger and more united.\n</div>\n<div>\n<strong style='color: var(--strongColor);'>How Conflict Strengthens Groups:</strong><br>\n- When a group faces an external threat, internal differences often fade as members band together.<br>\n- Conflict can clarify group boundaries—who is \"us\" versus \"them.\"<br>\n- Resolving internal conflicts can release tension and lead to stronger relationships.<br>\n- Conflict can force groups to address underlying issues they had been ignoring.\n</div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": ["Types of Conflict", "Conflict Resolution", "Organizational Behavior"],
+    "Question": {
+      "content": "Which of the following is a recognized type of conflict?",
+      "type": "OBJ",
+      "options": [
+        "Administrative conflict",
+        "Task conflict",
+        "Political conflict only",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Task conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Types of Conflict</h4>\n<p>The correct answer is <strong>B (Task conflict)</strong>.</p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>What is Task Conflict?</strong><br>\nTask conflict refers to disagreements about the work itself—what needs to be done, how to do it, who should do it, and what standards to use. It's about the content and goals of the work, not personal issues.\n</div>\n<div>\n<strong style='color: var(--strongColor);'>Common Types of Conflict:</strong><br>\n- <strong>Task conflict:</strong> Disagreements about work content<br>\n- <strong>Relationship conflict:</strong> Personal clashes, personality differences<br>\n- <strong>Process conflict:</strong> Disagreements about how work should be organized<br>\n- <strong>Administrative conflict</strong> is not a standard academic category, though administrative issues can be part of process or task conflict.<br>\n- <strong>Political conflict</strong> is a type, but it's not the only recognized type.\n</div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": ["Types of Conflict", "Interpersonal Conflict", "Psychology"],
+    "Question": {
+      "content": "Where does interpersonal conflict occur?",
+      "type": "OBJ",
+      "options": [
+        "Between nations",
+        "Between organizations",
+        "Between two or more individuals",
+        "Between departments"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Between two or more individuals"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Interpersonal Conflict</h4>\n<p>The correct answer is <strong>C (Between two or more individuals)</strong>.</p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>What is Interpersonal Conflict?</strong><br>\nThe prefix \"inter-\" means \"between,\" and \"personal\" refers to people. So interpersonal conflict is conflict that happens between people. This could be between friends, family members, coworkers, classmates, or strangers.\n</div>\n<div>\n<strong style='color: var(--strongColor);'>Examples:</strong><br>\n- Two colleagues arguing over a project approach<br>\n- Siblings fighting over household responsibilities<br>\n- A disagreement between a customer and a service representative<br>\n- Any situation where individuals clash due to differing needs, goals, or perspectives\n</div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": ["Types of Conflict", "Intrapersonal Conflict", "Psychology"],
+    "Question": {
+      "content": "Which type of conflict occurs within an individual?",
+      "type": "OBJ",
+      "options": [
+        "Intergroup conflict",
+        "Intrapersonal conflict",
+        "Interpersonal conflict",
+        "Institutional conflict"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Intrapersonal conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Intrapersonal Conflict</h4>\n<p>The correct answer is <strong>B (Intrapersonal conflict)</strong>.</p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>What is Intrapersonal Conflict?</strong><br>\nThe prefix \"intra-\" means \"within,\" so intrapersonal conflict happens inside a single person. It's the psychological struggle that occurs when a person faces competing desires, beliefs, or values.\n</div>\n<div>\n<strong style='color: var(--strongColor);'>Common Forms:</strong><br>\n- <strong>Approach-approach conflict:</strong> Choosing between two desirable options (e.g., two job offers)<br>\n- <strong>Avoidance-avoidance conflict:</strong> Choosing between two undesirable options (e.g., study for a test or fail)<br>\n- <strong>Approach-avoidance conflict:</strong> One choice has both good and bad aspects (e.g., a promotion with more money but more stress)<br>\n- <strong>Moral conflict:</strong> Struggling between what you want to do and what you believe is right\n</div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": ["Types of Conflict", "Intergroup Conflict", "Organizational Behavior"],
+    "Question": {
+      "content": "What does intergroup conflict refer to?",
+      "type": "OBJ",
+      "options": [
+        "Conflict between one person and themselves",
+        "Conflict between different departments or teams",
+        "Conflict involving management only",
+        "Conflict between citizens and government"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Conflict between different departments or teams"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Intergroup Conflict</h4>\n<p>The correct answer is <strong>B (Conflict between different departments or teams)</strong>.</p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>What is Intergroup Conflict?</strong><br>\nIntergroup conflict occurs when entire groups—not just individuals—are in opposition. This can happen between departments in an organization, between different teams, between political parties, between ethnic groups, or even between nations.\n</div>\n<div>\n<strong style='color: var(--strongColor);'>Common Causes:</strong><br>\n- Competition for limited resources (budgets, staff, recognition)<br>\n- Different goals or priorities<br>\n- Communication breakdowns between groups<br>\n- \"Us vs. them\" mentality (ingroup favoritism)<br>\n- Territorial disputes or unclear boundaries between group responsibilities\n</div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": ["Theories of Conflict", "Interactionist Theory", "Organizational Behavior"],
+    "Question": {
+      "content": "How does the Interactionist Theory view conflict?",
+      "type": "OBJ",
+      "options": [
+        "A means to improve performance",
+        "A threat to group survival",
+        "A sign of poor management",
+        "A total waste of resources"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A means to improve performance"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Interactionist Theory of Conflict</h4>\n<p>The correct answer is <strong>A (A means to improve performance)</strong>.</p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>What is Interactionist Theory?</strong><br>\nThis theory takes the most positive view of conflict. It suggests that a controlled amount of conflict is actually healthy and necessary for groups to perform at their best.\n</div>\n<div>\n<strong style='color: var(--strongColor);'>How Conflict Improves Performance:</strong><br>\n- Challenges assumptions and prevents groupthink (where everyone just agrees without critical thinking)<br>\n- Stimulates creativity and innovation by forcing people to consider alternatives<br>\n- Increases engagement because people care enough to disagree<br>\n- Helps identify problems that need to be addressed<br>\n- Prevents stagnation by disrupting complacency\n</div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": ["Causes of Conflict", "Role Conflict", "Organizational Behavior"],
+    "Question": {
+      "content": "What is conflict caused by unclear job expectations called?",
+      "type": "OBJ",
+      "options": [
+        "Resource conflict",
+        "Relationship conflict",
+        "Role conflict",
+        "Structural conflict"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Role conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Role Conflict</h4>\n<p>The correct answer is <strong>C (Role conflict)</strong>.</p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>What is Role Conflict?</strong><br>\nRole conflict occurs when expectations for a person's position are unclear, contradictory, or overwhelming. It happens when someone doesn't know what they're supposed to do, or when different people expect different things from them.\n</div>\n<div>\n<strong style='color: var(--strongColor);'>Common Examples:</strong><br>\n- An employee receives conflicting instructions from two supervisors<br>\n- A manager is expected to be both a strict enforcer of rules and a supportive friend to team members<br>\n- Job descriptions that don't match actual responsibilities<br>\n- Being given more tasks than can reasonably be completed (role overload)<br>\n- Being held accountable for results without having the authority to make decisions (role ambiguity)\n</div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": ["Theories of Conflict", "Marxism", "Sociology", "Social Class"],
+    "Question": {
+      "content": "How does the Marxist view see society?",
+      "type": "OBJ",
+      "options": [
+        "Composed of equal groups",
+        "Composed of cooperative groups",
+        "Composed of competing classes",
+        "Composed of harmonious units"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Competing classes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Marxist View of Society</h4>\n<p>The correct answer is <strong>C (Competing classes)</strong>.</p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>The Marxist Perspective:</strong><br>\nKarl Marx viewed society not as a harmonious whole but as an arena of struggle between social classes. The fundamental division is between those who control productive resources (the bourgeoisie or capitalist class) and those who sell their labor (the proletariat or working class).\n</div>\n<div>\n<strong style='color: var(--strongColor);'>Key Concepts:</strong><br>\n- <strong>Class conflict</strong> is the engine of historical change—societies evolve when oppressed classes challenge ruling classes<br>\n- <strong>False consciousness</strong> occurs when workers don't recognize their true class interests<br>\n- <strong>Class consciousness</strong> is when workers realize their shared exploitation and unite<br>\n- The goal from a Marxist perspective is to eventually eliminate class divisions altogether, creating a classless society\n</div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": ["Definitions", "Conflict"],
+    "Question": {
+      "content": "What is a major assumption of the Traditional View of conflict?",
+      "type": "OBJ",
+      "options": [
+        "Conflict, communication and trust",
+        "Innovation",
+        "Organizational growth",
+        "Healthy competition"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Healthy competition"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Traditional View of Conflict</h4>\n <p>The Traditional View, which was prevalent in the early 20th century, saw conflict as inherently negative and destructive. It was believed that conflict was the result of a breakdown in communication, a lack of trust, or personality clashes. The goal, therefore, was to avoid or suppress it. This view did not see conflict as a source of innovation or growth, but rather as a sign that something was wrong within the organization.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Assumption</strong><br>\n The core assumption is that conflict stems from dysfunction. The option \"Healthy competition\" is the correct answer because it represents a positive outcome that is not associated with the Traditional View. In fact, from this perspective, even healthy competition could be seen as a potential source of conflict that needs to be managed.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": ["Definitions", "Conflict"],
+    "Question": {
+      "content": "Which theory suggests that conflict can inspire creativity?",
+      "type": "OBJ",
+      "options": [
+        "Traditional theory",
+        "Human Relations theory",
+        "Interactionist theory",
+        "Classical theory"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Interactionist theory"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Interactionist View of Conflict</h4>\n <p>The Interactionist View is the most modern perspective on conflict. It encourages conflict, seeing it as a necessary and positive force for change, innovation, and creativity. It distinguishes between functional conflict, which is healthy and constructive, and dysfunctional conflict, which is destructive.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Right Kind of Conflict</strong><br>\n Unlike the Traditional or Human Relations views, which see conflict as something to be avoided or managed, the Interactionist view argues that a minimal level of conflict can prevent groupthink, stimulate new ideas, and challenge the status quo. It aligns perfectly with the concept that conflict can inspire creativity.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": ["Definitions", "Conflict"],
+    "Question": {
+      "content": "What does functional conflict refer to?",
+      "type": "OBJ",
+      "options": [
+        "Harms performance",
+        "Enhances group goals",
+        "Should always be suppressed",
+        "Causes high turnover"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Enhances group goals"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Functional vs. Dysfunctional Conflict</h4>\n <p>Functional conflict is a constructive disagreement that supports the goals of the group and improves its performance. It is often task-oriented, focusing on how to do a job better. This type of conflict can lead to better ideas, more thorough decision-making, and stronger team cohesion.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>A Positive Force</strong><br>\n The defining characteristic of functional conflict is that it works <em>for</em> the group, not against it. It aligns with the Interactionist view of conflict. The other options (harms performance, should be suppressed, causes high turnover) are all characteristics of dysfunctional conflict.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": ["Definitions", "Conflict"],
+    "Question": {
+      "content": "What is the primary result of dysfunctional conflict?",
+      "type": "OBJ",
+      "options": [
+        "Improves decision-making",
+        "Encourages innovation",
+        "Reduces performance and cooperation",
+        "Strengthens communication"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Reduces performance and cooperation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Destructive Nature of Dysfunctional Conflict</h4>\n <p>Dysfunctional conflict, also known as destructive conflict, is any disagreement that hinders group performance or threatens the group's interests. It is typically personal and emotional, focusing on personalities rather than issues.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Negative Outcomes</strong><br>\n This type of conflict has detrimental effects. It reduces morale, breaks down cooperation, distracts from important tasks, and ultimately harms the group's performance and ability to achieve its goals. The other options listed are positive outcomes often associated with functional conflict.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": ["Conflict", "Definitions"],
+    "Question": {
+      "content": "What type of conflict arises from competition for limited resources?",
+      "type": "OBJ",
+      "options": [
+        "Structural conflict",
+        "Economic conflict",
+        "Resource conflict",
+        "Cultural conflict"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Resource conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Resource Scarcity as a Source of Conflict</h4>\n <p>Resource conflict is one of the most common sources of conflict in organizations. It occurs when different individuals, teams, or departments compete for the same limited resources, such as budget, personnel, equipment, or time.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Core Cause</strong><br>\n The scarcity of resources creates a win-lose scenario where one party's gain is another party's loss. This competition for resources directly leads to conflict as each group advocates for its own needs and priorities.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": ["Conflict", "Definitions"],
+    "Question": {
+      "content": "What type of conflict is triggered by differences in personality?",
+      "type": "OBJ",
+      "options": [
+        "Task conflict",
+        "Relationship conflict",
+        "Structural conflict",
+        "Procedural conflict"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Relationship conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Interpersonal Tensions</h4>\n <p>Relationship conflict is the most dysfunctional type of conflict. It is based on interpersonal incompatibilities, including personality clashes, differing values, or animosity between people. It is emotional, personal, and rarely leads to positive outcomes.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>A Personal Disagreement</strong><br>\n Unlike task or process conflict, which focus on work, relationship conflict is about the people involved. It stems from feelings of friction, frustration, and personal dislike. This type of conflict often distracts from work and creates a toxic environment.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": ["Conflict", "Communication"],
+    "Question": {
+      "content": "What is an important contributor to conflict in organizations?",
+      "type": "OBJ",
+      "options": [
+        "Communication breakdown",
+        "Effective leadership",
+        "Shared goals",
+        "Conflict resolution policies"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Communication breakdown"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Role of Communication</h4>\n <p>A communication breakdown is a major source of conflict. This can include a lack of communication, distorted messages, misunderstandings, semantic differences, or poor listening skills. When communication is unclear or incomplete, it creates ambiguity, which often leads to disagreements and conflict.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Root of Many Problems</strong><br>\n In many cases, what seems like a personality conflict or a disagreement over resources is actually a result of poor communication. When information is not shared effectively, people make assumptions, feel excluded, and often interpret events in a way that leads to conflict.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": ["Conflict", "Organizational Structure"],
+    "Question": {
+      "content": "What is the primary source of structural conflict in an organization?",
+      "type": "OBJ",
+      "options": [
+        "Personal dislike",
+        "Bad attitudes",
+        "Organizational hierarchy and role allocation",
+        "Equal distribution of power"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Organizational hierarchy and role allocation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Structural Sources of Conflict</h4>\n <p>Structural conflict arises from the way an organization is set up. This includes factors like a rigid hierarchy, unclear roles and responsibilities, unequal power distribution, and specialization that creates departmental silos.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Systemic Problems</strong><br>\n For example, a marketing department and a sales department might have conflicting goals due to the structure of the organization. The conflict isn't due to personal dislike, but because the organization's design creates competing priorities, lines of authority, and interdependencies that naturally lead to friction.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": ["Conflict", "Sociology"],
+    "Question": {
+      "content": "According to Conflict Theory, how is social order primarily maintained?",
+      "type": "OBJ",
+      "options": [
+        "Consensus",
+        "Cooperation",
+        "Power and coercion",
+        "Shared values"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Power and coercion"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Conflict Theory in Sociology</h4>\n <p>Conflict theory, most famously associated with Karl Marx, argues that society is in a state of perpetual conflict due to competition for limited resources. It views social order not as a product of consensus or shared values, but as being maintained by those in power.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>A Different Perspective</strong><br>\n Instead of harmony, conflict theory emphasizes dominance, coercion, and the ability of powerful groups to impose their will on less powerful groups. Laws, social norms, and institutions are seen as tools used by the dominant class to maintain their status and control over resources.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": ["Conflict", "Sociology"],
+    "Question": {
+      "content": "Which sociologist is associated with the functional view of conflict?",
+      "type": "OBJ",
+      "options": [
+        "Karl Marx",
+        "Max Weber",
+        "Lewis Coser",
+        "Elton Mayo"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lewis Coser"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Lewis Coser and the Functions of Conflict</h4>\n <p>While Karl Marx focused on the negative, divisive nature of conflict, sociologist Lewis Coser (1913-2003) is best known for his work that argued conflict can be a positive and necessary social force.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Functional Perspective</strong><br>\n In his seminal work, \"The Functions of Social Conflict,\" Coser argued that conflict serves important functions, such as defining group boundaries, releasing tension, and promoting social change. His ideas form the foundation for the interactionist view of conflict in organizational behavior.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": ["Conflict", "Definitions"],
+    "Question": {
+      "content": "What is a conflict that improves decision quality known as?",
+      "type": "OBJ",
+      "options": [
+        "Dysfunctional conflict",
+        "Pseudo-conflict",
+        "Functional conflict",
+        "Emotional conflict"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Functional conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Conflict as a Decision-Making Tool</h4>\n <p>When conflict is managed well, it becomes functional. Functional conflict, often in the form of task conflict, encourages critical thinking and challenges assumptions. This leads to a more thorough examination of options, which in turn results in higher-quality, more creative, and more robust decisions.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Avoiding Groupthink</strong><br>\n A team that agrees on everything without debate might be suffering from groupthink, which can lead to poor decisions. A healthy level of functional conflict ensures that different perspectives are considered, risks are evaluated, and the final decision is stronger for having been tested.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": ["Conflict", "Team Dynamics"],
+    "Question": {
+      "content": "What type of conflict occurs within a team about how work should be done?",
+      "type": "OBJ",
+      "options": [
+        "Relationship conflict",
+        "Process conflict",
+        "Personality conflict",
+        "Structural conflict"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Process conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Conflict Over Process</h4>\n <p>Process conflict is a type of task-related conflict that focuses on the logistics of work. It involves disagreements about how a task should be accomplished, who is responsible for what, and how resources should be delegated.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The \"How\" of Work</strong><br>\n For example, a team might agree on the project goal (task conflict) but disagree on the steps to get there. One member might want to use a specific software while another wants a different approach. This is a process conflict. While it can be frustrating, if kept constructive, it can help the team develop a more efficient workflow.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": ["Conflict", "Sociology"],
+    "Question": {
+      "content": "Which theory emphasizes competing interests and power differences in society?",
+      "type": "OBJ",
+      "options": [
+        "Contingency theory",
+        "Conflict theory",
+        "Equity theory",
+        "Systems theory"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Conflict theory"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Core of Conflict Theory</h4>\n <p>Conflict theory is a macro-level sociological framework that views society as an arena of inequality that generates conflict and social change. Its central premise is that social life is a competition for limited resources (power, wealth, status).</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Struggle for Resources</strong><br>\n This theory directly focuses on how individuals and groups compete for power and influence. It emphasizes that social order is not based on consensus but on the ability of dominant groups to maintain their position over subordinate groups. Contingency, equity, and systems theories focus on different aspects of organizational or social function, not primarily on power struggles.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": ["Conflict", "Definitions"],
+    "Question": {
+      "content": "In organizational settings, when is conflict considered harmful?",
+      "type": "OBJ",
+      "options": [
+        "Promotes innovation",
+        "Distracts from organizational goals",
+        "Enhances team communication",
+        "Leads to better alternative solutions"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Distracts from organizational goals"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Identifying Harmful Conflict</h4>\n <p>Conflict becomes harmful, or dysfunctional, when it diverts energy and attention away from the core work of the organization. Instead of focusing on goals, team members become preoccupied with personal disputes, political battles, or non-productive disagreements.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Loss of Focus</strong><br>\n This distraction leads to decreased productivity, missed deadlines, and a breakdown in coordination. When conflict shifts the focus from achieving shared objectives to winning an argument, it no longer serves a useful purpose and actively harms the organization.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": ["Conflict", "Definitions"],
+    "Question": {
+      "content": "Which view of conflict holds that conflict is unavoidable and sometimes beneficial?",
+      "type": "OBJ",
+      "options": [
+        "Traditional view",
+        "Interactionist view",
+        "Classical management school",
+        "Administrative theory"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Interactionist view"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Interactionist Perspective</h4>\n <p>The Interactionist view is the most contemporary perspective on conflict. Unlike the Traditional view that sees conflict as always negative, or the Human Relations view that sees it as inevitable but often a nuisance, the Interactionist view believes that conflict is not only inevitable but is a necessary force for change, innovation, and organizational health.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Embracing Conflict</strong><br>\n This view encourages a minimal level of conflict to prevent stagnation, stimulate creativity, and encourage self-criticism. It argues that a harmonious, peaceful, and cooperative group is at risk of becoming static, apathetic, and unresponsive to the need for change.\n </div>\n</div>"
+    }
+  }
+]

@@ -1,0 +1,841 @@
+
+```
+
+```json
+[
+  {
+    "type": "Question",
+    "name": "Question 441",
+    "topic": [
+      "Workplace Conflict",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "What is the best definition of workplace conflict?",
+      "type": "OBJ",
+      "options": [
+        "A disagreement between employees that always results in negative outcomes",
+        "A situation where two or more parties perceive incompatible goals or interests",
+        "An argument that involves physical altercation in the office",
+        "A situation where rules are broken intentionally"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A situation where two or more parties perceive incompatible goals or interests"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining Workplace Conflict</h4>\n <p>The correct answer is <strong>a situation where two or more parties perceive incompatible goals or interests</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Insight</strong><br>\n Conflict is not inherently negative. The best definition focuses on the <strong>perception of incompatibility</strong>. It’s about a belief that what one party wants is incompatible with what the other wants. This perception can exist without open arguments or rule-breaking.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why the other options are incorrect:</strong><br>\n <strong>A</strong> is wrong because conflict can lead to positive outcomes like innovation. <strong>C</strong> is too narrow, focusing only on physical altercations. <strong>D</strong> describes rule-breaking, which is a possible cause or outcome of conflict, but not the definition itself.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 442",
+    "topic": [
+      "Workplace Conflict",
+      "Types of Conflict"
+    ],
+    "Question": {
+      "content": "Which of the following is a type of workplace conflict?",
+      "type": "OBJ",
+      "options": [
+        "Task conflict",
+        "Interpersonal conflict",
+        "Organizational conflict",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Types of Workplace Conflict</h4>\n <p>The correct answer is <strong>All of the above</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Breaking it Down</strong><br>\n <strong>Task conflict</strong> is about disagreements on the work itself (what to do, how to do it).<br>\n <strong>Interpersonal (Relationship) conflict</strong> is about personal differences and emotions (personality clashes).<br>\n <strong>Organizational conflict</strong> stems from structure, goals, or processes within the company.<br>\n All are recognized categories of conflict in organizational behavior.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 443",
+    "topic": [
+      "Workplace Conflict",
+      "Causes of Conflict"
+    ],
+    "Question": {
+      "content": "Which factor often triggers conflict in organizations?",
+      "type": "OBJ",
+      "options": [
+        "Clear communication",
+        "Role ambiguity",
+        "Adequate resources",
+        "Mutual understanding"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Role ambiguity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Triggers of Conflict</h4>\n <p>The correct answer is <strong>Role ambiguity</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Understanding Role Ambiguity</strong><br>\n Role ambiguity means an employee is unsure about their responsibilities, authority, or expectations. This confusion often leads to conflict because:<br>\n - Multiple people might do the same task, causing overlap.<br>\n - Tasks might be left undone because no one knew who was responsible.<br>\n - Employees might blame each other when things go wrong.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why others are incorrect</strong><br>\n Clear communication, adequate resources, and mutual understanding are all <strong>conflict preventers</strong>, not triggers.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 444",
+    "topic": [
+      "Workplace Conflict",
+      "Causes of Conflict"
+    ],
+    "Question": {
+      "content": "Which of the following is considered a primary cause of workplace conflict?",
+      "type": "OBJ",
+      "options": [
+        "Job satisfaction",
+        "Personality differences",
+        "Proper delegation",
+        "Staff recognition"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Personality differences"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Primary Causes of Conflict</h4>\n <p>The correct answer is <strong>Personality differences</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why Personality Differences Matter</strong><br>\n People have different communication styles, levels of assertiveness, and approaches to work. When these styles clash without mutual understanding, it becomes a primary source of interpersonal conflict. This is often the root of “relationship conflict.”\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Context</strong><br>\n Job satisfaction, proper delegation, and staff recognition are generally associated with <strong>positive workplace outcomes</strong> and help reduce, not cause, conflict.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 445",
+    "topic": [
+      "Workplace Conflict",
+      "Types of Conflict",
+      "Task Conflict"
+    ],
+    "Question": {
+      "content": "What is task conflict?",
+      "type": "OBJ",
+      "options": [
+        "Conflict over personal issues",
+        "Conflict arising from disagreements about the content and outcomes of tasks",
+        "Conflict over office politics",
+        "Conflict resulting from gossip"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Conflict arising from disagreements about the content and outcomes of tasks"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining Task Conflict</h4>\n <p>The correct answer is <strong>disagreements about the content and outcomes of tasks</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>In Simple Terms</strong><br>\n Task conflict is about the <strong>work itself</strong>. It’s a disagreement on:<br>\n - What needs to be done (goals).<br>\n - How to do it (methods).<br>\n - Who should do it (division of labor).<br>\n This type of conflict can be constructive if focused on ideas rather than people.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Contrast</strong><br>\n The other options (personal issues, office politics, gossip) are characteristics of <strong>relationship conflict</strong>, which is personal and emotional.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 446",
+    "topic": [
+      "Workplace Conflict",
+      "Types of Conflict",
+      "Relationship Conflict"
+    ],
+    "Question": {
+      "content": "Which of the following describes relationship conflict?",
+      "type": "OBJ",
+      "options": [
+        "Disagreement about work procedures",
+        "Conflict that arises from personal incompatibilities",
+        "Conflict due to unclear job roles",
+        "Conflict over performance evaluation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Conflict that arises from personal incompatibilities"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining Relationship Conflict</h4>\n <p>The correct answer is <strong>conflict that arises from personal incompatibilities</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Understanding Relationship Conflict</strong><br>\n This is the “people” side of conflict. It’s about emotions, personality clashes, and friction between individuals. It often involves feelings of frustration, annoyance, or personal dislike. Unlike task conflict, relationship conflict is almost always <strong>dysfunctional</strong> because it becomes personal and can damage team morale.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Examples</strong><br>\n - Two colleagues who just don’t get along.<br>\n - Someone feeling disrespected by a coworker’s tone.<br>\n - Tension from past disagreements that have become personal.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 447",
+    "topic": [
+      "Workplace Conflict",
+      "Causes of Conflict",
+      "Role Ambiguity"
+    ],
+    "Question": {
+      "content": "What is role ambiguity?",
+      "type": "OBJ",
+      "options": [
+        "Confusion about the company’s mission",
+        "Lack of clarity about one’s job responsibilities",
+        "Miscommunication about salary",
+        "Conflict over task delegation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lack of clarity about one’s job responsibilities"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining Role Ambiguity</h4>\n <p>The correct answer is <strong>lack of clarity about one’s job responsibilities</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What It Looks Like</strong><br>\n An employee doesn’t know:<br>\n - What tasks they are supposed to do.<br>\n - What authority they have to make decisions.<br>\n - How their performance will be evaluated.<br>\n - To whom they should report for different duties.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Consequences</strong><br>\n Role ambiguity creates stress, reduces productivity, and is a major trigger for workplace conflict because boundaries are unclear.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 448",
+    "topic": [
+      "Workplace Conflict",
+      "Causes of Conflict",
+      "Communication"
+    ],
+    "Question": {
+      "content": "Poor communication in the workplace often leads to:",
+      "type": "OBJ",
+      "options": [
+        "Higher productivity",
+        "Conflict",
+        "Better teamwork",
+        "Employee satisfaction"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Role of Communication</h4>\n <p>The correct answer is <strong>Conflict</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why Communication Matters</strong><br>\n Poor communication leads to misunderstandings, unspoken expectations, and assumptions. This creates fertile ground for conflict. For example:<br>\n - A manager’s vague instructions lead to a missed deadline, and they blame the employee.<br>\n - A coworker’s direct tone is misinterpreted as rudeness, causing tension.<br>\n - Important information is withheld, leading to mistrust.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>The Contrast</strong><br>\n Higher productivity, better teamwork, and employee satisfaction are all <strong>outcomes of good communication</strong>, not poor communication.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 449",
+    "topic": [
+      "Workplace Conflict",
+      "Causes of Conflict",
+      "Resource Scarcity"
+    ],
+    "Question": {
+      "content": "Scarcity of resources in an organization typically leads to which type of conflict?",
+      "type": "OBJ",
+      "options": [
+        "Task conflict",
+        "Interpersonal conflict",
+        "Resource-based conflict",
+        "Relationship conflict"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Resource-based conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Conflict Over Resources</h4>\n <p>The correct answer is <strong>Resource-based conflict</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Understanding Resource Scarcity</strong><br>\n When resources (budget, staff, equipment, time, office space) are limited, departments or individuals may compete for them. This is a structural form of conflict. For example:<br>\n - Two departments fighting over a limited budget.<br>\n - Teams competing for the only available conference room.<br>\n - A project stalling because there aren’t enough skilled people to work on it.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 450",
+    "topic": [
+      "Workplace Conflict",
+      "Types of Conflict",
+      "Organizational Conflict"
+    ],
+    "Question": {
+      "content": "Which of the following best explains organizational conflict?",
+      "type": "OBJ",
+      "options": [
+        "Conflict arising from external stakeholders",
+        "Conflict that stems from misaligned goals within an organization",
+        "Conflict among family members of employees",
+        "Conflict due to training issues"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Conflict that stems from misaligned goals within an organization"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Organizational Conflict</h4>\n <p>The correct answer is <strong>conflict that stems from misaligned goals within an organization</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Concept</strong><br>\n Organizational conflict is structural. It occurs when different departments, teams, or levels of an organization have goals that are at odds with one another. For instance, a sales team’s goal to maximize revenue might conflict with a production team’s goal to minimize costs and maintain quality.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Distinction</strong><br>\n This is different from interpersonal conflict, which is personal. Organizational conflict is embedded in the company’s structure and processes.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 451",
+    "topic": [
+      "Workplace Conflict",
+      "Types of Conflict",
+      "Relationship Conflict"
+    ],
+    "Question": {
+      "content": "Personality clashes in the workplace are examples of:",
+      "type": "OBJ",
+      "options": [
+        "Task conflict",
+        "Relationship conflict",
+        "Goal conflict",
+        "Role conflict"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Relationship conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Personality Clashes as Conflict</h4>\n <p>The correct answer is <strong>Relationship conflict</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Connecting the Dots</strong><br>\n Personality clashes are the classic example of relationship conflict. This conflict is based on differences in personality, values, or communication styles. It’s emotional and personal, not about the task at hand. When two people simply “rub each other the wrong way,” they are experiencing relationship conflict.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 452",
+    "topic": [
+      "Workplace Conflict",
+      "Causes of Conflict",
+      "Leadership"
+    ],
+    "Question": {
+      "content": "Poor leadership can lead to workplace conflict because:",
+      "type": "OBJ",
+      "options": [
+        "Leaders often create unnecessary tasks",
+        "Employees feel unclear about expectations",
+        "Leaders discourage conflict resolution",
+        "Leaders spend too much time with employees"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Employees feel unclear about expectations"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>How Leadership Affects Conflict</h4>\n <p>The correct answer is <strong>Employees feel unclear about expectations</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Leadership Link</strong><br>\n A primary job of a leader is to set clear goals, roles, and boundaries. Poor leadership (e.g., being vague, inconsistent, or absent) creates a vacuum. When employees don’t know what’s expected of them, they may overstep, underperform, or conflict with peers over who should do what. Leaders also set the tone for how conflict is handled; if they ignore it, it festers.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 453",
+    "topic": [
+      "Workplace Conflict",
+      "Causes of Conflict",
+      "Values"
+    ],
+    "Question": {
+      "content": "Differences in values and beliefs among employees often cause:",
+      "type": "OBJ",
+      "options": [
+        "Task conflict",
+        "Relationship conflict",
+        "Process conflict",
+        "Structural conflict"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Relationship conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Values and Relationship Conflict</h4>\n <p>The correct answer is <strong>Relationship conflict</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why Values Matter</strong><br>\n Values and beliefs are deeply held personal convictions (e.g., about work ethic, honesty, fairness, or religion). When these core beliefs clash, it creates a fundamental incompatibility that is very difficult to resolve. This goes to the heart of <strong>relationship conflict</strong>. For example, one employee who values strict punctuality may clash with another who values flexibility and sees time as less rigid.\n </div>\n</div>"
+    }
+  }
+]
+```
+
+
+
+
+Here is the JSON array containing all the questions from your image, formatted according to your instructions.
+
+Each question is broken down into a self-contained object with an easy-to-understand explanation suitable for all students.
+
+```json
+[
+  {
+    "type": "Question",
+    "name": "Question 454",
+    "topic": [
+      "Conflict Management",
+      "Organizational Behavior"
+    ],
+    "Question": {
+      "content": "Which of the following is an example of structural causes of conflict?",
+      "type": "OBJ",
+      "options": [
+        "Personality differences",
+        "Ambiguous authority lines",
+        "Differences in values",
+        "Miscommunication"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ambiguous authority lines"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Structural Conflict</h4>\n  <p>Structural causes of conflict arise from the design and setup of an organization itself. This includes things like unclear roles, scarce resources, or confusing reporting lines. Ambiguous authority lines directly fit this definition because they create confusion over who is in charge and who has the power to make decisions.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why the other options are incorrect</strong><br>\n    - <strong>Personality differences:</strong> This is an interpersonal, individual-level cause.<br>\n    - <strong>Differences in values:</strong> This is a personal or cultural cause.<br>\n    - <strong>Miscommunication:</strong> This is a process or interpersonal cause.<br>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 455",
+    "topic": [
+      "Conflict Management",
+      "Organizational Behavior"
+    ],
+    "Question": {
+      "content": "Conflict over work processes or procedures is known as:",
+      "type": "OBJ",
+      "options": [
+        "Task conflict",
+        "Relationship conflict",
+        "Process conflict",
+        "Role conflict"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Process conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Types of Conflict</h4>\n  <p>In organizational behavior, conflicts are categorized by what they're about. <strong>Process conflict</strong> specifically refers to disagreements about how a task should be accomplished—the logistics, procedures, and delegation of duties.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Quick Breakdown:</strong><br>\n    - <strong>Task conflict:</strong> Disagreement about the <em>content</em> of the work (what to do).<br>\n    - <strong>Relationship conflict:</strong> Disagreement about personal or interpersonal issues (who to work with).<br>\n    - <strong>Process conflict:</strong> Disagreement about the <em>method</em> of work (how to do it).<br>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 456",
+    "topic": [
+      "Conflict Management"
+    ],
+    "Question": {
+      "content": "What does \"conflict dynamics\" refer to?",
+      "type": "OBJ",
+      "options": [
+        "The way conflicts start, develop, and are resolved",
+        "The negative consequences of conflict",
+        "Only conflicts between managers",
+        "Conflict that has no solution"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The way conflicts start, develop, and are resolved"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What are Conflict Dynamics?</h4>\n  <p>Think of conflict dynamics as the \"life cycle\" of a conflict. It studies the patterns of how a conflict begins (escalates), how it unfolds (fluctuates), and ultimately how it ends (de-escalates or resolves). It is not just about the negative parts, but the entire process.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 457",
+    "topic": [
+      "Conflict Management",
+      "Workplace Psychology"
+    ],
+    "Question": {
+      "content": "Which of the following is NOT a common outcome of workplace conflict?",
+      "type": "OBJ",
+      "options": [
+        "Increased stress",
+        "Improved innovation",
+        "Lower employee morale",
+        "Guaranteed financial gain"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Guaranteed financial gain"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Outcomes of Conflict</h4>\n  <p>Conflict can have both positive and negative outcomes, but financial gain is never <em>guaranteed</em>. In fact, unresolved conflict usually costs money due to lost productivity and turnover. While conflict can sometimes lead to <strong>improved innovation</strong> (if handled well), stress and low morale are common negative outcomes.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 458",
+    "topic": [
+      "Conflict Management",
+      "Psychology"
+    ],
+    "Question": {
+      "content": "What role does perception play in conflict?",
+      "type": "OBJ",
+      "options": [
+        "It has no impact",
+        "It can escalate or reduce conflict depending on how individuals interpret situations",
+        "It guarantees a solution",
+        "It always worsens conflict"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It can escalate or reduce conflict depending on how individuals interpret situations"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Perception is Reality</h4>\n  <p>Conflict is often based on <em>perceived</em> incompatibilities. If two people interpret a situation differently, it can create conflict even if no objective problem exists. Conversely, a calm and empathetic interpretation can de-escalate a tense situation. Perception is a powerful filter through which we view conflict.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 459",
+    "topic": [
+      "Conflict Management",
+      "Organizational Behavior"
+    ],
+    "Question": {
+      "content": "A conflict that results from differences in goals between departments is called:",
+      "type": "OBJ",
+      "options": [
+        "Interpersonal conflict",
+        "Intergroup conflict",
+        "Relationship conflict",
+        "Task conflict"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Intergroup conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Levels of Conflict</h4>\n  <p>When entire groups (like departments, teams, or divisions) have opposing goals or values, it is called <strong>intergroup conflict</strong>. The sales department wanting to sell more (even with discounts) versus the finance department wanting higher profit margins is a classic example.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 460",
+    "topic": [
+      "Conflict Management",
+      "Communication"
+    ],
+    "Question": {
+      "content": "Which of the following strategies can prevent workplace conflict?",
+      "type": "OBJ",
+      "options": [
+        "Ignoring disagreements",
+        "Promoting open communication",
+        "Encouraging competition",
+        "Reducing teamwork"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Promoting open communication"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Prevention is Key</h4>\n  <p>Open communication is one of the most effective conflict prevention tools. It ensures clarity, reduces misunderstandings, and allows issues to be addressed before they escalate. Ignoring disagreements allows them to fester, while excessive competition and reduced teamwork often create silos that breed conflict.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 461",
+    "topic": [
+      "Conflict Management",
+      "Leadership"
+    ],
+    "Question": {
+      "content": "A manager’s favoritism can result in:",
+      "type": "OBJ",
+      "options": [
+        "Task conflict",
+        "Relationship conflict",
+        "Process conflict",
+        "No conflict"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Relationship conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Nature of Favoritism</h4>\n  <p>Favoritism is a personal, emotional issue. It creates feelings of injustice, jealousy, and resentment among team members. This directly attacks interpersonal relationships, making it a prime cause of <strong>relationship conflict</strong> (conflict based on personality clashes and negative emotions).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 462",
+    "topic": [
+      "Conflict Management",
+      "Organizational Behavior"
+    ],
+    "Question": {
+      "content": "Conflict can sometimes be constructive because:",
+      "type": "OBJ",
+      "options": [
+        "It always harms relationships",
+        "It promotes problem-solving and innovation",
+        "It creates tension",
+        "It encourages absenteeism"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It promotes problem-solving and innovation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Functional Conflict</h4>\n  <p>This is known as <strong>functional conflict</strong>. When managed properly, conflict forces people to examine assumptions, challenge outdated processes, and communicate their needs. This can lead to better solutions, improved processes, and more creative outcomes.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 463",
+    "topic": [
+      "Conflict Management",
+      "Workplace Psychology"
+    ],
+    "Question": {
+      "content": "Which of the following is a symptom of unresolved conflict?",
+      "type": "OBJ",
+      "options": [
+        "High employee engagement",
+        "Frequent absenteeism and turnover",
+        "Clear job responsibilities",
+        "Increased collaboration"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Frequent absenteeism and turnover"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Signs of Trouble</h4>\n  <p>Unresolved conflict creates a toxic environment. Employees often try to escape the stress by calling in sick (absenteeism) or quitting altogether (turnover). High engagement and collaboration are signs of a healthy workplace, while unclear responsibilities are often a <em>cause</em> of conflict, not a symptom of unresolved one.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 464",
+    "topic": [
+      "Conflict Management",
+      "Organizational Behavior"
+    ],
+    "Question": {
+      "content": "Differences in work styles between employees often lead to:",
+      "type": "OBJ",
+      "options": [
+        "Role conflict",
+        "Process conflict",
+        "Relationship conflict",
+        "Task conflict"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Process conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Clash of Methods</h4>\n  <p>A work style is a method of working. One person may like detailed planning (\"ready, aim, fire\"), while another likes to jump in (\"fire, aim\"). This disagreement about the <em>how</em> is the definition of process conflict.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 465",
+    "topic": [
+      "Conflict Management"
+    ],
+    "Question": {
+      "content": "Conflict escalates when:",
+      "type": "OBJ",
+      "options": [
+        "Communication is clear",
+        "Misunderstandings are ignored",
+        "Goals are aligned",
+        "Roles are well-defined"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Misunderstandings are ignored"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Escalation Process</h4>\n  <p>Ignoring a problem does not make it go away; it allows it to grow. Unaddressed misunderstandings turn into resentment, which turns into open hostility. Clear communication, aligned goals, and defined roles are all factors that <em>prevent</em> escalation.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 466",
+    "topic": [
+      "Conflict Management",
+      "Psychology"
+    ],
+    "Question": {
+      "content": "Which of the following is a psychological cause of workplace conflict?",
+      "type": "OBJ",
+      "options": [
+        "Organizational hierarchy",
+        "Job insecurity",
+        "Equipment shortages",
+        "Role clarity"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Job insecurity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Internal vs. External Causes</h4>\n  <p>Psychological causes stem from an individual's mental state, emotions, or perceptions. <strong>Job insecurity</strong> triggers fear and anxiety, which can make a person defensive, competitive, or overly sensitive, leading to conflict. Hierarchy and shortages are structural causes, while role clarity prevents conflict.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 467",
+    "topic": [
+      "Conflict Management",
+      "External Environment"
+    ],
+    "Question": {
+      "content": "Which of these is an external source of workplace conflict?",
+      "type": "OBJ",
+      "options": [
+        "Personality differences",
+        "Government regulations affecting work",
+        "Miscommunication",
+        "Leadership style"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Government regulations affecting work"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Internal vs. External Sources</h4>\n  <p>External sources originate from outside the organization and are often beyond management's control. Government regulations, economic shifts, and industry competition are classic examples. Personality, miscommunication, and leadership style are internal factors.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 468",
+    "topic": [
+      "Conflict Management",
+      "Organizational Structure"
+    ],
+    "Question": {
+      "content": "Ambiguity in organizational policies can lead to:",
+      "type": "OBJ",
+      "options": [
+        "Reduced productivity",
+        "Workplace conflict",
+        "Improved morale",
+        "Enhanced teamwork"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Workplace conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Danger of Ambiguity</h4>\n  <p>When policies are unclear, people interpret them differently. This leads to disagreements about what is allowed, who deserves a promotion, or how to handle situations. This uncertainty is a direct structural cause of conflict.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 469",
+    "topic": [
+      "Conflict Management",
+      "Goal Setting"
+    ],
+    "Question": {
+      "content": "Misaligned goals among team members primarily lead to:",
+      "type": "OBJ",
+      "options": [
+        "Interpersonal conflict",
+        "Task conflict",
+        "Relationship conflict",
+        "Structural conflict"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Task conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What is the Goal?</h4>\n  <p>Goals are the content of the work. If one team member is focused on speed and another on perfection, their goals for the <em>task</em> are misaligned. This creates <strong>task conflict</strong>, which is a disagreement over the direction or content of the work.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 470",
+    "topic": [
+      "Conflict Management",
+      "Organizational Behavior"
+    ],
+    "Question": {
+      "content": "Conflict resolution is important in the workplace because:",
+      "type": "OBJ",
+      "options": [
+        "It ensures all disagreements are avoided permanently",
+        "It helps maintain relationships and productivity",
+        "It eliminates all stress",
+        "It guarantees promotions"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It helps maintain relationships and productivity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Goal of Resolution</h4>\n  <p>The purpose of conflict resolution is not to eliminate all disagreements (which is impossible and even unhealthy), but to manage them so they don't damage relationships or disrupt work. Effective resolution keeps teams functional and focused on their goals.</p>\n</div>"
+    }
+  }
+]
+```
+contd.
+
+
+```json
+[
+  {
+    "type": "heading",
+    "heading": "Unit Ten: Conflict in Organizations",
+    "Subheading": "Questions 470 to 484"
+  },
+  {
+    "type": "Question",
+    "name": "Question 470",
+    "topic": ["Communication", "Conflict Resolution", "Organizational Behavior"],
+    "Question": {
+      "content": "Why is conflict resolution important in the workplace?",
+      "type": "OBJ",
+      "options": [
+        "It ensures all disagreements are avoided permanently",
+        "It helps maintain relationships and improve performance",
+        "It increases stress levels",
+        "It allows managers to dominate employees"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It helps maintain relationships and improve performance"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Why Resolve Conflict?</h4>\n<p>The correct answer is <strong>It helps maintain relationships and improve performance</strong>. Conflict resolution isn't about eliminating all disagreements, which is impossible and even unhealthy. Instead, it's a vital process for a healthy workplace.</p>\n<ul>\n<li><strong>Maintains Relationships:</strong> When handled constructively, conflict resolution allows team members to clear the air, understand each other's perspectives, and rebuild trust. This prevents resentment from festering and damaging working relationships.</li>\n<li><strong>Improves Performance:</strong> By addressing the root cause of a conflict—like a flawed process or miscommunication—teams can find better solutions. This leads to increased efficiency, better decision-making, and a more focused, collaborative work environment.</li>\n<li><strong>Avoids Negative Outcomes:</strong> Unresolved conflict is the real problem, leading to stress, absenteeism, and high turnover, all of which harm performance.</li>\n</ul>\n</div>"
+    }
+  },
+  
+  

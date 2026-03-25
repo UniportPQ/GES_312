@@ -1,0 +1,772 @@
+[
+{
+  "type": "pageInfo",
+  "kind": "subjective",
+  "course_title": "Peace and Conflicts Resolution",
+  "code": "GES 312",
+  "session": "Unit 2",
+  "topics": ["Definitions", "Peace", "Violence", "Peace Studies", "Causes of Conflict", "Structural Violence", "Direct Violence", "Cultural Violence", "Peacebuilding", "Conflict Resolution", "Conflict", "Communication", "Nonviolent Communication", "Peaceful Societies", "Sociology", "Peace Education", "Education", "Social Justice", "Interpersonal Violence", "Terrorism", "Peace Agreements", "Social Inequality", "Negative Peace", "Peacekeeping", "United Nations", "Conflict Transformation", "International Relations", "Gender Studies", "Conflict Prevention", "Environmental Peace", "Ecology", "Resource Management", "Positive Peace", "Cyberbullying", "Psychological Violence", "Modern Violence"],
+  "time": "90"
+},
+{
+  "type": "Instruction",
+  "content": "Answer all Questions"
+},
+{
+  "type": "Question",
+  "name": "Question 31",
+  "topic": ["Definitions", "Peace"],
+  "Question": {
+    "content": "What is the best definition of peace?",
+    "type": "OBJ",
+    "options": [
+      "Absence of development",
+      "Absence of conflict only",
+      "Presence of harmony and justice",
+      "Suppression of opinions"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Presence of harmony and justice"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining Peace</h4>\n <p>Peace is more than just the absence of war or overt conflict (negative peace). The most complete definition of peace includes the presence of justice, equity, and harmony (positive peace).</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Positive Peace</strong><br>\n Positive peace describes a state where there is no structural violence, meaning people have access to opportunities, rights are protected, and social systems are just. It's a dynamic state of well-being and cooperation, not merely the suppression of disagreements.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 32",
+  "topic": ["Definitions", "Violence"],
+  "Question": {
+    "content": "What does violence refer to?",
+    "type": "OBJ",
+    "options": [
+      "Any form of physical activity",
+      "Actions or threats that cause harm",
+      "Peaceful disagreement",
+      "Negotiation and dialogue"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Actions or threats that cause harm"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Violence</h4>\n <p>Violence is broadly defined as the intentional use of physical force or power, threatened or actual, against oneself, another person, or against a group or community, that either results in or has a high likelihood of resulting in injury, death, psychological harm, maldevelopment, or deprivation.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Beyond Physical Force</strong><br>\n This definition, used by the World Health Organization, highlights that violence includes threats and can be psychological or structural, not just physical. It is the opposite of peaceful and constructive interactions like negotiation and dialogue.\n </div>\n</div>"
+  }
+},
+{
+  "type": "heading",
+  "heading": "Peace and Conflict Studies",
+  "Subheading": "Key Concepts and Definitions"
+},
+{
+  "type": "Question",
+  "name": "Question 33",
+  "topic": [
+    "Definitions",
+    "Peace Studies"
+  ],
+  "Question": {
+    "content": "What does positive peace emphasize?",
+    "type": "OBJ",
+    "options": [
+      "No war or fighting",
+      "Structural and social justice",
+      "Silencing opposition",
+      "Absence of disagreement"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Structural and social justice"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Positive Peace</h4>\n <p>The correct answer is <strong>B (Structural and social justice)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is Positive Peace?</strong><br>\n Positive peace goes beyond just stopping wars. It focuses on creating a just society where everyone has equal opportunities. Think of it as building a house on a strong foundation of fairness, not just patching up the cracks.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why the other options are incorrect:</strong><br>\n <strong>A (No war or fighting)</strong> is actually <strong>negative peace</strong> – just the absence of violence.<br>\n <strong>C (Silencing opposition)</strong> is oppression, which is the opposite of peace.<br>\n <strong>D (Absence of disagreement)</strong> is unrealistic; healthy societies have disagreements, they just solve them peacefully.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 34",
+  "topic": [
+    "Definitions",
+    "Peace Studies"
+  ],
+  "Question": {
+    "content": "What does negative peace mean?",
+    "type": "OBJ",
+    "options": [
+      "Presence of justice",
+      "Absence of direct violence",
+      "Economic empowerment",
+      "Active cooperation among groups"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Absence of direct violence"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Negative Peace</h4>\n <p>The correct answer is <strong>B (Absence of direct violence)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is Negative Peace?</strong><br>\n Negative peace is simply the absence of war or physical fighting. It's a 'negative' condition because it doesn't require justice or equality, just that people aren't actively killing each other.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Example:</strong><br>\n Two rival gangs might have a ceasefire and stop shooting at each other. That's negative peace. However, if they still hate each other and the community lives in fear, there's no positive peace.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 35",
+  "topic": [
+    "Violence",
+    "Causes of Conflict"
+  ],
+  "Question": {
+    "content": "What is one major cause of violence?",
+    "type": "OBJ",
+    "options": [
+      "Dialogue",
+      "Tolerance",
+      "Social inequality",
+      "Peacebuilding"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Social inequality"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Root Causes of Violence</h4>\n <p>The correct answer is <strong>C (Social inequality)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why Inequality Causes Violence:</strong><br>\n When people feel they are treated unfairly—whether in wealth, opportunities, or rights—it creates frustration and anger. This can lead to protests, crime, or even civil war as people fight for what they believe is rightfully theirs.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>The other options:</strong><br>\n <strong>Dialogue (A)</strong> and <strong>Tolerance (B)</strong> are ways to <em>reduce</em> violence.<br>\n <strong>Peacebuilding (D)</strong> is the process of creating peace, not causing violence.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 36",
+  "topic": [
+    "Violence",
+    "Structural Violence"
+  ],
+  "Question": {
+    "content": "What does structural violence involve?",
+    "type": "OBJ",
+    "options": [
+      "Physical harm only",
+      "Emotional aggression",
+      "Systemic inequalities built into society",
+      "Fight between two individuals"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Systemic inequalities built into society"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Structural Violence</h4>\n <p>The correct answer is <strong>C (Systemic inequalities built into society)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is Structural Violence?</strong><br>\n This is harm caused by the way society is organized. It's not one person hitting another, but systems like racism, poverty, or lack of healthcare that slowly harm or kill people.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Example:</strong><br>\n If a poor community has no clean water and people get sick, that's structural violence. There's no single attacker, but the 'structure' of society (how resources are distributed) is causing harm.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 37",
+  "topic": [
+    "Violence",
+    "Direct Violence"
+  ],
+  "Question": {
+    "content": "What does direct violence include?",
+    "type": "OBJ",
+    "options": [
+      "Poverty",
+      "Physical assault",
+      "Unequal access to education",
+      "Hierarchical social systems"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Physical assault"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Direct Violence</h4>\n <p>The correct answer is <strong>B (Physical assault)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is Direct Violence?</strong><br>\n This is the most visible form of violence. It's an act where someone intentionally harms another person physically or verbally. It's 'direct' because there is a clear actor and victim.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Examples:</strong><br>\n Hitting, shooting, fighting, or even using threatening words are all forms of direct violence.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 38",
+  "topic": [
+    "Violence",
+    "Cultural Violence"
+  ],
+  "Question": {
+    "content": "What does cultural violence refer to?",
+    "type": "OBJ",
+    "options": [
+      "Violence justified by traditions or beliefs",
+      "Only physical conflict",
+      "Destruction of cultural artifacts",
+      "Educational advancement"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Violence justified by traditions or beliefs"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Cultural Violence</h4>\n <p>The correct answer is <strong>A (Violence justified by traditions or beliefs)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is Cultural Violence?</strong><br>\n This is when culture, religion, or ideology is used to make violence seem normal, acceptable, or even good. It's the 'excuse' used to justify direct or structural violence.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Example:</strong><br>\n If a society believes that women are inferior (cultural belief), it may justify laws that oppress them (structural violence) and allow men to beat them (direct violence).\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 39",
+  "topic": [
+    "Peacebuilding",
+    "Conflict Resolution"
+  ],
+  "Question": {
+    "content": "What does peacebuilding focus on?",
+    "type": "OBJ",
+    "options": [
+      "Ending war instantly",
+      "Long-term structural transformation",
+      "Avoiding negotiations",
+      "Promoting hate speech"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Long-term structural transformation"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Peacebuilding</h4>\n <p>The correct answer is <strong>B (Long-term structural transformation)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is Peacebuilding?</strong><br>\n Peacebuilding is a long process that happens after a conflict ends. It's not just about stopping the fighting, but rebuilding society so that war doesn't happen again. This means fixing broken institutions, healing relationships, and creating economic opportunities.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Example:</strong><br>\n After a civil war, peacebuilding involves disarming soldiers, creating a fair police force, rebuilding schools, and helping people from different sides learn to trust each other again.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 40",
+  "topic": [
+    "Conflict",
+    "Conflict Resolution"
+  ],
+  "Question": {
+    "content": "When is conflict considered positive?",
+    "type": "OBJ",
+    "options": [
+      "It destroys relationships",
+      "It promotes understanding and change",
+      "It leads to war",
+      "It is based on violence"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "It promotes understanding and change"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Conflict Can Be Positive</h4>\n <p>The correct answer is <strong>B (It promotes understanding and change)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why Conflict Isn't Always Bad:</strong><br>\n Conflict is simply a disagreement. If it's handled constructively, it can help people understand different perspectives, identify problems, and find better solutions. Avoiding conflict can sometimes let problems grow worse.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Example:</strong><br>\n If two friends argue about a misunderstanding, the conflict forces them to talk and clear things up, strengthening their friendship. The conflict was positive because it led to understanding.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 41",
+  "topic": [
+    "Communication",
+    "Nonviolent Communication"
+  ],
+  "Question": {
+    "content": "What does nonviolent communication encourage?",
+    "type": "OBJ",
+    "options": [
+      "Aggressive dialogue",
+      "Domination of others",
+      "Respect and empathy",
+      "Suppression of feelings"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Respect and empathy"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Nonviolent Communication (NVC)</h4>\n <p>The correct answer is <strong>C (Respect and empathy)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is NVC?</strong><br>\n NVC is a way of talking and listening that focuses on understanding each other's needs without blame or criticism. Instead of saying 'You are so rude!' you might say 'When you interrupted me, I felt hurt because I need to feel heard.'\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Goal:</strong><br>\n To connect with others compassionately and solve problems without violence or anger.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 42",
+  "topic": [
+    "Peaceful Societies",
+    "Sociology"
+  ],
+  "Question": {
+    "content": "What is a key characteristic of peaceful societies?",
+    "type": "OBJ",
+    "options": [
+      "High levels of discrimination",
+      "Open dialogue",
+      "Constant war",
+      "Oppression"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Open dialogue"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Features of Peaceful Societies</h4>\n <p>The correct answer is <strong>B (Open dialogue)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why Open Dialogue is Key:</strong><br>\n In peaceful societies, people can talk about problems freely. If someone is unhappy, they can speak up, and leaders listen. This prevents small issues from growing into big conflicts. Suppressing speech often leads to revolution or violence.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Other Characteristics:</strong><br>\n Peaceful societies also tend to have justice, equality, and ways to solve disputes without fighting.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 43",
+  "topic": [
+    "Violence",
+    "Structural Violence"
+  ],
+  "Question": {
+    "content": "What is an example of indirect violence?",
+    "type": "OBJ",
+    "options": [
+      "Shooting",
+      "Torture",
+      "Malnutrition caused by poor governance",
+      "Fighting"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Malnutrition caused by poor governance"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Indirect vs. Direct Violence</h4>\n <p>The correct answer is <strong>C (Malnutrition caused by poor governance)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is Indirect Violence?</strong><br>\n Indirect violence is harm that doesn't come from a direct attack. It happens when systems, policies, or neglect cause people to suffer. It's often the same as structural violence.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Example:</strong><br>\n A government that ignores a famine is indirectly causing death. They aren't shooting people, but their inaction is violent.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 44",
+  "topic": [
+    "Peace Education",
+    "Education"
+  ],
+  "Question": {
+    "content": "What is the aim of peace education?",
+    "type": "OBJ",
+    "options": [
+      "Promote revenge",
+      "Develop skills for peaceful living",
+      "Encourage violent protests",
+      "Silence minority voices"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Develop skills for peaceful living"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Goals of Peace Education</h4>\n <p>The correct answer is <strong>B (Develop skills for peaceful living)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What Does Peace Education Teach?</strong><br>\n Peace education goes beyond just learning facts. It teaches skills like how to resolve arguments without fighting, how to be empathetic, how to respect diversity, and how to stand up against injustice peacefully.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Goal:</strong><br>\n To create a culture of peace where violence is not seen as a normal solution to problems.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 45",
+  "topic": [
+    "Peacebuilding",
+    "Social Justice"
+  ],
+  "Question": {
+    "content": "Which of the following enhances peace?",
+    "type": "OBJ",
+    "options": [
+      "Bias and stereotypes",
+      "Inclusion and justice",
+      "Inequality",
+      "Oppression"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Inclusion and justice"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Building Blocks of Peace</h4>\n <p>The correct answer is <strong>B (Inclusion and justice)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>How Inclusion and Justice Help:</strong><br>\n When everyone feels they belong (inclusion) and are treated fairly (justice), there's less reason for conflict. People are less likely to fight for change when they feel the system works for them.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>The Opposite:</strong><br>\n <strong>Bias (A)</strong>, <strong>Inequality (C)</strong>, and <strong>Oppression (D)</strong> are all major causes of violence and conflict.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 46",
+  "topic": [
+    "Violence",
+    "Interpersonal Violence"
+  ],
+  "Question": {
+    "content": "Domestic violence is a form of what type of violence?",
+    "type": "OBJ",
+    "options": [
+      "Environmental peace",
+      "Interpersonal violence",
+      "International peace",
+      "Structural peace"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Interpersonal violence"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Types of Violence</h4>\n <p>The correct answer is <strong>B (Interpersonal violence)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is Interpersonal Violence?</strong><br>\n This is violence that happens between individuals. It includes family violence, dating violence, and violence between acquaintances. It's different from collective violence (like war) or self-directed violence (like suicide).\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Domestic Violence:</strong><br>\n Domestic violence is a clear example because it occurs between people in a close relationship, such as partners or family members.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 47",
+  "topic": [
+    "Violence",
+    "Terrorism"
+  ],
+  "Question": {
+    "content": "How can terrorism be classified?",
+    "type": "OBJ",
+    "options": [
+      "Direct violence",
+      "Negative peace",
+      "Peace agreement",
+      "Cultural violence"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Direct violence"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Classifying Terrorism</h4>\n <p>The correct answer is <strong>A (Direct violence)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why is it Direct Violence?</strong><br>\n Terrorism involves the intentional use of physical force—like bombings, shootings, or hijackings—to cause harm and create fear. Since there is a clear act of physical harm by an actor, it falls under the category of direct violence.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Nuance:</strong><br>\n While the act itself is direct violence, the ideologies used to justify terrorism can be a form of cultural violence.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 48",
+  "topic": [
+    "Conflict Resolution",
+    "Peace Agreements"
+  ],
+  "Question": {
+    "content": "A peace treaty is an example of what?",
+    "type": "OBJ",
+    "options": [
+      "Peace enforcement",
+      "Peacebuilding",
+      "Peacekeeping",
+      "Peace agreement"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Peace agreement"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Peace Mechanisms</h4>\n <p>The correct answer is <strong>D (Peace agreement)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is a Peace Treaty?</strong><br>\n A peace treaty is a formal, signed document that ends a war or conflict. It's a type of peace agreement.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Other Terms:</strong><br>\n <strong>Peacekeeping</strong> involves sending troops to monitor a ceasefire.<br>\n <strong>Peacebuilding</strong> is the long-term work of rebuilding society.<br>\n <strong>Peace enforcement</strong> is using force to stop ongoing violence.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 49",
+  "topic": [
+    "Causes of Conflict",
+    "Social Inequality"
+  ],
+  "Question": {
+    "content": "What is one major obstacle to peace?",
+    "type": "OBJ",
+    "options": [
+      "Justice",
+      "Inequality",
+      "Education",
+      "Forgiveness"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Inequality"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Barriers to Peace</h4>\n <p>The correct answer is <strong>B (Inequality)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why Inequality Blocks Peace:</strong><br>\n Inequality creates deep resentment. When one group has all the wealth, power, or opportunities while others struggle, it creates a breeding ground for conflict. The disadvantaged group may eventually resort to violence to demand change.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>The Others:</strong><br>\n <strong>Justice (A)</strong>, <strong>Education (C)</strong>, and <strong>Forgiveness (D)</strong> are actually tools that help build peace, not obstacles.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 50",
+  "topic": [
+    "Peace Studies",
+    "Negative Peace"
+  ],
+  "Question": {
+    "content": "What does the absence of war but presence of oppression represent?",
+    "type": "OBJ",
+    "options": [
+      "Positive peace",
+      "Negative peace",
+      "Direct peace",
+      "Cultural peace"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Negative peace"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Negative Peace Explained</h4>\n <p>The correct answer is <strong>B (Negative peace)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why is this Negative Peace?</strong><br>\n Negative peace only requires the absence of war (direct violence). A society can have no war but still be deeply unjust, with oppression, poverty, and discrimination. This is still only negative peace because positive peace—which requires justice—is missing.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Example:</strong><br>\n A dictatorship might have no civil war (negative peace), but citizens have no rights and live in fear (oppression).\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 51",
+  "topic": [
+    "Peacekeeping",
+    "United Nations"
+  ],
+  "Question": {
+    "content": "Who often carries out peacekeeping missions?",
+    "type": "OBJ",
+    "options": [
+      "United Nations",
+      "Criminal groups",
+      "Local vigilantes",
+      "Political parties"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "United Nations"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Peacekeeping Missions</h4>\n <p>The correct answer is <strong>A (United Nations)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Who are Peacekeepers?</strong><br>\n The United Nations (UN) is the primary international body that organizes peacekeeping missions. They send soldiers and civilians from various countries to help war-torn regions maintain ceasefires and protect civilians.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Role:</strong><br>\n UN peacekeepers are not there to fight wars but to keep the peace after a conflict has stopped, often monitoring borders or protecting aid deliveries.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 52",
+  "topic": [
+    "Conflict Transformation",
+    "Conflict Resolution"
+  ],
+  "Question": {
+    "content": "What does conflict transformation seek to do?",
+    "type": "OBJ",
+    "options": [
+      "Escalate conflict",
+      "Change underlying structures and relationships",
+      "Avoid all communication",
+      "Promote violent retaliation"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Change underlying structures and relationships"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Conflict Transformation vs. Resolution</h4>\n <p>The correct answer is <strong>B (Change underlying structures and relationships)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is Conflict Transformation?</strong><br>\n Conflict transformation goes deeper than just ending a fight. It aims to change the very things that caused the conflict in the first place, like unfair laws, power imbalances, and damaged relationships. It's about creating a new, better situation.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Key Idea:</strong><br>\n Instead of just asking 'How do we stop this fight?', it asks 'How can we change this situation so the conflict is no longer necessary?'\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 53",
+  "topic": [
+    "Cultural Violence",
+    "Violence"
+  ],
+  "Question": {
+    "content": "Which of the following is a sign of cultural violence?",
+    "type": "OBJ",
+    "options": [
+      "Fair laws",
+      "Stereotyping certain groups",
+      "Equal opportunities",
+      "Promotion of unity"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Stereotyping certain groups"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Identifying Cultural Violence</h4>\n <p>The correct answer is <strong>B (Stereotyping certain groups)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is a Sign of Cultural Violence?</strong><br>\n Cultural violence shows up in attitudes, beliefs, and language. When a society stereotypes a group as 'lazy,' 'dangerous,' or 'inferior,' it creates a cultural justification for treating them badly. This can then lead to discrimination (structural violence) and hate crimes (direct violence).\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Other Options:</strong><br>\n <strong>Fair laws (A)</strong>, <strong>Equal opportunities (C)</strong>, and <strong>Promotion of unity (D)</strong> are all signs of peace, not violence.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 54",
+  "topic": ["Peace Studies", "Conflict Resolution", "International Relations"],
+  "Question": {
+    "content": "What does peace enforcement involve?",
+    "type": "OBJ",
+    "options": [
+      "Use of force to maintain peace",
+      "Eliminating all human rights",
+      "Avoiding intervention",
+      "Negotiation only"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Use of force to maintain peace"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Peace Enforcement</h4>\n <p>The correct answer is <strong>Use of force to maintain peace</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is Peace Enforcement?</strong><br>\n Peace enforcement is a type of robust international intervention. Unlike peacekeeping, which relies on consent and uses force only in self-defense, peace enforcement involves the authorization to use military force to compel belligerent parties to cease hostilities and comply with a peace agreement. It is a more proactive and forceful approach to restoring peace and security in a conflict zone.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why the other options are incorrect:</strong><br>\n - Eliminating human rights is the opposite of the goal of peace.<br>\n - Avoiding intervention is a non-interventionist policy, not peace enforcement.<br>\n - Negotiation only is a diplomatic approach, but peace enforcement goes beyond negotiation by having a military component to back it up.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 55",
+  "topic": ["Violence", "Gender Studies", "Peace Studies"],
+  "Question": {
+    "content": "How is gender-based violence classified?",
+    "type": "OBJ",
+    "options": [
+      "Social harmony",
+      "Direct violence",
+      "Interfaith peace",
+      "Economic peace"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Direct violence"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Types of Violence</h4>\n <p>The correct answer is <strong>Direct violence</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Defining Direct Violence</strong><br>\n In peace and conflict studies, violence is often categorized. Direct violence refers to physical or verbal acts that harm a person. Gender-based violence (GBV), such as physical assault, sexual abuse, or psychological intimidation based on gender, is a clear and direct act of harm, making it a form of direct violence.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Understanding the other terms:</strong><br>\n - Social harmony is a state of peaceful coexistence, the opposite of violence.<br>\n - Interfaith peace refers to harmony between different religious groups.<br>\n - Economic peace focuses on creating just and equitable economic systems to prevent conflict.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 56",
+  "topic": ["Conflict Prevention", "Peace Studies", "Social Justice"],
+  "Question": {
+    "content": "Which of the following contributes to violence prevention?",
+    "type": "OBJ",
+    "options": [
+      "Injustice",
+      "Dialogue and inclusion",
+      "Discrimination",
+      "Marginalization"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Dialogue and inclusion"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Preventing Violence</h4>\n <p>The correct answer is <strong>Dialogue and inclusion</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Peacebuilding Strategies</strong><br>\n Violence often stems from exclusion, grievances, and a lack of communication. Dialogue provides a platform for parties to express their concerns and find common ground. Inclusion ensures that all groups in society feel represented and heard, addressing the root causes of conflict and preventing escalation into violence.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why the others cause violence:</strong><br>\n Injustice, discrimination, and marginalization are all root causes of conflict and violence, not solutions to prevent it.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 57",
+  "topic": ["Environmental Peace", "Ecology", "Resource Management"],
+  "Question": {
+    "content": "What does environmental peace primarily focus on?",
+    "type": "OBJ",
+    "options": [
+      "Resource management and ecological stability",
+      "Violent protests",
+      "Ethnic oppression",
+      "Unemployment"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Resource management and ecological stability"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining Environmental Peace</h4>\n <p>The correct answer is <strong>Resource management and ecological stability</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Link Between Environment and Conflict</strong><br>\n Environmental peace is a concept that recognizes how competition over natural resources like water, land, and minerals can be a source of conflict. Its focus is on promoting peace through cooperative and sustainable management of these resources and ensuring ecological stability, which in turn supports long-term human security and reduces the risk of conflict.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 58",
+  "topic": ["Positive Peace", "Social Justice", "Peace Studies"],
+  "Question": {
+    "content": "What characterizes a society with positive peace?",
+    "type": "OBJ",
+    "options": [
+      "Corruption",
+      "Equality and justice",
+      "Oppression",
+      "Violence"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Equality and justice"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Positive Peace</h4>\n <p>The correct answer is <strong>Equality and justice</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Beyond the Absence of War</strong><br>\n Positive peace, a term coined by Johan Galtung, goes beyond simply the absence of direct violence (negative peace). It describes a state of society where there is structural and cultural peace. This is characterized by the presence of social justice, equality, the rule of law, and institutions that meet the needs of all citizens, thereby preventing conflict from arising in the first place.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 59",
+  "topic": ["Cyberbullying", "Psychological Violence", "Modern Violence"],
+  "Question": {
+    "content": "How is cyberbullying best categorized?",
+    "type": "OBJ",
+    "options": [
+      "Direct violence",
+      "Psychological violence",
+      "Cultural peace",
+      "Institutional harmony"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Psychological violence"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Nature of Cyberbullying</h4>\n <p>The correct answer is <strong>Psychological violence</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Harm Beyond the Physical</strong><br>\n While cyberbullying can be a form of direct violence, it is most specifically categorized as psychological violence. Its primary aim and effect are to cause emotional, mental, and social harm to the victim. It involves harassment, intimidation, and humiliation through digital means, targeting a person's psychological well-being rather than causing direct physical injury.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 60",
+  "topic": ["Peace Studies", "Conflict Resolution", "Education"],
+  "Question": {
+    "content": "What is the main goal of peace studies?",
+    "type": "OBJ",
+    "options": [
+      "Promote superiority of one group",
+      "Understand causes and solutions to conflict",
+      "Encourage violent behavior",
+      "Increase hostility"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Understand causes and solutions to conflict"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Purpose of Peace Studies</h4>\n <p>The correct answer is <strong>Understand causes and solutions to conflict</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>An Interdisciplinary Field</strong><br>\n Peace studies is an academic field that examines the root causes of violence and conflict at all levels (interpersonal, communal, national, and global). Its goal is not just to describe conflict, but to analyze it critically and develop practical, non-violent strategies for conflict transformation, peacebuilding, and the creation of a more just and peaceful world.\n </div>\n</div>"
+  }
+}]

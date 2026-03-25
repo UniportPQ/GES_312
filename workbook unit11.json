@@ -1,0 +1,703 @@
+[
+  {
+    "type": "heading",
+    "heading": "Unit Eleven: Strategies and Approaches for Managing and Resolving Workplace Conflict",
+    "Subheading": "Questions 471 to 484"
+  },
+  {
+    "type": "Question",
+    "name": "Question 471",
+    "topic": ["Conflict Resolution", "Communication", "Management"],
+    "Question": {
+      "content": "Which of the following is a key strategy in managing workplace conflict?",
+      "type": "OBJ",
+      "options": [
+        "Avoiding communication",
+        "Active listening",
+        "Ignoring issues",
+        "Assigning blame"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Active listening"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>A Key Strategy: Active Listening</h4>\n<p>The correct answer is <strong>Active listening</strong>. Managing conflict starts with understanding, and you can't understand someone without truly listening.</p>\n<ul>\n<li><strong>Active listening</strong> is a technique that goes beyond simply hearing words. It involves paying full attention, showing empathy, and asking clarifying questions to ensure you understand the other person's perspective and feelings.</li>\n<li>It helps de-escalate tension because people feel heard and respected. This creates a foundation for collaborative problem-solving.</li>\n<li><strong>Avoiding communication</strong>, <strong>ignoring issues</strong>, and <strong>assigning blame</strong> are counterproductive strategies that will only make the conflict worse.</li>\n</ul>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 472",
+    "topic": ["Conflict Resolution", "Problem Solving"],
+    "Question": {
+      "content": "What is the first step in resolving workplace conflict?",
+      "type": "OBJ",
+      "options": [
+        "Implementing sanctions",
+        "Identifying the source of conflict",
+        "Choosing sides",
+        "Ignoring the conflict"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Identifying the source of conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Step One: Find the Root Cause</h4>\n<p>The correct answer is <strong>Identifying the source of conflict</strong>. You can't solve a problem if you don't know what's causing it.</p>\n<p>The first step is always diagnosis. The conflict might look like a personality clash, but the real source could be:</p>\n<ul>\n<li><strong>Structural:</strong> Unclear roles, limited resources, or ambiguous authority lines.</li>\n<li><strong>Communication:</strong> Misinformation, lack of information, or poor listening.</li>\n<li><strong>Value Differences:</strong> Different beliefs or priorities.</li>\n</ul>\n<p>Jumping straight to <strong>implementing sanctions</strong> or <strong>choosing sides</strong> without identifying the root cause will only address symptoms, leading to the conflict resurfacing later. <strong>Ignoring the conflict</strong> is the worst possible first step, as it allows it to fester and escalate.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 473",
+    "topic": ["Conflict Resolution", "Collaboration", "Management"],
+    "Question": {
+      "content": "Which approach involves both parties working together to find a mutually beneficial solution?",
+      "type": "OBJ",
+      "options": [
+        "Competing",
+        "Collaborating",
+        "Avoiding",
+        "Accommodating"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Collaborating"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Collaborative Approach: Win-Win</h4>\n<p>The correct answer is <strong>Collaborating</strong>. This is often considered the ideal conflict management style when time permits and the issue is important to both parties.</p>\n<ul>\n<li><strong>Collaborating</strong> is a win-win strategy. It involves high assertiveness (caring about your own needs) and high cooperation (caring about the other's needs). The goal is to find a creative solution that fully satisfies all parties' concerns.</li>\n<li>In contrast, <strong>Competing</strong> is win-lose, <strong>Avoiding</strong> is lose-lose (or no-win), and <strong>Accommodating</strong> is lose-win (giving in to the other party).</li>\n</ul>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 474",
+    "topic": ["Conflict Resolution", "Interpersonal Skills"],
+    "Question": {
+      "content": "What does the 'accommodating' strategy in conflict management emphasize?",
+      "type": "OBJ",
+      "options": [
+        "Winning at all costs",
+        "Meeting the needs of the other party",
+        "Ignoring the problem",
+        "Imposing strict rules"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Meeting the needs of the other party"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Accommodating: Putting Others First</h4>\n<p>The correct answer is <strong>Meeting the needs of the other party</strong>. Accommodating is a conflict management style characterized by low assertiveness and high cooperation.</p>\n<ul>\n<li>A person using this strategy is essentially giving in to the other side. They put their own concerns aside to satisfy the other person's needs.</li>\n<li>This can be useful when you realize you are wrong, when the issue is much more important to the other person, or when you want to build goodwill. However, overusing this style can lead to feeling taken advantage of and resentment.</li>\n<li>It is the opposite of <strong>competing</strong> (winning at all costs) and distinct from <strong>avoiding</strong> (ignoring the problem).</li>\n</ul>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 475",
+    "topic": ["Conflict Resolution", "Management Styles"],
+    "Question": {
+      "content": "A win-lose approach to conflict is characteristic of which style?",
+      "type": "OBJ",
+      "options": [
+        "Competing",
+        "Collaborating",
+        "Compromising",
+        "Avoiding"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Competing"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Competing: The Win-Lose Style</h4>\n<p>The correct answer is <strong>Competing</strong>. This style is characterized by high assertiveness and low cooperation.</p>\n<ul>\n<li>The goal of a competing approach is to win the conflict at the other person's expense. It involves using power, authority, or forceful arguments to get one's own way.</li>\n<li>This style can be appropriate in emergencies, when an unpopular but necessary decision needs to be made, or when protecting against someone taking unfair advantage.</li>\n<li>However, it can damage relationships and is often seen as a less effective long-term strategy compared to collaboration.</li>\n</ul>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 476",
+    "topic": ["Conflict Resolution", "Negotiation"],
+    "Question": {
+      "content": "What does compromise as a conflict management strategy usually involve?",
+      "type": "OBJ",
+      "options": [
+        "One party winning",
+        "Both parties giving up something",
+        "Ignoring the conflict",
+        "Avoiding discussion"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Both parties giving up something"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Compromise: The Split-the-Difference Approach</h4>\n<p>The correct answer is <strong>Both parties giving up something</strong>. Compromise is a moderate approach, characterized by intermediate levels of both assertiveness and cooperation.</p>\n<ul>\n<li>It is often described as a "give-and-take" or "split-the-difference" strategy. Each party sacrifices something to reach a mutually acceptable, but not fully satisfying, solution.</li>\n<li>Compromise is useful when the goals are moderately important, when parties have equal power, or when a temporary solution is needed. Unlike <strong>collaborating</strong>, it doesn't fully satisfy all needs; unlike <strong>competing</strong>, there is no single winner.</li>\n</ul>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 477",
+    "topic": ["Communication", "Conflict", "Organizational Behavior"],
+    "Question": {
+      "content": "Which of the following is a common cause of workplace conflict?",
+      "type": "OBJ",
+      "options": [
+        "Clear job roles",
+        "Miscommunication",
+        "Team collaboration",
+        "Shared goals"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Miscommunication"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>A Common Cause: Miscommunication</h4>\n<p>The correct answer is <strong>Miscommunication</strong>. It is one of the most frequent and powerful triggers of workplace conflict.</p>\n<p>Miscommunication can take many forms:</p>\n<ul>\n<li><strong>Lack of Information:</strong> People feeling left out of the loop.</li>\n<li><strong>Misinformation:</strong> Relying on rumors or incorrect data.</li>\n<li><strong>Poor Listening:</strong> Not fully understanding what someone else is saying.</li>\n<li><strong>Assumptions:</strong> Believing you know someone's intentions without verifying.</li>\n</ul>\n<p>In contrast, <strong>clear job roles</strong>, <strong>team collaboration</strong>, and <strong>shared goals</strong> are all factors that help *prevent* conflict, not cause it.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 478",
+    "topic": ["Communication", "Conflict Resolution", "Emotional Intelligence"],
+    "Question": {
+      "content": "Which technique encourages employees to express feelings without blaming others?",
+      "type": "OBJ",
+      "options": [
+        "Mediation",
+        "Active listening",
+        "Passive resistance",
+        "Arbitration"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Active listening"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Active Listening for Safe Expression</h4>\n<p>The correct answer is <strong>Active listening</strong>. While mediation and arbitration are processes, active listening is a fundamental technique used within them to create a safe environment for communication.</p>\n<p>When a manager or colleague practices active listening, they demonstrate empathy and a genuine desire to understand. This encourages the speaker to:</p>\n<ul>\n<li>Focus on describing their own feelings ("I felt frustrated when...") instead of launching accusations ("You always...").</li>\n<li>Feel safe enough to be vulnerable and share their true perspective without fear of judgment or retaliation.</li>\n<li>De-escalate the situation, as being heard often reduces defensiveness and anger.</li>\n</ul>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 479",
+    "topic": ["Conflict Resolution", "Mediation"],
+    "Question": {
+      "content": "How is mediation in conflict resolution best described?",
+      "type": "OBJ",
+      "options": [
+        "A formal court process",
+        "A neutral third party assisting resolution",
+        "Ignoring conflict",
+        "Punishing one side"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A neutral third party assisting resolution"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Mediation: Assisted Negotiation</h4>\n<p>The correct answer is <strong>A neutral third party assisting resolution</strong>. Mediation is a voluntary, confidential process where a neutral person (the mediator) helps the conflicting parties communicate and negotiate to reach their own agreement.</p>\n<ul>\n<li>The mediator does not make a decision or impose a solution. Their role is to facilitate dialogue, clarify issues, and help the parties explore options.</li>\n<li>It is distinct from <strong>arbitration</strong>, where the third party makes a binding decision, and <strong>a formal court process</strong>, which is adversarial and legally binding.</li>\n</ul>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 480",
+    "topic": ["Conflict Resolution", "Management Styles"],
+    "Question": {
+      "content": "Which conflict management style is used when one avoids the conflict entirely?",
+      "type": "OBJ",
+      "options": [
+        "Competing",
+        "Avoiding",
+        "Collaborating",
+        "Compromising"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Avoiding"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Avoiding Style</h4>\n<p>The correct answer is <strong>Avoiding</strong>. This style is characterized by low assertiveness and low cooperation.</p>\n<p>A person using this style ignores the conflict, withdraws from the situation, or postpones addressing it. This can be a valid strategy in certain situations, such as:</p>\n<ul>\n<li>When the issue is trivial.</li>\n<li>When there is no chance of winning.</li>\n<li>When you need time to cool down and collect your thoughts.</li>\n</ul>\n<p>However, as a primary strategy, avoidance often allows conflict to simmer beneath the surface, leading to bigger problems later on.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 481",
+    "topic": ["Conflict Resolution", "Arbitration", "Mediation"],
+    "Question": {
+      "content": "How does arbitration differ from mediation?",
+      "type": "OBJ",
+      "options": [
+        "Involves a neutral facilitator",
+        "Provides a binding decision",
+        "Encourages negotiation",
+        "Ignores the conflict"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Provides a binding decision"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Arbitration vs. Mediation</h4>\n<p>The correct answer is <strong>Provides a binding decision</strong>. This is the key difference between the two processes.</p>\n<ul>\n<li><strong>Mediation:</strong> A neutral third party <em>assists</em> the parties in reaching a mutually agreeable solution. The mediator has no authority to impose a decision. The outcome is controlled by the parties.</li>\n<li><strong>Arbitration:</strong> A neutral third party (the arbitrator) listens to both sides and then <em>makes a decision</em> that is typically final and binding. The outcome is controlled by the arbitrator.</li>\n</ul>\n<p>While both involve a neutral third party and are more formal than simple negotiation, arbitration is a more structured, court-like process designed to produce a final verdict.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 482",
+    "topic": ["Emotional Intelligence", "Conflict Resolution", "Management"],
+    "Question": {
+      "content": "How does emotional intelligence help managers resolve conflict?",
+      "type": "OBJ",
+      "options": [
+        "Ignoring emotions responsibly",
+        "Recognizing and managing emotions",
+        "Encouraging blame",
+        "Avoiding responsibility"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Recognizing and managing emotions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Role of Emotional Intelligence</h4>\n<p>The correct answer is <strong>Recognizing and managing emotions</strong>. Emotional Intelligence (EQ) is the ability to perceive, understand, and manage one's own emotions and the emotions of others.</p>\n<p>In conflict resolution, EQ helps managers in several key ways:</p>\n<ul>\n<li><strong>Self-Awareness:</strong> Recognizing their own emotional triggers so they don't react impulsively or make the situation worse.</li>\n<li><strong>Self-Management:</strong> Staying calm and composed under pressure, setting a constructive tone for the conversation.</li>\n<li><strong>Empathy:</strong> Understanding the perspectives and feelings of the people in conflict, which helps de-escalate tension and build trust.</li>\n<li><strong>Social Skills:</strong> Using effective communication and persuasion to guide the parties toward a resolution.</li>\n</ul>\n<p>Ignoring or avoiding emotions makes conflict resolution nearly impossible, as emotions are central to the experience of conflict.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 483",
+    "topic": ["Conflict Resolution", "Management Styles"],
+    "Question": {
+      "content": "Which strategy is most appropriate for minor conflicts with low stakes?",
+      "type": "OBJ",
+      "options": [
+        "Avoiding",
+        "Competing",
+        "Collaborating",
+        "Arbitration"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Avoiding"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>When to Avoid: Low-Stakes Conflicts</h4>\n<p>The correct answer is <strong>Avoiding</strong>. While collaboration is often ideal, it's not always the most efficient use of time and energy.</p>\n<p>For a minor conflict with low stakes—like a small disagreement over where to put a shared printer or a difference of opinion on a non-critical matter—avoiding the conflict or letting it go is a perfectly appropriate strategy. The potential time and effort required to resolve it outweigh the potential benefits. In these cases, "picking your battles" is a wise management approach. Using <strong>arbitration</strong> or <strong>collaboration</strong> for such a minor issue would be overkill.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 484",
+    "topic": ["Conflict", "Organizational Behavior", "Values"],
+    "Question": {
+      "content": "What is conflict that arises due to differences in values or beliefs known as?",
+      "type": "OBJ",
+      "options": [
+        "Task conflict",
+        "Relationship conflict",
+        "Role conflict",
+        "Structural conflict"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Relationship conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Relationship Conflict: Clash of Values and Beliefs</h4>\n<p>The correct answer is <strong>Relationship conflict</strong>. This type of conflict is personal, emotional, and stems from interpersonal dynamics.</p>\n<p>Key characteristics of relationship conflict include:</p>\n<ul>\n<li>It is driven by differences in personal values, beliefs, attitudes, and personality.</li>\n<li>It often involves anger, frustration, resentment, and a focus on personal attributes rather than tasks.</li>\n<li>It is generally considered the most damaging type of conflict because it attacks the relationship itself and can quickly escalate into a destructive cycle of personal animosity.</li>\n</ul>\n<p>In contrast, <strong>task conflict</strong> is about the content of the work, and <strong>process conflict</strong> is about how the work gets done.</p>\n</div>"
+    }
+  }
+]
+```
+
+
+```json
+[
+  {
+    "type": "Question",
+    "name": "Question 485",
+    "topic": ["Communication", "Conflict Management"],
+    "Question": {
+      "content": "Establishing clear communication channels helps in what?",
+      "type": "OBJ",
+      "options": [
+        "Preventing conflict",
+        "Creating tension",
+        "Encouraging rumors",
+        "Increasing misunderstandings"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Preventing conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Clear Communication: A Conflict Preventer</h4>\n <p>The correct answer is <strong>A (Preventing conflict)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why it Works</strong><br>\n When communication channels are clear, information flows smoothly. People understand expectations, roles, and instructions. This clarity removes the ambiguity and assumptions that are the primary sources of misunderstandings and disagreements. By ensuring everyone is on the same page, you proactively prevent conflicts before they can start.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Common Misconceptions</strong><br>\n Options like 'creating tension' (B) or 'increasing misunderstandings' (D) are the opposite of what clear communication achieves. 'Encouraging rumors' (C) is a symptom of poor, informal communication channels.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 486",
+    "topic": ["Conflict Management", "Communication"],
+    "Question": {
+      "content": "Which approach to conflict resolution focuses on satisfying one party's concerns over another's?",
+      "type": "OBJ",
+      "options": [
+        "Collaborating",
+        "Competing",
+        "Compromising",
+        "Avoiding"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Competing"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Competing (or Forcing) Approach</h4>\n <p>The correct answer is <strong>B (Competing)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Definition</strong><br>\n This is a high-assertiveness, low-cooperation approach. One party pursues their own concerns at the expense of the other. It's a 'win-lose' scenario where power, authority, or persuasion is used to get one's way.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Contrast with Others</strong><br>\n <ul>\n <li><strong>Collaborating (A):</strong> Seeks a 'win-win' solution that satisfies both parties.</li>\n <li><strong>Compromising (C):</strong> Each party gives up something to reach a mutually acceptable, but partially satisfying, solution.</li>\n <li><strong>Avoiding (D):</strong> Involves withdrawing or ignoring the conflict altogether.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 487",
+    "topic": ["Conflict Management", "Communication"],
+    "Question": {
+      "content": "Win-win solutions are associated with which conflict resolution strategy?",
+      "type": "OBJ",
+      "options": [
+        "Avoiding",
+        "Collaborating",
+        "Competing",
+        "Accommodating"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Collaborating"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Collaborative Approach</h4>\n <p>The correct answer is <strong>B (Collaborating)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is Collaboration?</strong><br>\n This strategy is high in both assertiveness and cooperation. It involves working together to find a solution that fully satisfies the concerns of all parties involved. It requires open communication, active listening, and creative problem-solving to integrate the needs of everyone.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why it's a 'Win-Win'</strong><br>\n Unlike compromising where both sides give something up, collaboration aims to create a new solution where both sides get what they need, making it the ideal but often most time-consuming strategy.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 488",
+    "topic": ["Conflict Management"],
+    "Question": {
+      "content": "What is one advantage of using compromise as a conflict resolution strategy?",
+      "type": "OBJ",
+      "options": [
+        "Resolves conflict partially and quickly",
+        "Ensures one party loses completely",
+        "Avoids addressing the conflict",
+        "Leads to repeated disputes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Resolves conflict partially and quickly"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Value of Compromise</h4>\n <p>The correct answer is <strong>A (Resolves conflict partially and quickly)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Advantages</strong><br>\n Compromise is a moderate approach where each party gives up something to reach a mutually acceptable solution. Its main strengths are its speed and efficiency. It's useful when a temporary solution is needed, time is limited, or the parties have equal power and conflicting goals.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why Others are Incorrect</strong><br>\n It does not ensure one party loses (B) — that's competing. It actively addresses the conflict (C) rather than avoiding it. While it can sometimes lead to disputes if the compromise is unsatisfactory, its primary advantage is a quick, partial resolution.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 489",
+    "topic": ["Conflict Management", "Productivity"],
+    "Question": {
+      "content": "What is a likely outcome of poor conflict management in the workplace?",
+      "type": "OBJ",
+      "options": [
+        "Higher morale",
+        "Reduced productivity",
+        "Improved teamwork",
+        "Employee engagement"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Reduced productivity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Cost of Unmanaged Conflict</h4>\n <p>The correct answer is <strong>B (Reduced productivity)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Negative Consequences</strong><br>\n When conflicts are ignored or handled poorly, they fester. This leads to increased stress, low morale, absenteeism, and a toxic work environment. Employees spend time gossiping, avoiding colleagues, or dwelling on the issue instead of focusing on their work. This results in a direct and measurable drop in productivity and efficiency.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 490",
+    "topic": ["Conflict Management", "Training"],
+    "Question": {
+      "content": "What is typically included in conflict resolution training programs?",
+      "type": "OBJ",
+      "options": [
+        "Techniques for punishment",
+        "Effective communication skills",
+        "Avoidance strategies",
+        "Ignoring workplace issues"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Effective communication skills"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Core Components of Conflict Resolution Training</h4>\n <p>The correct answer is <strong>B (Effective communication skills)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is Taught</strong><br>\n Training focuses on building the skills needed to address conflicts constructively. This includes active listening, assertive speaking, non-verbal communication, asking clarifying questions, and techniques for de-escalating heated situations. The goal is to empower employees to handle disagreements professionally and respectfully.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>What is NOT Taught</strong><br>\n Good training programs do not teach punishment (A), avoidance (C), or ignoring issues (D), as these are counterproductive and typically make conflicts worse.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 491",
+    "topic": ["Conflict Management", "Workplace Dynamics"],
+    "Question": {
+      "content": "Which of the following is a benefit of effectively resolving workplace conflict?",
+      "type": "OBJ",
+      "options": [
+        "Increased absenteeism",
+        "Improved collaboration",
+        "Higher turnover",
+        "Reduced trust"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Improved collaboration"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Positive Outcomes of Effective Conflict Resolution</h4>\n <p>The correct answer is <strong>B (Improved collaboration)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>A Catalyst for Teamwork</strong><br>\n When conflicts are resolved effectively, it strengthens relationships. Team members learn to trust each other more, communicate openly, and understand each other's working styles and perspectives. This new level of understanding and respect forms a solid foundation for better collaboration on future projects.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 492",
+    "topic": ["Conflict Management", "Leadership"],
+    "Question": {
+      "content": "A manager who uses the 'forcing' method in conflict resolution is engaging in what behavior?",
+      "type": "OBJ",
+      "options": [
+        "Ignoring the issue",
+        "Compelling others to accept a solution",
+        "Encouraging dialogue",
+        "Seeking compromise"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Compelling others to accept a solution"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding the 'Forcing' Style</h4>\n <p>The correct answer is <strong>B (Compelling others to accept a solution)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Definition</strong><br>\n Forcing, also known as competing, is a conflict resolution style where one party uses their authority, power, or position to impose a solution. The focus is on winning the argument, not finding the best solution for the team. It's often used when a quick, decisive action is needed, but it can damage relationships if overused.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Contrast</strong><br>\n This is the opposite of ignoring the issue (A), encouraging dialogue (C), or seeking compromise (D), all of which involve a more collaborative or passive approach.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 493",
+    "topic": ["Team Dynamics", "Conflict Management"],
+    "Question": {
+      "content": "Conflict in teams can sometimes be considered positive if it leads to what outcome?",
+      "type": "OBJ",
+      "options": [
+        "Encourages destructive behavior",
+        "Leads to creative problem solving",
+        "Reduces communication",
+        "Creates personal grudges"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Leads to creative problem solving"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Concept of 'Functional' Conflict</h4>\n <p>The correct answer is <strong>B (Leads to creative problem solving)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Positive Conflict</strong><br>\n Not all conflict is bad. When teams feel safe to debate ideas and challenge assumptions (known as task-related or cognitive conflict), it can lead to better decision-making. By bringing different perspectives to the table, teams can identify flaws in their plans, explore innovative solutions, and avoid 'groupthink'.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>What to Avoid</strong><br>\n This positive effect is only possible when the conflict is focused on ideas and tasks, not on personal issues. Destructive behavior (A), reduced communication (C), and personal grudges (D) are signs of negative, personal conflict that harms the team.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 494",
+    "topic": ["Conflict Management", "Organizational Behavior"],
+    "Question": {
+      "content": "Role clarification is a strategy specifically used to address which type of conflict?",
+      "type": "OBJ",
+      "options": [
+        "Relationship conflict",
+        "Task or role conflict",
+        "Interpersonal conflict",
+        "Resource conflict"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Task or role conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Addressing Role Ambiguity</h4>\n <p>The correct answer is <strong>B (Task or role conflict)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Root Cause</strong><br>\n Role conflict arises when job duties, responsibilities, or expectations are unclear, overlapping, or contradictory. Two people might believe they are responsible for the same task, or a person might receive conflicting instructions from two managers.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>The Solution: Role Clarification</strong><br>\n This strategy involves clearly defining each person's tasks, responsibilities, authority, and accountability. By creating a clear 'map' of who does what, it removes the confusion and jurisdictional disputes that are the core of task-related conflicts.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 495",
+    "topic": ["Communication", "Conflict Management"],
+    "Question": {
+      "content": "What does active listening involve during the conflict resolution process?",
+      "type": "OBJ",
+      "options": [
+        "Interrupting frequently",
+        "Paraphrasing and summarizing",
+        "Ignoring emotions",
+        "Passing judgment"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Paraphrasing and summarizing"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Core of Active Listening</h4>\n <p>The correct answer is <strong>B (Paraphrasing and summarizing)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What it is</strong><br>\n Active listening is a structured way of listening and responding. The goal is to ensure mutual understanding. Key techniques include:\n <ul>\n <li><strong>Paraphrasing:</strong> Restating what the speaker said in your own words to confirm understanding. \"So, what I'm hearing you say is...\"</li>\n <li><strong>Summarizing:</strong> Briefly stating the main points after the speaker has finished a thought.</li>\n <li><strong>Asking clarifying questions:</strong> To get more information.</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>What it is NOT</strong><br>\n It is the opposite of interrupting (A), ignoring emotions (C), or passing judgment (D). It's about understanding the other person's perspective, not forming a rebuttal.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 496",
+    "topic": ["Conflict Management"],
+    "Question": {
+      "content": "The collaborative approach to conflict resolution encourages what outcome?",
+      "type": "OBJ",
+      "options": [
+        "One-sided solutions",
+        "Mutual understanding and joint solutions",
+        "Avoidance of confrontation",
+        "Strict enforcement of rules"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mutual understanding and joint solutions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Goal of Collaboration</h4>\n <p>The correct answer is <strong>B (Mutual understanding and joint solutions)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Collaborative Mindset</strong><br>\n This approach is based on the belief that the best solution can be found by working together. It encourages parties to:\n <ul>\n <li>Share their underlying needs and interests, not just their positions.</li>\n <li>Listen to understand the other's perspective.</li>\n <li>Brainstorm options together to find a creative solution that satisfies everyone's core concerns.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 497",
+    "topic": ["Conflict Management", "Leadership"],
+    "Question": {
+      "content": "When a manager 'accommodates' an employee during a conflict, what are they likely doing?",
+      "type": "OBJ",
+      "options": [
+        "Prioritizing organizational rules over relationships",
+        "Yielding to the employee's needs",
+        "Ignoring the employee",
+        "Escalating the conflict"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Yielding to the employee's needs"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Accommodating (or Yielding) Style</h4>\n <p>The correct answer is <strong>B (Yielding to the employee's needs)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Definition</strong><br>\n Accommodating is a cooperative but unassertive style. The manager puts the employee's needs above their own, essentially sacrificing their own position to maintain harmony or preserve the relationship. It's the opposite of competing. A manager might do this if the issue is more important to the employee, or if they realize they were wrong.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Contrast</strong><br>\n This is not about enforcing rules (A) — that's forcing. It's not ignoring (C) or escalating (D) the conflict; it's actively choosing to give in.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 498",
+    "topic": ["Conflict Management", "Workplace Dynamics"],
+    "Question": {
+      "content": "What is a clear sign that a workplace conflict has not been resolved?",
+      "type": "OBJ",
+      "options": [
+        "Increased collaboration",
+        "Poor communication and tension",
+        "Higher morale",
+        "Team cohesion"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Poor communication and tension"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Symptoms of Unresolved Conflict</h4>\n <p>The correct answer is <strong>B (Poor communication and tension)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Visible Signs</strong><br>\n When a conflict is not resolved, it doesn't just disappear. It manifests in the workplace environment. Common signs include:\n <ul>\n <li><strong>Poor communication:</strong> People avoid talking to each other, use passive-aggressive tones, or gossip.</li>\n <li><strong>Visible tension:</strong> A sense of awkwardness, stress, or hostility during interactions.</li>\n <li><strong>Cliques and silos:</strong> People forming factions and refusing to work with certain individuals.</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Contrast with Resolved Conflict</strong><br>\n In contrast, resolved conflict leads to increased collaboration (A), higher morale (C), and stronger team cohesion (D).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 499",
+    "topic": ["Organizational Policy", "Conflict Management"],
+    "Question": {
+      "content": "Why are conflict resolution policies important for organizations to have?",
+      "type": "OBJ",
+      "options": [
+        "Promote fairness and consistency",
+        "Encourage favoritism",
+        "Increase disputes",
+        "Reduce accountability"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Promote fairness and consistency"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Role of Formal Policies</h4>\n <p>The correct answer is <strong>A (Promote fairness and consistency)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why Policies Matter</strong><br>\n A formal conflict resolution policy provides a clear, structured process for handling disputes. This ensures that all employees are treated fairly and that similar conflicts are handled in a consistent manner, regardless of who is involved. This builds trust in the organization and reduces the perception of bias or favoritism.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 500",
+    "topic": ["Conflict Management", "Leadership"],
+    "Question": {
+      "content": "What is a common reason why managers might choose to avoid a conflict?",
+      "type": "OBJ",
+      "options": [
+        "They prefer innovative solutions",
+        "Fear of confrontation or escalation",
+        "To promote teamwork",
+        "To empower employees"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fear of confrontation or escalation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Conflict Avoidance</h4>\n <p>The correct answer is <strong>B (Fear of confrontation or escalation)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Psychology of Avoidance</strong><br>\n Many managers, especially inexperienced ones, avoid conflict because they find it uncomfortable. They may fear that addressing the conflict will:\n <ul>\n <li>Make the situation worse or cause it to escalate.</li>\n <li>Damage a valued relationship with an employee.</li>\n <li>Make them appear weak or unable to handle their team.</li>\n <li>Lead to a difficult emotional conversation they want to postpone.</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>The Problem</strong><br>\n While it feels safer in the short term, avoiding conflict usually allows problems to fester and grow, making them much harder to resolve later.\n </div>\n</div>"
+    }
+  }
+]

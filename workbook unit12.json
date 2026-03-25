@@ -1,0 +1,769 @@
+
+```
+
+
+```json
+[
+  {
+    "type": "Question",
+    "name": "Question 501",
+    "topic": ["Workplace Conflict", "Collaboration", "Organizational Culture"],
+    "Question": {
+      "content": "What is the primary goal of transforming workplace conflict?",
+      "type": "OBJ",
+      "options": [
+        "To eliminate all disagreements",
+        "To punish employees for conflict",
+        "To build a culture of peace and collaboration",
+        "To increase competitiveness"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To build a culture of peace and collaboration"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Conflict Transformation</h4>\n <p>The primary goal is not to eliminate disagreements (which are natural), but to transform how they are handled. The aim is to move from destructive patterns to constructive ones, fostering a <strong>culture of peace and collaboration</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Insight</strong><br>\n When conflict is transformed, it becomes a tool for growth, innovation, and stronger relationships, rather than a source of division and stress.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 502",
+    "topic": ["Workplace Conflict", "Communication", "Organizational Behavior"],
+    "Question": {
+      "content": "Which of the following is a common source of workplace conflict?",
+      "type": "OBJ",
+      "options": [
+        "Clear communication",
+        "Role ambiguity",
+        "Employee recognition",
+        "Team cohesion"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Role ambiguity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Root Causes of Conflict</h4>\n <p><strong>Role ambiguity</strong> occurs when employees are unclear about their responsibilities, expectations, or authority. This lack of clarity leads to misunderstandings, duplicated efforts, or missed tasks, which are frequent triggers for workplace conflict.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Other Common Sources</strong><br>\n Resource scarcity, differing values, poor communication, and interpersonal dynamics also frequently cause conflict.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 503",
+    "topic": ["Workplace Conflict", "Organizational Behavior"],
+    "Question": {
+      "content": "How can conflict in the workplace be characterized?",
+      "type": "OBJ",
+      "options": [
+        "Always negative",
+        "Always positive",
+        "Either functional or dysfunctional",
+        "Unavoidable and unmanageable"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Either functional or dysfunctional"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Dual Nature of Conflict</h4>\n <p>Conflict is not inherently good or bad; its outcome depends on how it's managed. <strong>Functional conflict</strong> is constructive, leading to better ideas and improved processes. <strong>Dysfunctional conflict</strong> is destructive, harming relationships and productivity.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Goal</strong><br>\n The aim is to minimize dysfunctional conflict and leverage functional conflict for organizational growth.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 504",
+    "topic": ["Conflict Management", "Collaboration", "Communication"],
+    "Question": {
+      "content": "Which conflict management style focuses on satisfying both parties?",
+      "type": "OBJ",
+      "options": [
+        "Avoiding",
+        "Competing",
+        "Collaborating",
+        "Accommodating"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Collaborating"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Collaborative Approach</h4>\n <p><strong>Collaborating</strong> is a win-win style. It involves high concern for both your own goals and the other person's goals. The focus is on finding a creative solution that fully satisfies all parties, often requiring open communication and joint problem-solving.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Comparison</strong><br>\n <ul><li><strong>Avoiding</strong>: Low concern for self and others.</li><li><strong>Competing</strong>: High concern for self, low for others.</li><li><strong>Accommodating</strong>: Low concern for self, high for others.</li></ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 505",
+    "topic": ["Conflict Resolution", "Problem Solving"],
+    "Question": {
+      "content": "What is the first step in transforming workplace conflict?",
+      "type": "OBJ",
+      "options": [
+        "Ignoring the issue",
+        "Identifying the source of conflict",
+        "Assigning blame",
+        "Holding a team meeting"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Identifying the source of conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The First Crucial Step</h4>\n <p>Before you can solve a problem, you need to understand it. The first step is to <strong>identify the source</strong> or root cause of the conflict. This involves separating the underlying issues from the surface-level symptoms. Jumping to blame or a meeting without diagnosis often makes things worse.</p>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 506",
+    "topic": ["Communication", "Conflict Resolution", "Active Listening"],
+    "Question": {
+      "content": "What does effective communication in conflict resolution involve?",
+      "type": "OBJ",
+      "options": [
+        "Listening actively",
+        "Interrupting frequently",
+        "Avoiding eye contact",
+        "Using aggressive language"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Listening actively"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Power of Active Listening</h4>\n <p><strong>Active listening</strong> is the cornerstone of effective conflict resolution. It involves fully concentrating, understanding, responding, and then remembering what is being said. It shows respect, de-escalates tension, and ensures all parties feel heard.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Components</strong><br>\n Paying full attention, using nonverbal cues, paraphrasing to confirm understanding, and asking clarifying questions.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 507",
+    "topic": ["Collaboration", "Organizational Culture", "Teamwork"],
+    "Question": {
+      "content": "How is a culture of collaboration characterized?",
+      "type": "OBJ",
+      "options": [
+        "High competition and secrecy",
+        "Mutual respect and shared goals",
+        "Individual achievements only",
+        "Avoidance of responsibility"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mutual respect and shared goals"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining a Collaborative Culture</h4>\n <p>A collaborative culture is built on a foundation of <strong>mutual respect and shared goals</strong>. In such an environment, people trust each other, communicate openly, and work together towards common objectives, valuing collective success over individual glory.</p>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 508",
+    "topic": ["Conflict Management", "Organizational Behavior"],
+    "Question": {
+      "content": "Which of these is NOT a recognized conflict management style?",
+      "type": "OBJ",
+      "options": [
+        "Competing",
+        "Avoiding",
+        "Collaborating",
+        "Ignoring"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ignoring"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Recognized Conflict Management Styles</h4>\n <p>According to the Thomas-Kilmann model, there are five recognized styles: <strong>Avoiding</strong>, <strong>Competing</strong>, <strong>Accommodating</strong>, <strong>Collaborating</strong>, and <strong>Compromising</strong>. \"Ignoring\" is not a recognized style; it is essentially a passive form of avoiding but lacks the strategic element of a deliberate style.</p>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 509",
+    "topic": ["Mediation", "Conflict Resolution", "Workplace"],
+    "Question": {
+      "content": "What does mediation in the workplace involve?",
+      "type": "OBJ",
+      "options": [
+        "Punishing the conflicting parties",
+        "Involving a neutral third party to resolve issues",
+        "One party imposing their view",
+        "Avoiding the conflict altogether"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Involving a neutral third party to resolve issues"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Mediation</h4>\n <p><strong>Mediation</strong> is a voluntary process where a neutral third party (the mediator) helps the conflicting parties communicate effectively, explore solutions, and reach a mutually acceptable agreement. The mediator does not impose a solution but facilitates the conversation.</p>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 510",
+    "topic": ["Workplace Conflict", "Constructive Conflict"],
+    "Question": {
+      "content": "When can conflict lead to positive outcomes?",
+      "type": "OBJ",
+      "options": [
+        "Managed constructively",
+        "Ignored",
+        "Blamed on employees",
+        "Avoided at all costs"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Managed constructively"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Turning Conflict into an Asset</h4>\n <p>Conflict leads to positive outcomes only when it is <strong>managed constructively</strong>. This means addressing the issues openly, focusing on the problem rather than personalities, and using the energy of the conflict to spark innovation, clarify goals, and strengthen relationships.</p>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 511",
+    "topic": ["Dysfunctional Conflict", "Organizational Health", "Workplace"],
+    "Question": {
+      "content": "Which of the following is a sign of dysfunctional conflict?",
+      "type": "OBJ",
+      "options": [
+        "Innovative solutions",
+        "Low morale and absenteeism",
+        "Enhanced communication",
+        "Team cohesion"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Low morale and absenteeism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Recognizing Destructive Conflict</h4>\n <p><strong>Dysfunctional conflict</strong> damages the organization. Signs include <strong>low morale</strong> (employees feel unhappy or unmotivated), increased <strong>absenteeism</strong> (avoiding work to escape the situation), high turnover, reduced productivity, and a toxic work environment.</p>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 512",
+    "topic": ["Active Listening", "Communication Skills", "Conflict Resolution"],
+    "Question": {
+      "content": "What does active listening require?",
+      "type": "OBJ",
+      "options": [
+        "Judging the speaker immediately",
+        "Paraphrasing and clarifying",
+        "Preparing your response while they speak",
+        "Ignoring emotions"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Paraphrasing and clarifying"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Skills of Active Listening</h4>\n <p>Active listening goes beyond just hearing words. It requires techniques like <strong>paraphrasing</strong> (restating what you heard in your own words) and <strong>clarifying</strong> (asking questions to ensure understanding). This demonstrates empathy and prevents misinterpretations, which are key to resolving conflict.</p>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 513",
+    "topic": ["Conflict Resolution", "Collaboration", "Negotiation"],
+    "Question": {
+      "content": "Which approach emphasizes mutual gains in conflict resolution?",
+      "type": "OBJ",
+      "options": [
+        "Collaborating",
+        "Avoiding",
+        "Dominating",
+        "Accommodating"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Collaborating"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Win-Win vs. Win-Lose</h4>\n <p>The <strong>Collaborating</strong> approach is centered on the concept of \"mutual gains.\" It assumes that by working together, parties can find a solution that benefits everyone, rather than one person winning and the other losing. It requires creativity, open-mindedness, and a focus on shared interests.</p>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 514",
+    "topic": ["Leadership", "Organizational Change", "Conflict Transformation"],
+    "Question": {
+      "content": "What role does leadership play in transforming an organization?",
+      "type": "OBJ",
+      "options": [
+        "Active facilitator and role model",
+        "Neutral bystander",
+        "Encouraging competition",
+        "Ignoring employee disputes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Active facilitator and role model"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Leadership's Critical Function</h4>\n <p>Leaders are pivotal in transforming an organization's culture. They must act as <strong>active facilitators</strong>, guiding teams through conflict, and as <strong>role models</strong>, demonstrating the collaborative behaviors they wish to see. When leaders ignore conflict or encourage competition, they hinder the development of a peaceful, collaborative culture.</p>\n </div>"
+    }
+  }
+]
+```
+
+
+```json
+[
+  {
+    "type": "Question",
+    "name": "Question 515",
+    "topic": [
+      "Workplace Harmony",
+      "Communication",
+      "Conflict Management"
+    ],
+    "Question": {
+      "content": "Which of these contributes to workplace harmony?",
+      "type": "OBJ",
+      "options": [
+        "Clear roles and responsibilities",
+        "Ambiguity in task allocation",
+        "Favoritism",
+        "Ignoring issues"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Clear roles and responsibilities"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Workplace Harmony</h4>\n <p>Workplace harmony is achieved when everyone knows what they are supposed to do. Clear roles and responsibilities prevent confusion, reduce conflict, and create a smooth workflow. Ambiguity, favoritism, and ignoring issues are all major sources of workplace tension and conflict.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why it works</strong><br>\n When roles are clear, employees can focus on their tasks, collaborate effectively, and hold themselves accountable without stepping on each other's toes.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 516",
+    "topic": [
+      "Conflict Management",
+      "Communication"
+    ],
+    "Question": {
+      "content": "Avoiding as a conflict management style is most effective when:",
+      "type": "OBJ",
+      "options": [
+        "The issue remains unresolved",
+        "Quick resolution is needed",
+        "Long-term collaboration is a priority",
+        "Immediate confrontation is required"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Quick resolution is needed"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Avoiding Conflict</h4>\n <p>The 'avoiding' style is useful when the issue is trivial or when a quick, temporary solution is needed. It's a way to 'pause' the conflict to let emotions cool down. However, it's not a permanent fix for serious issues that require long-term collaboration.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>When to use it</strong><br>\n Use avoiding for minor disagreements or when you need time to gather more information before addressing the problem.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 517",
+    "topic": [
+      "Conflict Management",
+      "Collaboration",
+      "Communication"
+    ],
+    "Question": {
+      "content": "The term 'collaboration' in workplace conflict means:",
+      "type": "OBJ",
+      "options": [
+        "Forcing your idea",
+        "Ignoring the problem",
+        "Working together to achieve a win-win outcome",
+        "Avoiding responsibility"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Working together to achieve a win-win outcome"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Collaboration in Conflict</h4>\n <p>Collaboration is the most effective conflict management style. It involves both parties working together to find a solution that satisfies everyone's needs. This is the 'win-win' approach, which builds stronger relationships and leads to more creative solutions.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 518",
+    "topic": [
+      "Conflict Management",
+      "Workplace Harmony"
+    ],
+    "Question": {
+      "content": "Transforming workplace conflict reduces:",
+      "type": "OBJ",
+      "options": [
+        "Employee engagement",
+        "Productivity",
+        "Stress and hostility",
+        "Creativity"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Stress and hostility"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Transforming Conflict</h4>\n <p>Transforming conflict means addressing its root causes and turning a negative situation into a positive one. This process reduces the stress and hostility that come with unresolved disagreements, leading to a healthier work environment.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Benefit</strong><br>\n When conflict is managed well, it actually increases employee engagement, productivity, and creativity because people feel safe and valued.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 519",
+    "topic": [
+      "Conflict Management",
+      "Emotional Intelligence",
+      "Communication"
+    ],
+    "Question": {
+      "content": "Which skill is most critical for resolving conflicts?",
+      "type": "OBJ",
+      "options": [
+        "Technical expertise",
+        "Emotional intelligence",
+        "Physical strength",
+        "Academic knowledge"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Emotional intelligence"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Emotional Intelligence (EQ)</h4>\n <p>Emotional intelligence is the ability to understand and manage your own emotions and those of others. Conflict resolution is about handling strong emotions, listening with empathy, and finding common ground. Without EQ, even the most technically skilled person will struggle to resolve disagreements.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 520",
+    "topic": [
+      "Conflict Management",
+      "Organizational Behavior"
+    ],
+    "Question": {
+      "content": "What does 'functional conflict' refer to?",
+      "type": "OBJ",
+      "options": [
+        "Conflict that damages relationships",
+        "Conflict that supports organizational goals",
+        "Conflict that causes legal issues",
+        "Conflict that is ignored"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Conflict that supports organizational goals"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Functional vs. Dysfunctional Conflict</h4>\n <p>Not all conflict is bad. Functional conflict is a healthy, constructive disagreement that challenges ideas, sparks innovation, and helps the organization achieve its goals. It focuses on issues, not personalities.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Example</strong><br>\n A debate about the best way to launch a new product is functional if it leads to a better strategy.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 521",
+    "topic": [
+      "Organizational Culture",
+      "Communication",
+      "Peace Studies"
+    ],
+    "Question": {
+      "content": "A peace-oriented culture is fostered by:",
+      "type": "OBJ",
+      "options": [
+        "Open communication and respect",
+        "Competition and blame",
+        "Ignoring disagreements",
+        "Rewarding only individual achievements"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Open communication and respect"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Building a Peaceful Culture</h4>\n <p>A peaceful workplace is built on a foundation of trust. This trust comes from open communication, where people feel safe to speak up, and mutual respect, where everyone's contributions are valued. Competition, blame, and ignoring problems do the opposite.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 522",
+    "topic": [
+      "Conflict Management",
+      "Decision Making"
+    ],
+    "Question": {
+      "content": "Which conflict resolution method is most suitable when quick decisions are needed?",
+      "type": "OBJ",
+      "options": [
+        "Avoiding",
+        "Compromising",
+        "Collaborating",
+        "Accommodating"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Compromising"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Compromising for Speed</h4>\n <p>When a decision is urgent, the 'compromising' style is best. Both parties give up something to reach a mutually acceptable, quick solution. While it may not be the 'perfect' solution, it's efficient and prevents delays.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Comparison</strong><br>\n Collaborating takes more time to find a win-win, while avoiding does nothing. Compromising is the fastest path to a temporary or urgent resolution.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 523",
+    "topic": [
+      "Collaboration",
+      "Organizational Culture",
+      "Communication"
+    ],
+    "Question": {
+      "content": "An organization committed to collaboration encourages:",
+      "type": "OBJ",
+      "options": [
+        "Hoarding information",
+        "Transparency and teamwork",
+        "Individual rivalry",
+        "Top-down commands only"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Transparency and teamwork"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Keys to a Collaborative Culture</h4>\n <p>Collaboration thrives on transparency (sharing information openly) and teamwork (working together towards common goals). Hoarding information creates silos, rivalry creates conflict, and top-down commands ignore valuable input from team members.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 524",
+    "topic": [
+      "Conflict Management",
+      "Organizational Development"
+    ],
+    "Question": {
+      "content": "Conflict transformation focuses on:",
+      "type": "OBJ",
+      "options": [
+        "Suppressing conflict entirely",
+        "Understanding underlying issues and promoting growth",
+        "Isolating conflicting employees",
+        "Ignoring disagreements"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Understanding underlying issues and promoting growth"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Conflict Transformation</h4>\n <p>Unlike simple conflict resolution which just 'solves' a problem, conflict transformation goes deeper. It seeks to understand the root causes of the conflict and uses the experience as an opportunity for positive change and growth for both the individuals and the organization.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 525",
+    "topic": [
+      "Conflict Management",
+      "Organizational Performance"
+    ],
+    "Question": {
+      "content": "Which of the following is a key outcome of effective conflict management?",
+      "type": "OBJ",
+      "options": [
+        "Increased absenteeism",
+        "Reduced trust",
+        "Enhanced organizational performance",
+        "More workplace tension"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Enhanced organizational performance"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Goal of Conflict Management</h4>\n <p>When conflict is managed effectively, it stops draining energy and becomes a source of growth. Teams collaborate better, innovate more, and are more productive. This directly leads to enhanced organizational performance.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Alternative</strong><br>\n Poorly managed conflict leads to the other options: absenteeism, reduced trust, and more tension.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 526",
+    "topic": [
+      "Conflict Management",
+      "Communication"
+    ],
+    "Question": {
+      "content": "Accommodating style of conflict management:",
+      "type": "OBJ",
+      "options": [
+        "Prioritizes own needs over others",
+        "Seeks compromise between parties",
+        "Prioritizes others' needs over own",
+        "Ignores conflict"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Prioritizes others' needs over own"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Accommodating Style</h4>\n <p>Accommodating is a conflict style where one person puts the other's needs first, often at their own expense. It's a cooperative but unassertive approach. This is useful when the issue is more important to the other person or when preserving harmony is a top priority.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Example</strong><br>\n Letting a colleague choose the meeting time because it's more convenient for them.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 527",
+    "topic": [
+      "Collaboration",
+      "Organizational Behavior",
+      "Trust"
+    ],
+    "Question": {
+      "content": "Which of the following is a barrier to collaboration?",
+      "type": "OBJ",
+      "options": [
+        "Mutual respect",
+        "Goals",
+        "Lack of trust",
+        "Shared vision"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lack of trust"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Barriers to Collaboration</h4>\n <p>Trust is the foundation of collaboration. If people don't trust each other, they won't share ideas, ask for help, or depend on one another. Mutual respect, shared goals, and a shared vision are all enablers of collaboration.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Without Trust</strong><br>\n Without trust, teams operate in silos, leading to inefficiency and conflict.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 528",
+    "topic": [
+      "Conflict Management",
+      "Organizational Behavior"
+    ],
+    "Question": {
+      "content": "Which of the following best describes workplace conflict?",
+      "type": "OBJ",
+      "options": [
+        "Between employees",
+        "Only personal disputes",
+        "Any disagreement",
+        "Minor communication errors"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Any disagreement"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining Workplace Conflict</h4>\n <p>Workplace conflict is any disagreement or clash between individuals or groups. It can be about tasks (who does what), processes (how to do it), or relationships. It's not limited to 'personal disputes' and can range from minor miscommunications to major disagreements.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 529",
+    "topic": [
+      "Conflict Management",
+      "Communication"
+    ],
+    "Question": {
+      "content": "Successful conflict resolution requires:",
+      "type": "OBJ",
+      "options": [
+        "Active participation and open dialogue",
+        "Ignoring opposing views",
+        "Avoiding responsibility",
+        "Favoritism"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Active participation and open dialogue"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Keys to Resolution</h4>\n <p>To resolve a conflict, everyone involved must be willing to actively participate and engage in open, honest dialogue. Ignoring views, avoiding responsibility, or showing favoritism will only make the conflict worse.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Process</strong><br>\n Active participation ensures all perspectives are heard, and open dialogue creates the space to find a mutually agreeable solution.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 530",
+    "topic": [
+      "Organizational Culture",
+      "Peace Studies",
+      "Collaboration"
+    ],
+    "Question": {
+      "content": "Building a culture of peace involves:",
+      "type": "OBJ",
+      "options": [
+        "Punishing conflicts",
+        "Encouraging competition at all costs",
+        "Promoting collaboration, trust, and mutual respect",
+        "Ignoring disagreements"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Promoting collaboration, trust, and mutual respect"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Culture of Peace</h4>\n <p>A culture of peace isn't about the absence of conflict, but about how conflict is handled. It's built by proactively promoting collaboration (working together), trust (relying on each other), and mutual respect (valuing each other's contributions).</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Opposite</strong><br>\n Punishing conflicts or encouraging competition creates a culture of fear, while ignoring disagreements allows problems to fester.\n </div>\n</div>"
+    }
+  }
+]
+```
+
+
+
+
+
+
+
+
+
+

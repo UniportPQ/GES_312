@@ -1,0 +1,627 @@
+
+```
+
+
+
+
+Here is the JSON array for the questions you provided. Each question has been broken down, rephrased for clarity, and includes a detailed explanation suitable for new learners.
+
+```json
+[
+  {
+    "type": "Question",
+    "name": "Question 411",
+    "topic": ["Conflict Transformation", "Peacebuilding", "Conflict Resolution"],
+    "Question": {
+      "content": "What does conflict transformation primarily focus on?",
+      "type": "OBJ",
+      "options": [
+        "Winning a conflict",
+        "Managing symptoms only",
+        "Addressing root causes and changing relationships",
+        "Avoiding conflict completely"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Addressing root causes and changing relationships"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Conflict Transformation</h4>\n <p>The correct answer is <strong>C (Addressing root causes and changing relationships)</strong>.</p>\n <p><strong style='color: var(--strongColor);'>Why it's correct:</strong> Conflict transformation is a long-term process. Unlike conflict management, which only tries to contain the problem, transformation seeks to change the very structures and relationships that created the conflict in the first place. It aims for positive, sustainable change.</p>\n <p><strong style='color: var(--strongColor);'>What the other options mean:</strong></p>\n <ul>\n <li><strong>Winning a conflict (A):</strong> This is about victory, not transformation, which focuses on mutual benefit.</li>\n <li><strong>Managing symptoms only (B):</strong> This is conflict management, a temporary fix that doesn't address the core issues.</li>\n <li><strong>Avoiding conflict completely (D):</strong> This ignores that conflict can be a catalyst for positive change if handled properly.</li>\n </ul>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 412",
+    "topic": ["Peacebuilding", "Conflict Resolution"],
+    "Question": {
+      "content": "What is the primary aim of peacebuilding efforts?",
+      "type": "OBJ",
+      "options": [
+        "Escalating disputes",
+        "Constructing physical infrastructure only",
+        "Creating sustainable peace by addressing structural causes of conflict",
+        "Preventing parties from talking"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Creating sustainable peace by addressing structural causes of conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What is Peacebuilding?</h4>\n <p>The correct answer is <strong>C (Creating sustainable peace by addressing structural causes of conflict)</strong>.</p>\n <p>Peacebuilding is a long-term, proactive approach. It goes beyond just ending a war (peacekeeping) or signing a treaty (peacemaking). It involves rebuilding institutions, addressing economic inequalities, and healing relationships to ensure that conflict does not recur. It's about building a foundation for lasting peace.</p>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 413",
+    "topic": ["Conflict Transformation", "Key Scholars", "Peacebuilding"],
+    "Question": {
+      "content": "Which scholar is most closely associated with the concept of conflict transformation?",
+      "type": "OBJ",
+      "options": [
+        "John Burton",
+        "Johan Galtung",
+        "John Paul Lederach",
+        "Herbert Kelman"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "John Paul Lederach"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Key Thinkers in Peace and Conflict Studies</h4>\n <p>The correct answer is <strong>C (John Paul Lederach)</strong>.</p>\n <p>John Paul Lederach is a renowned scholar and practitioner who is a pioneer of the conflict transformation approach. He emphasizes the importance of building relationships, understanding the deep-rooted nature of conflict, and working at multiple levels of society (grassroots, middle, and top-level leadership) to create sustainable peace.</p>\n <p><strong style='color: var(--strongColor);'>Other scholars' contributions:</strong></p>\n <ul>\n <li><strong>John Burton:</strong> Known for his work on human needs theory in conflict.</li>\n <li><strong>Johan Galtung:</strong> Developed the concepts of positive/negative peace and the conflict triangle.</li>\n <li><strong>Herbert Kelman:</strong> A pioneer in interactive problem-solving and unofficial diplomacy.</li>\n </ul>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 414",
+    "topic": ["Peacebuilding", "Definitions", "Conflict Theory"],
+    "Question": {
+      "content": "According to Johan Galtung, what does the concept of 'positive peace' refer to?",
+      "type": "OBJ",
+      "options": [
+        "Absence of direct violence only",
+        "Presence of justice and structural equality",
+        "Military stability",
+        "Peace won through force"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Presence of justice and structural equality"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Positive vs. Negative Peace</h4>\n <p>The correct answer is <strong>B (Presence of justice and structural equality)</strong>.</p>\n <p>Johan Galtung famously distinguished between two types of peace:</p>\n <ul>\n <li><strong>Negative Peace:</strong> The absence of direct violence (e.g., war, fighting). It's a state of no conflict, but underlying tensions may still exist. (This relates to option A).</li>\n <li><strong>Positive Peace:</strong> A much deeper concept. It is not just the absence of war, but the absence of <em>structural violence</em>. It is a state where there is social justice, equity, and institutions that meet the basic human needs of all members of society.</li>\n </ul>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 415",
+    "topic": ["Conflict Dynamics", "Definitions"],
+    "Question": {
+      "content": "When is a conflict described as 'latent'?",
+      "type": "OBJ",
+      "options": [
+        "It is fully expressed and violent",
+        "Underlying tension exists but is not openly expressed",
+        "The parties have resolved all issues",
+        "International actors intervene"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Underlying tension exists but is not openly expressed"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Latent Conflict</h4>\n <p>The correct answer is <strong>B (Underlying tension exists but is not openly expressed)</strong>.</p>\n <p>A latent conflict is like a dormant volcano. The conditions for an eruption exist—deep-seated grievances, inequalities, or unmet needs—but the conflict has not yet become visible or escalated into open confrontation. This is often considered the 'pre-conflict' stage. If left unaddressed, a latent conflict can easily become a manifest conflict.</p>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 416",
+    "topic": ["Mediation", "Conflict Resolution"],
+    "Question": {
+      "content": "How is mediation best defined as a conflict resolution process?",
+      "type": "OBJ",
+      "options": [
+        "A third party imposes a decision",
+        "Parties negotiate directly",
+        "A neutral third party facilitates dialogue",
+        "Violence is used to enforce agreement"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A neutral third party facilitates dialogue"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What is Mediation?</h4>\n <p>The correct answer is <strong>C (A neutral third party facilitates dialogue)</strong>.</p>\n <p>Mediation is a voluntary process where a neutral third party (the mediator) helps the conflicting parties communicate, understand each other's perspectives, and find their own mutually acceptable solution. The mediator does not impose a decision (that would be arbitration). Their role is to guide the conversation and help parties move toward an agreement.</p>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 417",
+    "topic": ["Conflict Transformation", "Goals of Peacebuilding"],
+    "Question": {
+      "content": "What is a major, overarching goal of conflict transformation?",
+      "type": "OBJ",
+      "options": [
+        "To suppress disagreements",
+        "To promote social justice and long-term reconciliation",
+        "To punish the losing party",
+        "To avoid negotiation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To promote social justice and long-term reconciliation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Goal of Transformation</h4>\n <p>The correct answer is <strong>B (To promote social justice and long-term reconciliation)</strong>.</p>\n <p>Conflict transformation aims to fundamentally change the way a conflict is expressed and the structures that cause it. Its goals are ambitious and positive, moving beyond simply ending a fight to creating a more just and reconciled society where future conflicts can be handled constructively.</p>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 418",
+    "topic": ["Peacebuilding", "Ethics in Intervention", "Do No Harm"],
+    "Question": {
+      "content": "What does the principle of 'Do No Harm' mean in the context of peacebuilding?",
+      "type": "OBJ",
+      "options": [
+        "Avoiding involvement in conflicts",
+        "Ensuring interventions do not worsen conflict dynamics",
+        "Using military force carefully",
+        "Blaming external parties"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ensuring interventions do not worsen conflict dynamics"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The 'Do No Harm' Principle</h4>\n <p>The correct answer is <strong>B (Ensuring interventions do not worsen conflict dynamics)</strong>.</p>\n <p>This principle, developed by Mary Anderson, is a critical ethical guideline in peacebuilding. It recognizes that well-intentioned aid or peace programs can inadvertently make a conflict worse (e.g., by benefiting one side over another or by reinforcing divisions). 'Do No Harm' requires practitioners to constantly analyze the impact of their actions and ensure they are not fueling the conflict they are trying to resolve.</p>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 419",
+    "topic": ["Peace Agreements", "Sustainability", "Conflict Resolution"],
+    "Question": {
+      "content": "Under which condition is a peace agreement most likely to be sustainable in the long term?",
+      "type": "OBJ",
+      "options": [
+        "It is forced on the parties",
+        "It excludes civil society",
+        "It addresses root causes and includes all stakeholders",
+        "It benefits only the elites"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It addresses root causes and includes all stakeholders"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Ensuring Sustainable Peace</h4>\n <p>The correct answer is <strong>C (It addresses root causes and includes all stakeholders)</strong>.</p>\n <p>A peace agreement is a piece of paper. For it to lead to lasting peace, it must be owned by the people it affects. This means:</p>\n <ul>\n <li><strong>Addressing root causes:</strong> If the agreement ignores the core issues (like land rights or political exclusion), those issues will resurface.</li>\n <li><strong>Including all stakeholders:</strong> If key groups (women, youth, civil society, or smaller armed groups) are left out, they have little incentive to support the peace and may become spoilers.</li>\n </ul>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 420",
+    "topic": ["Conflict Theory", "Johan Galtung", "Key Models"],
+    "Question": {
+      "content": "Who proposed the 'Conflict Triangle' (ABC Triangle) model?",
+      "type": "OBJ",
+      "options": [
+        "Lederach",
+        "Galtung",
+        "Burton",
+        "Fisher"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Galtung"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The ABC Triangle Model</h4>\n <p>The correct answer is <strong>B (Galtung)</strong>.</p>\n <p>Johan Galtung developed the Conflict Triangle to help analyze the complex dynamics of conflict. It shows that conflict is not a single event, but a system made up of three interdependent components: Contradiction (the underlying issues), Attitude (the perceptions and feelings of the parties), and Behavior (the actions taken).</p>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 421",
+    "topic": ["Conflict Theory", "Johan Galtung", "Key Models"],
+    "Question": {
+      "content": "In Galtung's ABC triangle model, what does 'A' stand for?",
+      "type": "OBJ",
+      "options": [
+        "Attitude",
+        "Agreement",
+        "Action",
+        "Alliance"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Attitude"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The 'A' in the ABC Triangle</h4>\n <p>The correct answer is <strong>A (Attitude)</strong>.</p>\n <p>The 'ABC' Triangle stands for:</p>\n <ul>\n <li><strong>A = Attitude:</strong> The psychological dimension. This includes the perceptions, emotions, stereotypes, and feelings that each party has about the other (e.g., fear, mistrust, anger).</li>\n <li><strong>B = Behavior:</strong> The actions or behavior of the parties, such as cooperation, threats, or violence.</li>\n <li><strong>C = Contradiction:</strong> The underlying structural issues or incompatibility of goals (the 'real' issues at stake).</li>\n </ul>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 422",
+    "topic": ["Post-Conflict Reconstruction", "Peacebuilding"],
+    "Question": {
+      "content": "What is the main focus of post-conflict reconstruction?",
+      "type": "OBJ",
+      "options": [
+        "Building military strength",
+        "Repairing physical, social, and institutional structures",
+        "Promoting war strategies",
+        "Encouraging rebel recruitment"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Repairing physical, social, and institutional structures"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Scope of Post-Conflict Reconstruction</h4>\n <p>The correct answer is <strong>B (Repairing physical, social, and institutional structures)</strong>.</p>\n <p>Post-conflict reconstruction is a comprehensive effort. It's not just about rebuilding roads and bridges (physical reconstruction), but also about:</p>\n <ul>\n <li><strong>Social Reconstruction:</strong> Healing the trauma of war, fostering reconciliation between communities, and addressing the needs of refugees and internally displaced people.</li>\n <li><strong>Institutional Reconstruction:</strong> Rebuilding the government, the judicial system, and the police force to be legitimate, effective, and accountable to the people.</li>\n </ul>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 423",
+    "topic": ["Structural Violence", "Conflict Theory", "Definitions"],
+    "Question": {
+      "content": "What is the definition of 'structural violence'?",
+      "type": "OBJ",
+      "options": [
+        "Physical harm only",
+        "Violence embedded in social and economic systems",
+        "Violence caused by natural disasters",
+        "Cross-border attacks"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Violence embedded in social and economic systems"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Structural Violence</h4>\n <p>The correct answer is <strong>B (Violence embedded in social and economic systems)</strong>.</p>\n <p>This term, coined by Johan Galtung, refers to a form of violence that is not direct or physical, but is built into the very structure of society. It occurs when social structures or institutions prevent individuals from meeting their basic needs (e.g., for food, shelter, education, political participation) due to systematic inequality, racism, sexism, or poverty. It is 'silent' violence that can be just as harmful as physical violence.</p>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 424",
+    "topic": ["Reconciliation", "Peacebuilding", "Post-Conflict"],
+    "Question": {
+      "content": "Which term specifically refers to the process of rebuilding relationships between conflicting parties?",
+      "type": "OBJ",
+      "options": [
+        "Reconciliation",
+        "Retaliation",
+        "Reconstruction",
+        "Realignment"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Reconciliation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Meaning of Reconciliation</h4>\n <p>The correct answer is <strong>A (Reconciliation)</strong>.</p>\n <p>Reconciliation is a deep, long-term process focused on the human dimension of peace. It involves transforming relationships from a state of fear, hatred, and dehumanization to one of mutual respect, acceptance, and cooperation. It often involves processes like truth-telling, acknowledging past harms, and finding ways to coexist peacefully. It is distinct from reconstruction (rebuilding physical infrastructure) or retaliation (getting revenge).</p>\n </div>"
+    }
+  }
+]
+```
+
+```json
+[
+  {
+    "type": "Question",
+    "name": "Question 425",
+    "topic": ["Communication", "Conflict Resolution"],
+    "Question": {
+      "content": "What is another term for non-violent communication in conflict resolution?",
+      "type": "OBJ",
+      "options": ["Aggressive dialogue", "Hostile messaging", "Constructive communication", "Silence"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Constructive communication"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Non-Violent Communication</h4>\n <p>Non-violent communication (NVC) focuses on expressing needs and feelings without blame or judgment. It aims to create understanding and find solutions that work for everyone.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why 'Constructive Communication'?</strong><br>\n The term <strong>Constructive communication</strong> accurately describes NVC because it emphasizes building understanding and cooperation, rather than tearing each other down. Aggressive dialogue and hostile messaging are the opposite of this approach. Silence avoids the conflict entirely instead of resolving it.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 426",
+    "topic": ["Peacebuilding", "Conflict Prevention"],
+    "Question": {
+      "content": "What is the primary aim of early warning systems in peacebuilding?",
+      "type": "OBJ",
+      "options": ["Start conflicts", "Detect and respond to signs of impending conflict", "Monitor crime rates", "Promote war propaganda"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Detect and respond to signs of impending conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What are Early Warning Systems?</h4>\n <p>Imagine a smoke alarm for conflicts. Early warning systems collect and analyze information to identify signs that a conflict might be about to erupt. These signs can be things like hate speech, mass protests, or the buildup of weapons.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Purpose</strong><br>\n Their goal is not to start a conflict, but to <strong>detect and respond</strong> to these early signs. By acting early, peacebuilders can often prevent a full-blown war or reduce its impact, using tools like diplomacy or mediation.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 427",
+    "topic": ["Peacebuilding", "Culture", "Dialogue"],
+    "Question": {
+      "content": "Which of the following is a key method for promoting cultural understanding in peacebuilding?",
+      "type": "OBJ",
+      "options": ["Intercultural dialogue", "Forced assimilation", "Ethnic stereotyping", "Segregation"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Intercultural dialogue"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Bridging Cultural Divides</h4>\n <p>When people from different cultural backgrounds are in conflict, understanding each other is a critical first step to peace.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why Intercultural Dialogue?</strong><br>\n <strong>Intercultural dialogue</strong> is a respectful exchange of views between individuals and groups with different cultural backgrounds. It helps break down stereotypes, build trust, and find common ground. In contrast, forced assimilation, stereotyping, and segregation all widen divides and fuel conflict.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 428",
+    "topic": ["Transitional Justice", "Peacebuilding"],
+    "Question": {
+      "content": "Which of the following is a recognized mechanism of transitional justice?",
+      "type": "OBJ",
+      "options": ["Truth commissions", "Hostile takeovers", "Arms proliferation", "Election interference"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Truth commissions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Healing After Conflict</h4>\n <p>Transitional justice refers to the ways countries address large-scale past human rights abuses after a period of conflict or repression.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Mechanisms</strong><br>\n Common mechanisms include:\n <ul>\n <li><strong>Truth commissions:</strong> Official bodies that investigate and report on past abuses to acknowledge victims' suffering and establish a historical record.</li>\n <li>Prosecutions (criminal trials)</li>\n <li>Reparations programs</li>\n <li>Institutional reforms</li>\n </ul>\n Hostile takeovers, arms proliferation, and election interference are actions that cause or worsen conflict, not resolve it.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 429",
+    "topic": ["Peacebuilding", "Governance"],
+    "Question": {
+      "content": "Which peacebuilding approach primarily focuses on negotiations between political and community leaders?",
+      "type": "OBJ",
+      "options": ["Top-down peacebuilding", "Grassroots peacebuilding", "Community transformation", "Peace journalism"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Top-down peacebuilding"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Peacebuilding Approaches</h4>\n <p>Think of peacebuilding as happening from two directions.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Top-Down vs. Grassroots</strong><br>\n <ul>\n <li><strong>Top-down peacebuilding</strong> involves leaders and elites—like presidents, rebel commanders, and business moguls—negotiating peace agreements at a high level. This question is about negotiations between these elites.</li>\n <li><strong>Grassroots peacebuilding</strong> works from the bottom up, focusing on community members, local organizations, and ordinary people to build peace from within society.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 430",
+    "topic": ["Peacebuilding", "Community Development"],
+    "Question": {
+      "content": "What is the central focus of grassroots peacebuilding?",
+      "type": "OBJ",
+      "options": ["Government-only interventions", "Community participation and local ownership", "Military strategies", "International sanctions"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Community participation and local ownership"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Peace from the Ground Up</h4>\n <p>Grassroots peacebuilding believes that sustainable peace must be built by the people who live in the community.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Core Principles</strong><br>\n It emphasizes:\n <ul>\n <li><strong>Community participation:</strong> Involving local people in designing and implementing peace projects.</li>\n <li><strong>Local ownership:</strong> Ensuring that communities have control over the peace process so the solutions are relevant and lasting.</li>\n </ul>\n This is very different from relying only on governments (which might be part of the problem), military strategies (which can escalate conflict), or international sanctions (which are external pressure).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 431",
+    "topic": ["Peacebuilding", "Gender", "Inclusion"],
+    "Question": {
+      "content": "Why is a peace process that fails to include women often criticized?",
+      "type": "OBJ",
+      "options": ["Lack of speed", "Lack of gender sensitivity", "Lack of violence", "Lack of technology"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lack of gender sensitivity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Why Women's Inclusion Matters</h4>\n <p>Peace processes that exclude women are often seen as incomplete and less effective. This is because women experience conflict differently and have unique perspectives on peace and security.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Gender Sensitivity</strong><br>\n A process without women is criticized for lacking <strong>gender sensitivity</strong>. This means it fails to consider the different needs, roles, and experiences of women and men. Research shows that peace agreements are more durable when women are involved in the negotiation and implementation. The UN Security Council Resolution 1325 explicitly calls for women's participation in peace processes.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 432",
+    "topic": ["Conflict Transformation", "Dialogue"],
+    "Question": {
+      "content": "Which of the following is a commonly used tool for conflict transformation?",
+      "type": "OBJ",
+      "options": ["Dialogue platforms", "Misinformation", "Hate speech", "Weapon sales"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Dialogue platforms"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Tools for Positive Change</h4>\n <p>Conflict transformation aims to change the very nature of a conflict, moving it from a destructive to a constructive process.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Dialogue as a Tool</strong><br>\n <strong>Dialogue platforms</strong> are structured, facilitated meetings where conflicting parties can talk, listen to each other's perspectives, and work on shared problems. They are a primary tool for transforming relationships and creating a path forward. In contrast, misinformation, hate speech, and weapon sales are destructive tools that escalate conflict.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 433",
+    "topic": ["Peacekeeping", "Peacebuilding", "Conflict Management"],
+    "Question": {
+      "content": "How does peacekeeping differ from peacebuilding?",
+      "type": "OBJ",
+      "options": ["Focuses on military and security stabilization", "Addresses root causes", "Rebuilds institutions", "Promotes socio-economic justice"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Focuses on military and security stabilization"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Peacekeeping vs. Peacebuilding</h4>\n <p>These are two distinct but related concepts in managing conflict.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Differences</strong><br>\n <ul>\n <li><strong>Peacekeeping:</strong> Primarily concerned with <strong>military and security stabilization</strong>. Its goal is to stop active fighting, separate warring parties, and create a secure environment. Think of it as the 'first aid' for conflict.</li>\n <li><strong>Peacebuilding:</strong> A longer-term process that <strong>addresses root causes</strong>, rebuilds institutions, and promotes socio-economic justice to prevent the conflict from reigniting. It's the 'rehabilitation and development' phase.</li>\n </ul>\n While peacekeeping focuses on security, peacebuilding tackles the deeper issues to make peace sustainable.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 434",
+    "topic": ["Conflict Analysis", "Peacebuilding"],
+    "Question": {
+      "content": "What is the primary purpose of conducting a conflict analysis?",
+      "type": "OBJ",
+      "options": ["Escalate disputes", "Understand actors, issues, and dynamics in a conflict", "Determine who should win", "Avoid stakeholder engagement"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Understand actors, issues, and dynamics in a conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Importance of Analysis</h4>\n <p>Before you can fix a problem, you need to understand it. Conflict analysis is the systematic study of a conflict to understand its root causes, the people involved (actors), the things they are fighting over (issues), and how the conflict is changing (dynamics).</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Goal of Analysis</strong><br>\n Its goal is to provide a clear picture so that peacebuilders can design effective and appropriate interventions. It is not about choosing sides, avoiding people, or making the conflict worse; it's about gaining deep understanding to help resolve it.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 435",
+    "topic": ["Conflict", "Violence", "Peace Studies"],
+    "Question": {
+      "content": "Which of the following is an example of direct violence?",
+      "type": "OBJ",
+      "options": ["Poverty", "Ethnic bias", "Physical assault", "Unequal laws"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Physical assault"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Types of Violence</h4>\n <p>Peace researchers often distinguish between different forms of violence.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Direct vs. Structural Violence</strong><br>\n <ul>\n <li><strong>Direct violence:</strong> This is the most visible form. It involves physical or verbal acts intended to harm someone. <strong>Physical assault</strong> is a clear example.</li>\n <li><strong>Structural violence:</strong> This is more invisible. It refers to systematic ways in which social structures harm people by preventing them from meeting their basic needs. Examples include <strong>poverty</strong>, <strong>ethnic bias</strong> (discrimination), and <strong>unequal laws</strong>.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 436",
+    "topic": ["Peace Education", "Conflict Resolution"],
+    "Question": {
+      "content": "What is the main goal of peace education?",
+      "type": "OBJ",
+      "options": ["Encourage violent resistance", "Teach skills for non-violence, tolerance, and cooperation", "Promote ethnic dominance", "Discourage critical thinking"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Teach skills for non-violence, tolerance, and cooperation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What is Peace Education?</h4>\n <p>Peace education is a process of teaching and learning that aims to build a culture of peace. It's not just about the absence of war; it's about developing the skills and values needed to create a just and harmonious society.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Core Skills</strong><br>\n Its goal is to equip learners with skills for <strong>non-violence, tolerance, and cooperation</strong>. This includes conflict resolution, empathy, critical thinking about injustice, and understanding different perspectives. It is the opposite of promoting violence, ethnic dominance, or discouraging thought.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 437",
+    "topic": ["Conflict Transformation", "Conflict Theory"],
+    "Question": {
+      "content": "How does conflict transformation view conflicts?",
+      "type": "OBJ",
+      "options": ["Negative and destructive only", "Opportunities for constructive change", "Events to be ignored", "Unavoidable disasters"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Opportunities for constructive change"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>A Positive View of Conflict</h4>\n <p>While conflict is often seen as purely negative, conflict transformation offers a different perspective.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Insight</strong><br>\n Conflict transformation views conflict as a natural and inevitable part of social life. Instead of seeing it only as destructive, it sees conflict as a <strong>potential opportunity for constructive change</strong>. A conflict can reveal deep-seated injustices, bring necessary issues to the surface, and, if managed well, lead to positive social, political, and relational changes. The goal is not to eliminate conflict but to transform its destructive elements into constructive processes.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 438",
+    "topic": ["Humanitarianism", "NGOs", "Conflict"],
+    "Question": {
+      "content": "Which type of actor is most commonly associated with providing humanitarian support during conflict?",
+      "type": "OBJ",
+      "options": ["Private military contractors", "Non-governmental organizations (NGOs)", "Arms dealers", "Hate groups"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Non-governmental organizations (NGOs)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Who Helps in a Crisis?</h4>\n <p>When conflict erupts, various actors play different roles.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Humanitarian Actors</strong><br>\n <strong>Non-governmental organizations (NGOs)</strong>, such as the Red Cross, Doctors Without Borders, and countless local and international groups, are the primary actors providing humanitarian support. Their work includes delivering food, water, medical care, shelter, and protection to civilians affected by conflict. Private military contractors are involved in security, arms dealers sell weapons, and hate groups promote violence—none of these are humanitarian actors.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 439",
+    "topic": ["Peacebuilding", "Peace Economics"],
+    "Question": {
+      "content": "What does the term 'peace dividends' refer to?",
+      "type": "OBJ",
+      "options": ["Benefits enjoyed by warlords", "Economic and social gains after peace agreements", "Profit from weapons sales", "Tax collected during war"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Economic and social gains after peace agreements"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Benefits of Peace</h4>\n <p>Peace is not just about stopping violence; it also unlocks significant opportunities.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What are Peace Dividends?</strong><br>\n <strong>Peace dividends</strong> are the tangible <strong>economic and social gains that become possible after a peace agreement</strong> is signed and implemented. This can include:\n <ul>\n <li>Reduced military spending, freeing up money for schools and hospitals.</li>\n <li>Increased foreign investment and trade.</li>\n <li>Refugees and displaced people returning home.</li>\n <li>Rebuilding of infrastructure (roads, bridges).</li>\n </ul>\n These are benefits for society as a whole, not for warlords or from weapons sales.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 440",
+    "topic": ["Conflict Dynamics", "Conflict Escalation"],
+    "Question": {
+      "content": "When does a conflict escalate?",
+      "type": "OBJ",
+      "options": ["Parties communicate openly", "Misunderstandings and hostile actions increase", "Negotiations are ongoing", "Trust-building measures are applied"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Misunderstandings and hostile actions increase"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>When Conflicts Get Worse</h4>\n <p>Conflict escalation is the process by which a dispute intensifies and becomes more destructive.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Signs of Escalation</strong><br>\n Conflict escalates when:\n <ul>\n <li>Parties start to see each other as enemies.</li>\n <li><strong>Misunderstandings and hostile actions increase</strong>, leading to a cycle of action and reaction.</li>\n <li>Communication breaks down or becomes aggressive.</li>\n <li>The issues at stake become more and more central to their identities.</li>\n </ul>\n In contrast, open communication, ongoing negotiations, and trust-building measures are all aimed at de-escalating a conflict.\n </div>\n</div>"
+    }
+  }
+]
+

@@ -1,0 +1,733 @@
+[
+  
+  
+  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Peace and Conflicts Resolution",
+    "code": "GES 312",
+    "session": "Unit 3",
+    "topics": ["War", "Definitions", "Political Science", "Just War Theory", "Ethics", "Philosophy", "Latin Terminology", "Jus ad Bellum", "Just Cause", "Jus in Bello", "Discrimination", "Proportionality", "History", "St. Augustine", "Political Philosophy", "International Relations", "International Law", "Religion", "Warfare", "Jus Post Bellum"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  
+  
+  {
+    "type": "heading",
+    "heading": "Unit Three: The Notion of War and Theories of Just and Unjust Wars",
+    "Subheading": "Exploring the philosophical and ethical dimensions of conflict."
+  },
+  {
+    "type": "Question",
+    "name": "Question 61",
+    "topic": ["War", "Definitions", "Political Science"],
+    "Question": {
+      "content": "Which of the following best defines war?",
+      "type": "OBJ",
+      "options": [
+        "A lawful competition between nations",
+        "A state of armed conflict between political communities",
+        "A peaceful negotiation between states",
+        "A period of economic instability"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A state of armed conflict between political communities"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining War</h4>\n <p>The correct answer is <strong>A state of armed conflict between political communities</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Elements of War</strong><br>\n This definition captures the core elements of war: it is a <em>state</em> (a sustained condition), involves <em>armed conflict</em> (the use of organized military force), and occurs between <em>political communities</em> (such as states, nations, or other organized groups). It distinguishes war from simple riots, criminal violence, or economic problems.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 62",
+    "topic": ["Just War Theory", "Ethics", "Philosophy"],
+    "Question": {
+      "content": "What is the primary purpose of the Just War Theory?",
+      "type": "OBJ",
+      "options": [
+        "Encourage militarization",
+        "Provide a moral framework for war",
+        "End all forms of conflict",
+        "Promote economic development"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Provide a moral framework for war"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Role of Just War Theory</h4>\n <p>The correct answer is <strong>Provide a moral framework for war</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>A Philosophical Tradition</strong><br>\n Just War Theory is a doctrine of military ethics that seeks to reconcile the reality of war with moral principles. It does not aim to end all war, but rather to provide a set of criteria to determine when it is morally justifiable to go to war (<em>jus ad bellum</em>) and what ethical conduct is required during war (<em>jus in bello</em>).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 63",
+    "topic": ["Just War Theory", "Latin Terminology", "Ethics"],
+    "Question": {
+      "content": "What does the Latin phrase \"jus ad bellum\" refer to?",
+      "type": "OBJ",
+      "options": [
+        "Justice after war",
+        "Justice during war",
+        "Justice before going to war",
+        "Justice without war"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Justice before going to war"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Jus ad Bellum</h4>\n <p>The correct answer is <strong>Justice before going to war</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Right to Go to War</strong><br>\n In Just War Theory, <em>jus ad bellum</em> (Latin for \"right to war\") refers to the set of criteria that must be met for a state to justifiably enter into a war. These criteria include just cause, right intention, proper authority, last resort, probability of success, and proportionality.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 64",
+    "topic": ["Just War Theory", "Jus ad Bellum", "Ethics"],
+    "Question": {
+      "content": "Which of the following is NOT a criterion of jus ad bellum?",
+      "type": "OBJ",
+      "options": [
+        "Just cause",
+        "Right intention",
+        "Proportionality",
+        "Weapon type"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Weapon type"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Criteria for Going to War</h4>\n <p>The correct answer is <strong>Weapon type</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Jus ad Bellum vs. Jus in Bello</strong><br>\n \"Weapon type\" is not a criterion for deciding whether to go to war (<em>jus ad bellum</em>). Instead, it falls under <em>jus in bello</em>, which governs the ethical conduct <em>during</em> war. The prohibition against certain weapons (like chemical or biological arms) is a rule of conduct within war, not a precondition for starting it.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 65",
+    "topic": ["Just War Theory", "Just Cause", "Ethics"],
+    "Question": {
+      "content": "What does the criterion of \"just cause\" require of a state?",
+      "type": "OBJ",
+      "options": [
+        "Has superior military strength",
+        "Acts only for economic gain",
+        "Responds to aggression or serious wrongdoing",
+        "Seeks territorial expansion"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Responds to aggression or serious wrongdoing"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Just Cause</h4>\n <p>The correct answer is <strong>Responds to aggression or serious wrongdoing</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Most Fundamental Criterion</strong><br>\n \"Just cause\" is the most important principle of <em>jus ad bellum</em>. It holds that war is only morally permissible if it is a response to a direct, unprovoked attack (aggression) or to protect innocent people from grave harm, such as large-scale human rights violations. The goal is self-defense or the defense of others, not aggression or conquest.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 66",
+    "topic": ["Just War Theory", "Jus in Bello", "Ethics"],
+    "Question": {
+      "content": "What does the principle of jus in bello concern?",
+      "type": "OBJ",
+      "options": [
+        "Who can declare war",
+        "Ethical conduct within war",
+        "Rebuilding society after war",
+        "Stopping war from occurring"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ethical conduct within war"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Jus in Bello</h4>\n <p>The correct answer is <strong>Ethical conduct within war</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Rules of War</strong><br>\n <em>Jus in bello</em> (Latin for \"justice in war\") is the part of Just War Theory that governs how war should be fought ethically. Even if a war is started with a just cause (<em>jus ad bellum</em>), it must still be fought justly. Its core principles include discrimination (distinguishing between combatants and non-combatants) and proportionality (avoiding excessive force).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 67",
+    "topic": ["Just War Theory", "Discrimination", "Jus in Bello"],
+    "Question": {
+      "content": "According to the principle of discrimination under jus in bello, what are soldiers required to do?",
+      "type": "OBJ",
+      "options": [
+        "Attack only military targets",
+        "Employ any weapon available",
+        "Target enemy civilians",
+        "Use chemical warfare"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Attack only military targets"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Principle of Discrimination</h4>\n <p>The correct answer is <strong>Attack only military targets</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Protecting Non-Combatants</strong><br>\n The principle of discrimination, also known as distinction, is a cornerstone of <em>jus in bello</em>. It requires that combatants must always distinguish between military targets (e.g., enemy soldiers, military bases) and non-combatants (civilians, medical personnel, places of worship). Intentionally targeting civilians is strictly prohibited.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 68",
+    "topic": ["Just War Theory", "Proportionality", "Jus in Bello"],
+    "Question": {
+      "content": "What does the principle of proportionality in Just War Theory mean?",
+      "type": "OBJ",
+      "options": [
+        "Using maximum force possible",
+        "Balancing expected harms and benefits",
+        "Retaliating without limits",
+        "Prioritizing civilian casualties"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Balancing expected harms and benefits"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Proportionality</h4>\n <p>The correct answer is <strong>Balancing expected harms and benefits</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>A Measure of Just Conduct</strong><br>\n Proportionality in war, particularly in <em>jus in bello</em>, is the idea that the force used in an attack must be proportional to the military advantage gained. It is a balancing test: the anticipated harm to civilians and civilian property must not be excessive in relation to the concrete and direct military objective sought. It is not about using maximum force, but about using the minimum force necessary to achieve a legitimate military goal.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 69",
+    "topic": ["Just War Theory", "History", "St. Augustine"],
+    "Question": {
+      "content": "Which scholar is most associated with the early Christian foundations of Just War Theory?",
+      "type": "OBJ",
+      "options": [
+        "Niccolò Machiavelli",
+        "St. Augustine",
+        "Karl Marx",
+        "Jean-Jacques Rousseau"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "St. Augustine"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Origin of Just War Theory</h4>\n <p>The correct answer is <strong>St. Augustine</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>A Theological Foundation</strong><br>\n St. Augustine of Hippo (354-430 AD) is credited with laying the groundwork for Just War Theory within Christian thought. He sought to reconcile the Christian doctrine of \"love thy neighbor\" with the practical need for self-defense and maintaining order. His work heavily influenced later thinkers like Thomas Aquinas, who systematized the theory.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 70",
+    "topic": ["Just War Theory", "Ethics", "Political Philosophy"],
+    "Question": {
+      "content": "What was Thomas Aquinas's contribution to Just War Theory?",
+      "type": "OBJ",
+      "options": [
+        "Rejecting the concept entirely",
+        "Formalizing criteria for just war",
+        "Promoting total warfare",
+        "Supporting pacifism"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Formalizing criteria for just war"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Thomas Aquinas and Just War Theory</h4>\n <p>The correct answer is <strong>B (Formalizing criteria for just war)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Contribution</strong><br>\n Thomas Aquinas, a medieval philosopher, didn't invent Just War Theory but formalized it. He established three key criteria that became foundational:<br>\n 1. <strong>Legitimate Authority</strong>: War must be declared by a proper governing body.<br>\n 2. <strong>Just Cause</strong>: There must be a valid reason, like self-defense.<br>\n 3. <strong>Right Intention</strong>: The goal must be to achieve good or avoid evil, not for greed or revenge.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 71",
+    "topic": ["Just War Theory", "Ethics"],
+    "Question": {
+      "content": "When does a war become 'unjust'?",
+      "type": "OBJ",
+      "options": [
+        "It is defensive",
+        "It violates just war principles",
+        "It is supported by the UN",
+        "It involves diplomacy"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It violates just war principles"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What Makes a War Unjust</h4>\n <p>The correct answer is <strong>B (It violates just war principles)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n Just War Theory provides a moral framework. If a war fails to meet any of its core criteria—such as having a just cause, being a last resort, or following right intention—it is considered unjust. A defensive war (option A) is typically just, not unjust.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 72",
+    "topic": ["Just War Theory", "Ethics"],
+    "Question": {
+      "content": "Which of the following is considered a just cause for war?",
+      "type": "OBJ",
+      "options": [
+        "Desire for national prestige",
+        "Self-defense against aggression",
+        "Colonization of weaker states",
+        "Revenge"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Self-defense against aggression"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Just Cause for War</h4>\n <p>The correct answer is <strong>B (Self-defense against aggression)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Core Principle</strong><br>\n Within Just War Theory, the only universally accepted just cause is self-defense against an actual or imminent attack. The other options—national prestige, colonization, and revenge—are morally unacceptable reasons to go to war.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 73",
+    "topic": ["Just War Theory", "Ethics"],
+    "Question": {
+      "content": "What does the concept of 'last resort' mean in Just War Theory?",
+      "type": "OBJ",
+      "options": [
+        "War must be the first response",
+        "War should occur only after all peaceful options fail",
+        "War should never be allowed",
+        "War should happen immediately"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "War should occur only after all peaceful options fail"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Last Resort</h4>\n <p>The correct answer is <strong>B (War should occur only after all peaceful options fail)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>A Crucial Criterion</strong><br>\n \"Last resort\" is a key principle of <em>jus ad bellum</em> (the right to go to war). It means that all diplomatic, economic, and peaceful means of resolving a conflict must be exhausted before military force can be morally justified. War is never the first option.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 74",
+    "topic": ["Just War Theory", "Political Philosophy"],
+    "Question": {
+      "content": "In Just War Theory, what does 'legitimate authority' refer to?",
+      "type": "OBJ",
+      "options": [
+        "Individuals acting alone",
+        "Criminal organizations",
+        "Recognized governing institutions",
+        "Religious leaders only"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Recognized governing institutions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Legitimate Authority</h4>\n <p>The correct answer is <strong>C (Recognized governing institutions)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Who Can Declare War?</strong><br>\n This criterion states that a war can only be just if it is declared by a sovereign authority—a recognized government or state. This prevents vigilante justice, private wars, and conflicts started by non-state actors, ensuring that the decision to go to war is a public, official act of the community.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 75",
+    "topic": ["Just War Theory", "Ethics"],
+    "Question": {
+      "content": "Which type of war violates the principle of 'right intention'?",
+      "type": "OBJ",
+      "options": [
+        "War fought to restore justice",
+        "War fought for self-defense",
+        "War fought for revenge or greed",
+        "War fought to protect civilians"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "War fought for revenge or greed"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Right Intention</h4>\n <p>The correct answer is <strong>C (War fought for revenge or greed)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Goal of War</strong><br>\n \"Right intention\" means the primary motive for war must be to establish a just peace, not to pursue selfish aims like gaining territory, revenge, economic gain, or political power. Even with a just cause, if the motivation is corrupt, the war is considered unjust.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 76",
+    "topic": ["Just War Theory", "International Relations"],
+    "Question": {
+      "content": "What is a 'preventive war'?",
+      "type": "OBJ",
+      "options": [
+        "Fighting an enemy that has attacked",
+        "Fighting due to imminent threat",
+        "Fighting based on speculative future threats",
+        "Fighting to end civil unrest"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fighting based on speculative future threats"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Preventive War</h4>\n <p>The correct answer is <strong>C (Fighting based on speculative future threats)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>A Controversial Concept</strong><br>\n A preventive war is initiated to stop a potential, but not immediate, threat. For example, attacking a country because it <em>might</em> develop a weapon in the future. This is generally considered unjust in Just War Theory because it lacks an imminent threat and often violates the \"last resort\" and \"just cause\" principles.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 77",
+    "topic": ["Just War Theory", "International Relations"],
+    "Question": {
+      "content": "When is a preemptive war justified according to Just War Theory?",
+      "type": "OBJ",
+      "options": [
+        "There is no evidence of threat",
+        "An attack is imminent",
+        "It will increase national power",
+        "Civilians are the primary targets"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "An attack is imminent"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Preemptive War</h4>\n <p>The correct answer is <strong>B (An attack is imminent)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Self-Defense in Advance</strong><br>\n A preemptive war is the first strike against an enemy that is about to attack. The threat is immediate and certain (e.g., mobilizing troops on the border). This is often considered a just form of self-defense, as waiting for the first blow would put you at a disadvantage.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 78",
+    "topic": ["Just War Theory", "Ethics", "International Law"],
+    "Question": {
+      "content": "Which of the following conflicts is usually considered unjust?",
+      "type": "OBJ",
+      "options": [
+        "Defensive war",
+        "Genocidal war",
+        "Humanitarian intervention",
+        "War authorized by international law"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Genocidal war"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>An Unjust War</h4>\n <p>The correct answer is <strong>B (Genocidal war)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n A genocidal war aims to destroy a national, ethnic, racial, or religious group. This fundamentally violates the principle of <strong>non-combatant immunity</strong> and lacks any semblance of a just cause. Defensive wars, humanitarian interventions, and UN-authorized wars can be just under specific conditions, but genocide is always a grave moral evil and an unjust act of war.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 79",
+    "topic": ["International Law", "Just War Theory"],
+    "Question": {
+      "content": "What do the Geneva Conventions primarily regulate?",
+      "type": "OBJ",
+      "options": [
+        "Causes of war",
+        "Conduct during war",
+        "Economic sanctions",
+        "Diplomatic alliances"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Conduct during war"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Geneva Conventions</h4>\n <p>The correct answer is <strong>B (Conduct during war)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Laws of War</strong><br>\n The Geneva Conventions are a set of international treaties that establish the rules of war for <em>jus in bello</em> (justice in war). They focus on protecting people who are not or are no longer participating in hostilities, such as civilians, wounded soldiers, and prisoners of war (POWs).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 80",
+    "topic": ["Just War Theory", "International Law"],
+    "Question": {
+      "content": "What does the principle of non-combatant immunity prohibit?",
+      "type": "OBJ",
+      "options": [
+        "Capturing soldiers",
+        "Targeting civilians",
+        "Using non-lethal weapons",
+        "Holding peace talks"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Targeting civilians"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Non-Combatant Immunity</h4>\n <p>The correct answer is <strong>B (Targeting civilians)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n This is a cornerstone of <em>jus in bello</em>. It states that civilians who are not actively participating in the fighting (non-combatants) must never be the deliberate target of military action. This principle exists to protect innocent life and is a core tenet of the Geneva Conventions.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 81",
+    "topic": ["Religion", "Just War Theory"],
+    "Question": {
+      "content": "What is a 'holy war' usually based on?",
+      "type": "OBJ",
+      "options": [
+        "Military alliances",
+        "Religious justification",
+        "Economic development",
+        "Proportional retaliation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Religious justification"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Holy War</h4>\n <p>The correct answer is <strong>B (Religious justification)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n A holy war is a conflict that is waged for religious purposes, often to defend or spread a faith. Examples include the Crusades. It differs from Just War Theory, which relies on secular principles of justice, natural law, and state authority rather than divine mandate.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 82",
+    "topic": ["Warfare", "Ethics"],
+    "Question": {
+      "content": "What does the term 'total war' refer to?",
+      "type": "OBJ",
+      "options": [
+        "War with minimal casualties",
+        "War limited to soldiers",
+        "War without restraint, targeting civilians and infrastructure",
+        "War fought only at sea"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "War without restraint, targeting civilians and infrastructure"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Total War</h4>\n <p>The correct answer is <strong>C (War without restraint, targeting civilians and infrastructure)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Beyond the Battlefield</strong><br>\n Total war is a conflict where a nation uses all its resources—economic, industrial, and human—to destroy the enemy's ability to fight. This involves blurring the line between combatant and civilian, targeting cities, factories, and supply lines. World War II is a classic example, and it stands in direct opposition to the principles of discrimination in Just War Theory.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 83",
+    "topic": ["Ethics", "Political Philosophy"],
+    "Question": {
+      "content": "Which theory argues that all war is morally wrong?",
+      "type": "OBJ",
+      "options": [
+        "Realism",
+        "Pacifism",
+        "Just War Theory",
+        "Utilitarianism"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Pacifism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Pacifism</h4>\n <p>The correct answer is <strong>B (Pacifism)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n Pacifism is the ethical position that war and violence are inherently wrong and can never be justified. While Just War Theory seeks to limit war, pacifism seeks to eliminate it entirely, advocating for non-violent conflict resolution.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 84",
+    "topic": ["International Relations", "Political Philosophy"],
+    "Question": {
+      "content": "What do realist theorists believe about war and morality?",
+      "type": "OBJ",
+      "options": [
+        "Morality plays no role in war",
+        "War must follow moral rules",
+        "War is always unjust",
+        "Diplomacy is more important than power"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Morality plays no role in war"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Realism</h4>\n <p>The correct answer is <strong>A (Morality plays no role in war)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Power, Not Morals</strong><br>\n Realism is a school of thought in international relations that focuses on power, national interest, and survival. It argues that states operate in an anarchic world where moral principles are irrelevant or a hindrance. A state's primary duty is to its own security, not to universal ethical codes.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 85",
+    "topic": ["Just War Theory", "Ethics"],
+    "Question": {
+      "content": "Which idea suggests that war is sometimes necessary but must be morally limited?",
+      "type": "OBJ",
+      "options": [
+        "Pacifism",
+        "Realism",
+        "Just War Theory",
+        "Anarchism"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Just War Theory"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Core Idea of Just War Theory</h4>\n <p>The correct answer is <strong>C (Just War Theory)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Middle Path</strong><br>\n Just War Theory strikes a balance between realism (which dismisses morality) and pacifism (which rejects all war). It accepts that war can be a tragic necessity in a fallen world, but insists that it must be constrained by strict moral and legal principles to minimize harm and pursue a just peace.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 86",
+    "topic": [
+      "Just War Theory",
+      "Jus Post Bellum",
+      "Ethics"
+    ],
+    "Question": {
+      "content": "Which of the following is NOT a principle of jus post bellum?",
+      "type": "OBJ",
+      "options": [
+        "Fair treatment of defeated states",
+        "Reconstruction after war",
+        "Humane treatment of prisoners",
+        "Honouring peace agreements"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Humane treatment of prisoners"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Jus Post Bellum</h4>\n <p>The correct answer is <strong>C (Humane treatment of prisoners)</strong>.</p>\n <p><em>Jus post bellum</em> refers to the ethical principles that apply <strong>after</strong> a war has ended. Its main concerns are building a just and lasting peace. The key principles include:</p>\n <ul>\n <li><strong>Fair treatment of defeated states:</strong> Avoiding harsh punishment that could lead to future conflict.</li>\n <li><strong>Reconstruction after war:</strong> Helping to rebuild the country's infrastructure and institutions.</li>\n <li><strong>Honouring peace agreements:</strong> Upholding the terms of treaties to ensure stability.</li>\n </ul>\n <p><strong>Humane treatment of prisoners</strong> is a vital ethical principle, but it belongs to <em>jus in bello</em> (justice <strong>in</strong> war), which governs conduct during the conflict itself, not after it has ended.</p>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 87",
+    "topic": [
+      "Just War Theory",
+      "Jus in Bello",
+      "Ethics"
+    ],
+    "Question": {
+      "content": "What does ethical conduct in war require?",
+      "type": "OBJ",
+      "options": [
+        "Indiscriminate bombing",
+        "Avoiding unnecessary suffering",
+        "Use of nuclear weapons at all times",
+        "Targeting civilians"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Avoiding unnecessary suffering"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Ethical Conduct in War</h4>\n <p>The correct answer is <strong>B (Avoiding unnecessary suffering)</strong>.</p>\n <p>The principle of <em>jus in bello</em> (justice in war) focuses on how war is fought. A core part of this is the principle of <strong>proportionality</strong>. This means that the violence used in war must be proportional to the military objective. It strictly forbids causing unnecessary suffering or harm that is not directly related to a military advantage.</p>\n <p>Options A, C, and D all describe actions that are prohibited by ethical conduct in war, as they cause indiscriminate and unnecessary harm to both combatants and non-combatants.</p>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 88",
+    "topic": [
+      "Just War Theory",
+      "Jus ad Bellum",
+      "Ethics"
+    ],
+    "Question": {
+      "content": "How is a war fought primarily for territorial expansion considered?",
+      "type": "OBJ",
+      "options": [
+        "Just",
+        "Unjust",
+        "Defensive",
+        "Moral"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Unjust"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Just Cause for War</h4>\n <p>The correct answer is <strong>B (Unjust)</strong>.</p>\n <p>For a war to be considered just, it must meet several criteria, the most important being <strong>just cause</strong>. A just cause is typically self-defense against an attack or the defense of others from aggression. A war of aggression for the purpose of territorial expansion does not meet this criterion. Instead, it is considered a war of aggression, which is widely condemned as unjust and, in international law, is a crime against peace.</p>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 89",
+    "topic": [
+      "Just War Theory",
+      "Jus ad Bellum",
+      "Ethics"
+    ],
+    "Question": {
+      "content": "What does the 'probability of success' principle mean in the context of Just War Theory?",
+      "type": "OBJ",
+      "options": [
+        "States should fight hopeless wars",
+        "War should be winnable before being declared",
+        "War must always be avoided",
+        "Only powerful nations can fight"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "War should be winnable before being declared"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Probability of Success</h4>\n <p>The correct answer is <strong>B (War should be winnable before being declared)</strong>.</p>\n <p>The 'probability of success' is one of the criteria for <em>jus ad bellum</em> (the right to go to war). It is a principle of prudence. It argues that one should not resort to war if there is little to no chance of achieving the stated just goals. Fighting a hopeless war would only lead to futile loss of life and resources without achieving a just outcome. The idea is to ensure that the decision to go to war is not only just but also realistic.</p>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 90",
+    "topic": [
+      "Just War Theory",
+      "Ethics"
+    ],
+    "Question": {
+      "content": "What is one major goal of Just War Theory?",
+      "type": "OBJ",
+      "options": [
+        "Eliminate all military forces",
+        "Provide ethical limits to war",
+        "Promote unlimited warfare",
+        "Justify aggression"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Provide ethical limits to war"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Purpose of Just War Theory</h4>\n <p>The correct answer is <strong>B (Provide ethical limits to war)</strong>.</p>\n <p>Just War Theory is not about promoting war or justifying all aggression. Its central purpose is to provide a moral and ethical framework for determining when it is justifiable to go to war (<em>jus ad bellum</em>) and what ethical conduct must be observed during the war (<em>jus in bello</em>). Its goal is to limit the destructiveness of war and protect human dignity, even in the midst of conflict.</p>\n </div>"
+    }
+  }
+]

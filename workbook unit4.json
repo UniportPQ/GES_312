@@ -1,0 +1,764 @@
+[
+  
+  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Peace and Conflicts Resolution",
+    "code": "GES 312",
+    "session": "Unit 4",
+    "topics": ["Insurgency", "Terrorism", "Africa", "Conflict", "Boko Haram", "Definitions", "Al-Shabaab", "Recruitment", "Socioeconomics", "Sahel Region", "ISWAP", "Tactics", "African Union", "Peace and Security", "Economics", "Security", "Sociology", "Governance", "Environment", "Education", "Society", "International Relations", "Technology", "Strategy", "Psychology", "Piracy", "Peacebuilding", "Extremism"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  
+  {
+    "type": "heading",
+    "heading": "Unit Four: Insurgency and Terrorism in Africa",
+    "Subheading": "Drivers, Groups, and Counter-Strategies"
+  },
+  {
+    "type": "Question",
+    "name": "Question 91",
+    "topic": [
+      "Insurgency",
+      "Terrorism",
+      "Africa",
+      "Conflict"
+    ],
+    "Question": {
+      "content": "Which of the following is a major driver of insurgency in Africa?",
+      "type": "OBJ",
+      "options": [
+        "Rapid industrialization",
+        "Ethno-religious conflict",
+        "High foreign investment",
+        "Overpopulation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ethno-religious conflict"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Drivers of Insurgency in Africa</h4>\n <p>The correct answer is <strong>B (Ethno-religious conflict)</strong>.</p>\n <p>While factors like poverty and weak governance are significant, <strong>ethno-religious conflict</strong> is a particularly powerful driver. In many African nations, colonial borders artificially grouped diverse ethnic and religious communities. When these groups feel marginalized, oppressed, or threatened by others, it creates deep grievances that insurgent groups can exploit to gain support and recruit members.</p>\n <p>Other drivers include political exclusion, economic inequality, and the presence of valuable natural resources (like diamonds or oil) that can be used to fund rebellions.</p>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 92",
+    "topic": [
+      "Terrorism",
+      "Insurgency",
+      "Africa",
+      "Boko Haram"
+    ],
+    "Question": {
+      "content": "In which African country did Boko Haram originate?",
+      "type": "OBJ",
+      "options": [
+        "Kenya",
+        "Egypt",
+        "Nigeria",
+        "Libya"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nigeria"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Origin of Boko Haram</h4>\n <p>The correct answer is <strong>C (Nigeria)</strong>.</p>\n <p>Boko Haram, whose full name translates to \"Western education is forbidden,\" was founded in the early 2000s in northeastern Nigeria, specifically in Borno State. While its activities have spilled over into neighboring countries like Cameroon, Chad, and Niger, its origin and primary base of operations remain in Nigeria.</p>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 93",
+    "topic": [
+      "Insurgency",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "What does the term 'insurgency' refer to?",
+      "type": "OBJ",
+      "options": [
+        "Legitimate government enforcement",
+        "Violent rebellion against a constituted authority",
+        "Military cooperation between states",
+        "Community policing"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Violent rebellion against a constituted authority"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining Insurgency</h4>\n <p>The correct answer is <strong>B (Violent rebellion against a constituted authority)</strong>.</p>\n <p>An insurgency is an organized, armed rebellion aimed at overthrowing a constituted government or authority. It is a form of political violence where non-state actors use tactics like guerrilla warfare, sabotage, and terrorism to challenge the state's power and control over territory or the population. It is distinct from a conventional war between two states.</p>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 94",
+    "topic": [
+      "Terrorism",
+      "Insurgency",
+      "Africa",
+      "Al-Shabaab"
+    ],
+    "Question": {
+      "content": "In which country is the terrorist group Al-Shabaab primarily based?",
+      "type": "OBJ",
+      "options": [
+        "Ghana",
+        "Somalia",
+        "Rwanda",
+        "Tunisia"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Somalia"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Al-Shabaab's Base of Operations</h4>\n <p>The correct answer is <strong>B (Somalia)</strong>.</p>\n <p>Al-Shabaab, meaning \"The Youth\" in Arabic, is a militant Islamist group that emerged from the chaos of the Somali Civil War. It controls large parts of southern and central Somalia and seeks to establish an Islamic state based on its strict interpretation of Sharia law. It is the most prominent and powerful terrorist group in the Horn of Africa.</p>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 95",
+    "topic": [
+      "Terrorism",
+      "Insurgency",
+      "Recruitment",
+      "Socioeconomics"
+    ],
+    "Question": {
+      "content": "Which factor most contributes to youth recruitment into terrorist groups?",
+      "type": "OBJ",
+      "options": [
+        "High literacy rates",
+        "Unemployment and poverty",
+        "Large urban cities",
+        "Cultural diversity"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Unemployment and poverty"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Why Youth Join Terrorist Groups</h4>\n <p>The correct answer is <strong>B (Unemployment and poverty)</strong>.</p>\n <p>While ideology plays a role, the most powerful push factors are economic. High rates of <strong>unemployment and poverty</strong> create a sense of hopelessness, marginalization, and frustration among young people. Terrorist groups exploit this by offering a sense of purpose, identity, belonging, and a steady income. They present themselves as an alternative to a state that has failed to provide economic opportunities, making recruitment into their ranks an appealing, and sometimes the only, option for survival and status.</p>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 96",
+    "topic": [
+      "Insurgency",
+      "Terrorism",
+      "Sahel Region",
+      "Africa"
+    ],
+    "Question": {
+      "content": "Why is the Sahel region particularly prone to insurgency?",
+      "type": "OBJ",
+      "options": [
+        "Heavy rainfall",
+        "Weak border control",
+        "High levels of industrialization",
+        "Ocean pollution"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Weak border control"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Sahel's Vulnerability</h4>\n <p>The correct answer is <strong>B (Weak border control)</strong>.</p>\n <p>The Sahel region, which stretches across Africa just south of the Sahara, is characterized by vast, arid, and often ungoverned spaces. The borders between countries like Mali, Niger, and Burkina Faso are extremely porous and difficult for weak national armies to patrol and control. This allows insurgent groups like those affiliated with Al-Qaeda and ISIS to move freely, establish safe havens, plan attacks, and traffic weapons and people across international borders with impunity. This lack of state control is the single biggest factor enabling insurgency in the region.</p>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 97",
+    "topic": [
+      "Terrorism",
+      "Insurgency",
+      "Africa",
+      "ISWAP",
+      "Boko Haram"
+    ],
+    "Question": {
+      "content": "The group ISIS-West Africa Province (ISWAP) evolved from which of the following?",
+      "type": "OBJ",
+      "options": [
+        "Al-Qaeda",
+        "Boko Haram",
+        "MEND",
+        "Al-Shabaab"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Boko Haram"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Evolution of ISWAP</h4>\n <p>The correct answer is <strong>B (Boko Haram)</strong>.</p>\n <p>ISWAP is a splinter faction of Boko Haram. In 2016, a faction of Boko Haram, disillusioned with the leadership of Abubakar Shekau, pledged allegiance to the Islamic State of Iraq and the Levant (ISIS). This faction became known as ISIS-West Africa Province (ISWAP). While both groups operate in the Lake Chad region, they have distinct leadership, tactics, and targets, with ISWAP often focusing more on military and state targets than Shekau's faction did.</p>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 98",
+    "topic": [
+      "Terrorism",
+      "Insurgency",
+      "Tactics"
+    ],
+    "Question": {
+      "content": "What is a common strategy used by terrorist groups?",
+      "type": "OBJ",
+      "options": [
+        "Peace talks",
+        "Suicide bombing",
+        "Free healthcare",
+        "Urban planning"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Suicide bombing"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Terrorist Tactics</h4>\n <p>The correct answer is <strong>B (Suicide bombing)</strong>.</p>\n <p>Terrorist groups use asymmetric tactics to achieve their political goals. A common and highly effective tactic is <strong>suicide bombing</strong>. It serves multiple purposes: it causes mass casualties, generates widespread fear and media attention, demonstrates the group's commitment and ruthlessness, and is difficult for security forces to prevent. It is a hallmark of modern terrorism.</p>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 99",
+    "topic": [
+      "Insurgency",
+      "Tactics",
+      "Africa"
+    ],
+    "Question": {
+      "content": "Why do insurgents often target rural communities?",
+      "type": "OBJ",
+      "options": [
+        "They have strong military presence",
+        "They are highly secure",
+        "They are vulnerable and poorly protected",
+        "They lack natural resources"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "They are vulnerable and poorly protected"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Why Rural Areas are Targeted</h4>\n <p>The correct answer is <strong>C (They are vulnerable and poorly protected)</strong>.</p>\n <p>Insurgents often operate in rural areas because state military and police forces are usually concentrated in cities. Rural communities are often <strong>vulnerable and poorly protected</strong> due to their geographic isolation and the state's limited reach. This makes them ideal targets for insurgents to: establish bases, extort resources, recruit new members, control territory, and gain a foothold without facing immediate resistance from state forces.</p>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 100",
+    "topic": [
+      "African Union",
+      "Terrorism",
+      "Peace and Security",
+      "Africa"
+    ],
+    "Question": {
+      "content": "Through which organ does the African Union fight terrorism?",
+      "type": "OBJ",
+      "options": [
+        "AFCON",
+        "APSA (African Peace and Security Architecture)",
+        "ECOWAS Parliament",
+        "ECA"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "APSA (African Peace and Security Architecture)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The African Union's Counter-Terrorism Framework</h4>\n <p>The correct answer is <strong>B (APSA)</strong>.</p>\n <p>The African Peace and Security Architecture (APSA) is the operational framework of the African Union (AU) for promoting peace, security, and stability in Africa. It is the main institutional mechanism through which the AU addresses issues like conflict prevention, peacekeeping, and counter-terrorism. Its key components include the Peace and Security Council (PSC) and the African Standby Force (ASF), which work to combat terrorism and insurgency across the continent.</p>\n </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 101",
+    "topic": ["Terrorism", "Economics", "Africa"],
+    "Question": {
+      "content": "What is one of the major consequences of terrorism in Africa?",
+      "type": "OBJ",
+      "options": [
+        "Increased foreign tourism",
+        "Economic decline",
+        "Higher agricultural production",
+        "Stable governance"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Economic decline"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Economic Impact of Terrorism</h4>\n  <p>The correct answer is <strong>B (Economic decline)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why terrorism leads to economic decline:</strong><br>\n    Terrorism creates instability, which scares away investors, destroys infrastructure (like roads and factories), and increases government spending on security instead of development. This all leads to a drop in economic activity, job losses, and reduced trade.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 102",
+    "topic": ["Terrorism", "Security", "Africa"],
+    "Question": {
+      "content": "For what primary purpose was the Multinational Joint Task Force (MNJTF) formed?",
+      "type": "OBJ",
+      "options": [
+        "To fight rebels in South Sudan",
+        "To combat piracy in the Gulf of Guinea",
+        "To combat Boko Haram",
+        "To stop electoral violence"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Boko Haram"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Multinational Joint Task Force (MNJTF)</h4>\n  <p>The correct answer is <strong>C (Boko Haram)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What is the MNJTF?</strong><br>\n    It is a combined military force made up of troops from Nigeria, Niger, Chad, Cameroon, and Benin. Its main goal is to fight the extremist group Boko Haram, which has been operating in the Lake Chad region.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 103",
+    "topic": ["Terrorism", "Sociology", "Definitions"],
+    "Question": {
+      "content": "What does the term 'radicalization' refer to?",
+      "type": "OBJ",
+      "options": [
+        "Adoption of extreme political or religious views",
+        "Participation in elections",
+        "Engagement in civil service",
+        "Practicing agriculture"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Adoption of extreme political or religious views"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Radicalization</h4>\n  <p>The correct answer is <strong>A (Adoption of extreme political or religious views)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Simple Definition:</strong><br>\n    Radicalization is the process by which a person or group comes to adopt increasingly extreme political, social, or religious ideals. This can sometimes lead to a willingness to use or support violence to achieve these goals.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 104",
+    "topic": ["Terrorism", "Governance", "Africa"],
+    "Question": {
+      "content": "Which of these is a root cause of terrorism in Africa?",
+      "type": "OBJ",
+      "options": [
+        "Social inclusion",
+        "Good governance",
+        "Corruption",
+        "High employment"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Corruption"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Root Causes of Terrorism</h4>\n  <p>The correct answer is <strong>C (Corruption)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>How Corruption Fuels Terrorism:</strong><br>\n    Corruption weakens governments, making them less trusted and less effective. When public funds are stolen, essential services like education and healthcare fail, creating poverty and anger. Terrorist groups exploit this frustration to recruit new members.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 105",
+    "topic": ["Terrorism", "Economics"],
+    "Question": {
+      "content": "For what main purpose do insurgents engage in kidnapping for ransom?",
+      "type": "OBJ",
+      "options": [
+        "To increase agricultural output",
+        "To raise funds",
+        "To build schools",
+        "To promote peace"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Raise funds"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Kidnapping as a Funding Source</h4>\n  <p>The correct answer is <strong>B (Raise funds)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Logic Behind Kidnapping:</strong><br>\n    For insurgent groups, kidnapping for ransom is a low-risk, high-reward criminal activity. It provides a significant source of income to buy weapons, pay fighters, and sustain their operations when other funding is scarce.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 106",
+    "topic": ["Terrorism", "Environment", "Africa"],
+    "Question": {
+      "content": "Why is the Lake Chad region particularly vulnerable to terrorism?",
+      "type": "OBJ",
+      "options": [
+        "Over population",
+        "Environmental degradation and shrinking water bodies",
+        "Technological advancement",
+        "High rainfall"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Environmental degradation and shrinking water bodies"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Lake Chad's Vulnerability</h4>\n  <p>The correct answer is <strong>B (Environmental degradation and shrinking water bodies)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Link Between Environment and Conflict:</strong><br>\n    As Lake Chad has dramatically shrunk due to climate change and overuse, people have lost their traditional livelihoods like fishing and farming. This desperation creates fertile ground for terrorist groups like Boko Haram to recruit disenfranchised youth.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 107",
+    "topic": ["Terrorism", "Education", "Society"],
+    "Question": {
+      "content": "What is a major effect of insurgency on education?",
+      "type": "OBJ",
+      "options": [
+        "Improved school infrastructure",
+        "Increased enrollment",
+        "School closures and displacement of students",
+        "Free textbooks for students"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "School closures and displacement of students"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Impact of Insurgency on Education</h4>\n  <p>The correct answer is <strong>C (School closures and displacement of students)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>How Education Suffers:</strong><br>\n    Insurgents often target schools for attacks or use them as bases. This forces schools to close, and families flee the violence. Students become internally displaced persons (IDPs), losing years of education and hope for the future.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 108",
+    "topic": ["Terrorism", "Governance"],
+    "Question": {
+      "content": "What are 'ungoverned spaces' that terrorist groups often exploit?",
+      "type": "OBJ",
+      "options": [
+        "Areas with strong state presence",
+        "Areas controlled by international bodies",
+        "Places with little or no government authority",
+        "Locations with many police stations"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Places with little or no government authority"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding 'Ungoverned Spaces'</h4>\n  <p>The correct answer is <strong>C (Places with little or no government authority)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What are they?</strong><br>\n    These are remote areas like dense forests, vast deserts, or porous borders where the government has a weak or non-existent presence. Terrorist groups use these spaces to set up training camps, hide from security forces, and plan operations without interference.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 109",
+    "topic": ["Terrorism", "International Relations"],
+    "Question": {
+      "content": "Which of the following is an example of international counter-terrorism cooperation?",
+      "type": "OBJ",
+      "options": [
+        "AFDB loans",
+        "G5 Sahel Joint Force",
+        "FIFA agreements",
+        "UN tourism policy"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "G5 Sahel Joint Force"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>International Cooperation Against Terrorism</h4>\n  <p>The correct answer is <strong>B (G5 Sahel Joint Force)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What is the G5 Sahel?</strong><br>\n    This is a regional cooperation framework formed by five African countries (Burkina Faso, Chad, Mali, Mauritania, and Niger) to address security challenges, particularly terrorism, in the Sahel region. It is a prime example of nations working together against a common threat.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 110",
+    "topic": ["Terrorism", "Definitions"],
+    "Question": {
+      "content": "In terrorism studies, what does the term 'safe haven' refer to?",
+      "type": "OBJ",
+      "options": [
+        "Refugee camps",
+        "Secure locations where terrorists hide or operate from",
+        "A government palace",
+        "Airports"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Secure locations where terrorists hide or operate from"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Concept of a 'Safe Haven'</h4>\n  <p>The correct answer is <strong>B (Secure locations where terrorists hide or operate from)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why it's important:</strong><br>\n    A safe haven is a territory, often in a country with a weak government or in a remote area, where a terrorist group can organize, train, and plan attacks without facing immediate pressure from security forces. Denying groups safe havens is a key goal of counter-terrorism.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 111",
+    "topic": ["Terrorism", "Technology", "Definitions"],
+    "Question": {
+      "content": "What does cyber-terrorism involve?",
+      "type": "OBJ",
+      "options": [
+        "Attacking farms",
+        "Using digital tools to cause harm",
+        "Building roads",
+        "Conducting national census"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Using digital tools to cause harm"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining Cyber-Terrorism</h4>\n  <p>The correct answer is <strong>B (Using digital tools to cause harm)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What it looks like:</strong><br>\n    Cyber-terrorism involves the use of the internet and computer networks to conduct attacks that cause fear, disruption, or damage. This can include hacking into critical infrastructure (like power grids), spreading propaganda, stealing sensitive data, or launching attacks on financial systems.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 113",
+    "topic": ["Terrorism", "Definitions"],
+    "Question": {
+      "content": "Who are foreign terrorist fighters (FTFs)?",
+      "type": "OBJ",
+      "options": [
+        "Diplomats",
+        "Individuals who travel to join extremist groups",
+        "Peacekeepers",
+        "Refugees seeking asylum"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Individuals who travel to join extremist groups"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Who are Foreign Terrorist Fighters (FTFs)?</h4>\n  <p>The correct answer is <strong>B (Individuals who travel to join extremist groups)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Key Concept:</strong><br>\n    FTFs are people who leave their country of residence to go to a conflict zone, often in another country, to join and fight alongside a non-state armed group, such as ISIS or Al-Qaeda. They pose a significant security risk because they often return home with combat experience and extremist ideologies.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 114",
+    "topic": ["Terrorism", "Security", "Strategy"],
+    "Question": {
+      "content": "What does a counter-insurgency (COIN) strategy involve?",
+      "type": "OBJ",
+      "options": [
+        "Supporting terrorist movements",
+        "Using both military and non-military approaches",
+        "Reducing police presence",
+        "Increasing fuel subsidies"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Using both military and non-military approaches"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Counter-Insurgency (COIN)</h4>\n  <p>The correct answer is <strong>B (Using both military and non-military approaches)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The COIN Philosophy:</strong><br>\n    COIN is a comprehensive strategy. While it includes military operations to defeat insurgents, its main focus is on winning the support of the local population. This involves non-military approaches like building schools, providing security, creating jobs, and establishing good governance to address the grievances that fuel the insurgency.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 115",
+    "topic": ["Terrorism", "Psychology", "Society"],
+    "Question": {
+      "content": "Which of the following is a psychological impact of terrorism?",
+      "type": "OBJ",
+      "options": [
+        "Improved social cohesion",
+        "Trauma and fear",
+        "Increased motivation",
+        "Cultural integration"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Trauma and fear"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Psychological Effects of Terrorism</h4>\n  <p>The correct answer is <strong>B (Trauma and fear)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Beyond Physical Harm:</strong><br>\n    The primary goal of terrorism is to spread fear and terror far beyond the immediate victims. This leads to widespread psychological trauma, including anxiety, post-traumatic stress disorder (PTSD), and a constant sense of insecurity that can paralyze communities and societies.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 116",
+    "topic": ["Piracy", "Governance", "Africa"],
+    "Question": {
+      "content": "What is piracy in the Horn of Africa linked to?",
+      "type": "OBJ",
+      "options": [
+        "Strong governments",
+        "Marine police patrols",
+        "State failure and armed groups",
+        "High import duties"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "State failure and armed groups"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Root Causes of Piracy in the Horn of Africa</h4>\n  <p>The correct answer is <strong>C (State failure and armed groups)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Somali Case:</strong><br>\n    The collapse of the Somali government in the early 1990s created a power vacuum. With no effective state to police its long coastline, local armed groups and fishermen, deprived of their livelihoods by illegal foreign fishing, turned to piracy. It became a lucrative form of organized crime fueled by instability and lack of law enforcement.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 117",
+    "topic": ["Peacebuilding", "Security", "Definitions"],
+    "Question": {
+      "content": "What is the main focus of the Disarmament, Demobilization and Reintegration (DDR) program?",
+      "type": "OBJ",
+      "options": [
+        "Recruiting soldiers",
+        "Training insurgents",
+        "Reintegrating ex-combatants into society",
+        "Increasing arms supply"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Reintegrating ex-combatants into society"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding DDR Programs</h4>\n  <p>The correct answer is <strong>C (Reintegrating ex-combatants into society)</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Three Steps of DDR:</strong><br>\n    DDR is a process used after conflicts to help former fighters (combatants) become part of peaceful society again.<br>\n    1. <strong>Disarmament:</strong> Collecting weapons from them.<br>\n    2. <strong>Demobilization:</strong> Formally disbanding military groups and letting fighters return to civilian life.<br>\n    3. <strong>Reintegration:</strong> Providing them with skills training, education, and jobs so they can support themselves and their families without returning to violence.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Note",
+    "Subheading": "The Workbook Numbered it like this."
+  },
+  {
+    "type": "Question",
+    "name": "Question 207",
+    "topic": ["Terrorism", "Extremism", "Africa"],
+    "Question": {
+      "content": "Which extremist ideology motivates groups like Al-Qaeda in the Islamic Maghreb (AQIM)?",
+      "type": "OBJ",
+      "options": [
+        "Secularism",
+        "Marxism",
+        "Violent Islamist extremism",
+        "Pan-Africanism"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Violent Islamist extremism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Extremist Ideologies</h4>\n <p>The solution key indicates the answer is <strong>C (Violent Islamist extremism)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is Al-Qaeda in the Islamic Maghreb (AQIM)?</strong><br>\n AQIM is a militant group operating in North and West Africa. It originated from an Algerian insurgency and later pledged allegiance to Al-Qaeda. Its goal is to establish an Islamic state governed by its strict interpretation of Sharia law, using violence to achieve this. This is the core definition of violent Islamist extremism.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why the other options are incorrect:</strong><br>\n - <strong>Secularism</strong> separates religion from government, which is the opposite of AQIM's goal.<br>\n - <strong>Marxism</strong> focuses on class struggle and economic equality, not religious governance.<br>\n - <strong>Pan-Africanism</strong> seeks to unite African people and nations, which is not the primary motivation for AQIM.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 208",
+    "topic": ["Terrorism", "Definitions"],
+    "Question": {
+      "content": "What does the term \"lone-wolf attack\" mean?",
+      "type": "OBJ",
+      "options": [
+        "Group-planned attack",
+        "Attack carried out by a single individual without direct group assistance",
+        "Attack involving wild animals",
+        "Peaceful demonstration"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Attack carried out by a single individual without direct group assistance"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Lone-Wolf Attacks</h4>\n <p>The solution key indicates the answer is <strong>B (Attack carried out by a single individual without direct group assistance)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Simple Explanation</strong><br>\n Imagine a wolf that hunts alone instead of in a pack. Similarly, a 'lone-wolf' attacker plans and carries out their violent act by themselves. They may be inspired by a group's ideology but do not receive direct orders, training, or logistical support from that group. This makes them harder to detect by security agencies.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 209",
+    "topic": ["Terrorism", "Economics"],
+    "Question": {
+      "content": "What does the term \"economic terrorism\" refer to?",
+      "type": "OBJ",
+      "options": [
+        "Investment in foreign markets",
+        "Funding schools",
+        "Attacks aimed at disrupting economic stability",
+        "Increasing trade"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Attacks aimed at disrupting economic stability"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What is Economic Terrorism?</h4>\n <p>The solution key indicates the answer is <strong>C (Attacks aimed at disrupting economic stability)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Concept</strong><br>\n Economic terrorism is a strategy where the target is a nation's or a region's economy. The goal is not just to cause physical damage but to create widespread fear, disrupt business activities, damage critical infrastructure (like power grids or ports), and undermine investor confidence. This can lead to job losses, inflation, and long-term instability, weakening the government and society from within.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 210",
+    "topic": ["Terrorism", "Africa", "Governance"],
+    "Question": {
+      "content": "What is one major solution to terrorism in Africa?",
+      "type": "OBJ",
+      "options": [
+        "Marginalizing communities",
+        "Strengthening governance and security institutions",
+        "Eliminating education",
+        "Banning international cooperation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Strengthening governance and security institutions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Addressing Terrorism in Africa</h4>\n <p>The solution key indicates the answer is <strong>B (Strengthening governance and security institutions)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why is this a solution?</strong><br>\n Weak governance—such as corruption, lack of rule of law, and ineffective police/military—creates a vacuum that terrorist groups can exploit. Strengthening these institutions involves:<br>\n 1. <strong>Improving Governance</strong>: Ensuring governments are accountable, provide basic services, and address grievances that extremists prey on.<br>\n 2. <strong>Building Security Capacity</strong>: Training and equipping local police and military to effectively respond to threats, protect citizens, and secure borders, all while respecting human rights.\n </div>\n</div>"
+    }
+  }
+]
