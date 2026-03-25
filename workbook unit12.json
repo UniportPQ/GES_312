@@ -1,9 +1,20 @@
-
-```
-
-
-```json
 [
+  
+  
+  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Peace and Conflicts Resolution",
+    "code": "GES 312",
+    "session": "Unit 12",
+    "topics": ["Workplace Conflict", "Collaboration", "Organizational Culture", "Communication", "Organizational Behavior", "Conflict Management", "Conflict Resolution", "Problem Solving", "Active Listening", "Teamwork", "Mediation", "Workplace", "Constructive Conflict", "Dysfunctional Conflict", "Organizational Health", "Communication Skills", "Negotiation", "Leadership", "Organizational Change", "Conflict Transformation", "Workplace Harmony", "Emotional Intelligence", "Peace Studies", "Decision Making", "Organizational Development", "Organizational Performance", "Trust"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },  
+  
   {
     "type": "Question",
     "name": "Question 501",
@@ -325,13 +336,7 @@
       "type": "string",
       "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Leadership's Critical Function</h4>\n <p>Leaders are pivotal in transforming an organization's culture. They must act as <strong>active facilitators</strong>, guiding teams through conflict, and as <strong>role models</strong>, demonstrating the collaborative behaviors they wish to see. When leaders ignore conflict or encourage competition, they hinder the development of a peaceful, collaborative culture.</p>\n </div>"
     }
-  }
-]
-```
-
-
-```json
-[
+  },
   {
     "type": "Question",
     "name": "Question 515",
@@ -756,14 +761,3 @@
     }
   }
 ]
-```
-
-
-
-
-
-
-
-
-
-
