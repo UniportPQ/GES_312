@@ -1,8 +1,19 @@
-
-```
-
-```json
 [
+  
+  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Peace and Conflicts Resolution",
+    "code": "GES 312",
+    "session": "Unit 10",
+    "topics": ["Workplace Conflict", "Definitions", "Types of Conflict", "Causes of Conflict", "Task Conflict", "Relationship Conflict", "Role Ambiguity", "Communication", "Resource Scarcity", "Organizational Conflict", "Leadership", "Values", "Conflict Management", "Organizational Behavior", "Workplace Psychology", "Psychology", "External Environment", "Organizational Structure", "Goal Setting", "Conflict Resolution"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  
   {
     "type": "Question",
     "name": "Question 441",
@@ -349,19 +360,7 @@
       "type": "string",
       "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Values and Relationship Conflict</h4>\n <p>The correct answer is <strong>Relationship conflict</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why Values Matter</strong><br>\n Values and beliefs are deeply held personal convictions (e.g., about work ethic, honesty, fairness, or religion). When these core beliefs clash, it creates a fundamental incompatibility that is very difficult to resolve. This goes to the heart of <strong>relationship conflict</strong>. For example, one employee who values strict punctuality may clash with another who values flexibility and sees time as less rigid.\n </div>\n</div>"
     }
-  }
-]
-```
-
-
-
-
-Here is the JSON array containing all the questions from your image, formatted according to your instructions.
-
-Each question is broken down into a self-contained object with an easy-to-understand explanation suitable for all students.
-
-```json
-[
+  },
   {
     "type": "Question",
     "name": "Question 454",
@@ -776,44 +775,7 @@ Each question is broken down into a self-contained object with an easy-to-unders
       "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What is the Goal?</h4>\n  <p>Goals are the content of the work. If one team member is focused on speed and another on perfection, their goals for the <em>task</em> are misaligned. This creates <strong>task conflict</strong>, which is a disagreement over the direction or content of the work.</p>\n</div>"
     }
   },
-  {
-    "type": "Question",
-    "name": "Question 470",
-    "topic": [
-      "Conflict Management",
-      "Organizational Behavior"
-    ],
-    "Question": {
-      "content": "Conflict resolution is important in the workplace because:",
-      "type": "OBJ",
-      "options": [
-        "It ensures all disagreements are avoided permanently",
-        "It helps maintain relationships and productivity",
-        "It eliminates all stress",
-        "It guarantees promotions"
-      ]
-    },
-    "Answer": {
-      "type": "string",
-      "content": "It helps maintain relationships and productivity"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Goal of Resolution</h4>\n  <p>The purpose of conflict resolution is not to eliminate all disagreements (which is impossible and even unhealthy), but to manage them so they don't damage relationships or disrupt work. Effective resolution keeps teams functional and focused on their goals.</p>\n</div>"
-    }
-  }
-]
-```
-contd.
-
-
-```json
-[
-  {
-    "type": "heading",
-    "heading": "Unit Ten: Conflict in Organizations",
-    "Subheading": "Questions 470 to 484"
-  },
+  
   {
     "type": "Question",
     "name": "Question 470",
@@ -836,6 +798,5 @@ contd.
       "type": "string",
       "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Why Resolve Conflict?</h4>\n<p>The correct answer is <strong>It helps maintain relationships and improve performance</strong>. Conflict resolution isn't about eliminating all disagreements, which is impossible and even unhealthy. Instead, it's a vital process for a healthy workplace.</p>\n<ul>\n<li><strong>Maintains Relationships:</strong> When handled constructively, conflict resolution allows team members to clear the air, understand each other's perspectives, and rebuild trust. This prevents resentment from festering and damaging working relationships.</li>\n<li><strong>Improves Performance:</strong> By addressing the root cause of a conflict—like a flawed process or miscommunication—teams can find better solutions. This leads to increased efficiency, better decision-making, and a more focused, collaborative work environment.</li>\n<li><strong>Avoids Negative Outcomes:</strong> Unresolved conflict is the real problem, leading to stress, absenteeism, and high turnover, all of which harm performance.</li>\n</ul>\n</div>"
     }
-  },
-  
-  
+  }
+]

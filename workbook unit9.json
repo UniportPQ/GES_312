@@ -1,13 +1,23 @@
-
-```
-
-
-
-
-Here is the JSON array for the questions you provided. Each question has been broken down, rephrased for clarity, and includes a detailed explanation suitable for new learners.
-
-```json
 [
+  
+  
+  
+  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Peace and Conflicts Resolution",
+    "code": "GES 312",
+    "session": "Unit 9",
+    "topics": ["Conflict Transformation", "Peacebuilding", "Conflict Resolution", "Key Scholars", "Definitions", "Conflict Theory", "Conflict Dynamics", "Mediation", "Goals of Peacebuilding", "Ethics in Intervention", "Do No Harm", "Peace Agreements", "Sustainability", "Johan Galtung", "Key Models", "Post-Conflict Reconstruction", "Structural Violence", "Reconciliation", "Post-Conflict", "Communication", "Conflict Prevention", "Culture", "Dialogue", "Transitional Justice", "Governance", "Community Development", "Gender", "Inclusion", "Peacekeeping", "Conflict Management", "Conflict Analysis", "Conflict", "Violence", "Peace Studies", "Peace Education", "Humanitarianism", "NGOs", "Peace Economics", "Conflict Escalation"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  
+  
+  
   {
     "type": "Question",
     "name": "Question 411",
@@ -329,12 +339,7 @@ Here is the JSON array for the questions you provided. Each question has been br
       "type": "string",
       "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Meaning of Reconciliation</h4>\n <p>The correct answer is <strong>A (Reconciliation)</strong>.</p>\n <p>Reconciliation is a deep, long-term process focused on the human dimension of peace. It involves transforming relationships from a state of fear, hatred, and dehumanization to one of mutual respect, acceptance, and cooperation. It often involves processes like truth-telling, acknowledging past harms, and finding ways to coexist peacefully. It is distinct from reconstruction (rebuilding physical infrastructure) or retaliation (getting revenge).</p>\n </div>"
     }
-  }
-]
-```
-
-```json
-[
+  },
   {
     "type": "Question",
     "name": "Question 425",
@@ -624,4 +629,3 @@ Here is the JSON array for the questions you provided. Each question has been br
     }
   }
 ]
-

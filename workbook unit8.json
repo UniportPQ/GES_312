@@ -1,8 +1,20 @@
-
-
-
-```json
 [
+  
+  
+  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Peace and Conflicts Resolution",
+    "code": "GES 312",
+    "session": "Unit 8",
+    "topics": ["Definitions", "Culture", "Gender", "Conflict", "Stereotypes", "Conflict Resolution", "Sociology", "Ethics", "Violence", "Equality", "Interpersonal Relationships", "Diversity", "Mediation", "Gender Studies", "Discrimination", "Social Justice", "Psychology", "Policy", "Communication", "Inequality", "Intercultural Relations", "Values", "Management", "Adaptation", "Human Rights", "Innovation", "Tolerance", "Empowerment"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  
   {
     "type": "heading",
     "heading": "Culture, Gender and Conflict",
@@ -397,14 +409,7 @@
       "type": "string",
       "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Role of Mediation</h4>\n <p>The correct answer is <strong>A neutral third party guiding discussion</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>A Key Tool for Resolution</strong><br>\n Mediation is a voluntary process where a neutral, impartial third party (the mediator) helps people in conflict communicate effectively and reach their own mutually acceptable agreement. The mediator does not:\n <ul>\n <li>Judge who is right or wrong.</li>\n <li>Make a decision for the parties.</li>\n <li>Take sides.</li>\n </ul>\n Instead, the mediator facilitates the conversation, helps clarify issues, and explores options for a solution that works for everyone involved. It's a constructive alternative to fighting or avoidance.\n </div>\n</div>"
     }
-  }
-]
-```
-
-
-
-```json
-[
+  },
   {
     "type": "Question",
     "name": "Question 396",
